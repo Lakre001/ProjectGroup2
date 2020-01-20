@@ -1,0 +1,978 @@
+,Google Places ID,Name,Latitude,Longitude,Address,Rating,Reviews
+0,ChIJN2-3wpQys1IRK9G73sv97zg,Butcher & The Boar,44.97476349999999,-93.2798227,"1121 Hennepin Ave, Minneapolis, MN 55403, United States",4.6,2078
+1,ChIJBcDbP4oys1IRg97QGrkjtH8,Bar La Grassa,44.9894213,-93.27858189999999,"800 N Washington Ave, Minneapolis, MN 55401, United States",4.7,1397
+2,ChIJ6ZJ3YYUys1IRihzyYe0WiGs,112 Eatery,44.982555,-93.2717606,"112 N 3rd St, Minneapolis, MN 55401, United States",4.7,968
+3,ChIJD0SgSFIm9ocRdLlVXKBGwMU,George and the Dragon,44.9121575,-93.2903128,"813 W 50th St, Minneapolis, MN 55419, United States",4.7,1211
+4,ChIJpQmgMoQys1IRID1e5YB8eMo,Spoon and Stable,44.9855557,-93.2695026,"211 N 1st St, Minneapolis, MN 55401, United States",4.7,1496
+5,ChIJpcQ6D5cys1IRGIkZfb0UOUg,Hell's Kitchen Inc.,44.9746041,-93.2726866,"80 S 9th St, Minneapolis, MN 55402, United States",4.4,4651
+6,ChIJEWROdcIm9ocRbZQ9Buq-07w,Pizzeria Lola,44.9018152,-93.3186121,"5557 Xerxes Ave S, Minneapolis, MN 55410, United States",4.7,1987
+7,ChIJ-SDIlncts1IRxlaSi4Kah2c,Brasa Premium Rotisserie,44.9895177,-93.25131069999999,"600 E Hennepin Ave, Minneapolis, MN 55414, United States",4.6,1570
+8,ChIJzxizBYUys1IRDx_NN0FVbNE,Red Cow North Loop,44.9836476,-93.26968219999999,"208 N 1st Ave, Minneapolis, MN 55401, United States",4.6,2759
+9,ChIJSRQF5JYys1IRrrRbQLTgvAY,Zelo,44.9750621,-93.27361200000001,"831 Nicollet Mall, Minneapolis, MN 55402, United States",4.6,1310
+10,ChIJN11Koewn9ocR0R1l7NmJzgw,Hola Arepa,44.9393396,-93.2773965,"3501 Nicollet Ave, Minneapolis, MN 55408, United States",4.7,2083
+11,ChIJHa80f2sxs1IRSAlqsByPiLY,Surly Brewing Co.,44.9729768,-93.20981830000001,"520 Malcolm Ave SE, Minneapolis, MN 55414, United States",4.6,2733
+12,ChIJgzapGhIo9ocR1q6nNH0J_Xw,Matt's Bar and Grill,44.9394238,-93.2476291,"3500 Cedar Ave, Minneapolis, MN 55407, United States",4.6,4007
+13,ChIJVzJHwects1IRCH2IDUp3TB8,Chimborazo,45.020258,-93.24712509999999,"2851 Central Ave NE, Minneapolis, MN 55418, United States",4.7,1819
+14,ChIJlzITYRcn9ocRcMEfy0kSJWo,Martina,44.9241805,-93.3149508,"4312 S Upton Ave, Minneapolis, MN 55410, United States",4.7,757
+15,ChIJzbVUc3cys1IRlkHiv5QwsJ4,Young Joni,45.0010152,-93.2666647,"165 13th Ave NE, Minneapolis, MN 55413, United States",4.7,2044
+16,ChIJWUEQhb8ys1IRjCHmPOynASE,Lotus Restaurant,44.9697277,-93.2800635,"113 W Grant St, Minneapolis, MN 55403, United States",4.5,963
+17,ChIJezc5_ccn9ocRKVr4ys-Wr24,Revival,44.9251909,-93.27772780000001,"4257 Nicollet Ave, Minneapolis, MN 55409, United States",4.6,2016
+18,ChIJHy8F99gm9ocRhsE2G9980c0,Red Cow 50th & France,44.912705,-93.32613970000001,"3624 W 50th St, Minneapolis, MN 55410, United States",4.6,2053
+19,ChIJLcnbWPUn9ocRVs-QNcHcrzQ,Quang Restaurant,44.9530805,-93.27772949999999,"2719 Nicollet Ave, Minneapolis, MN 55408, United States",4.5,2346
+20,ChIJ7dLdhvUn9ocRPXMER9aINWM,My Huong Kitchen,44.9530867,-93.2783175,"2718 Nicollet Ave #101B, Minneapolis, MN 55408, United States",4.7,289
+21,ChIJf-_gs1Axs1IRhRGK48IiJa4,Travail Kitchen and Amusements,44.9632323,-93.2914428,"1930 Hennepin Ave, Minneapolis, MN 55403, United States",4.8,592
+22,ChIJRa9-DJcys1IRScFQpyzdZPQ,Manny's Steakhouse,44.9744696,-93.2722491,"825 S Marquette Ave, Minneapolis, MN 55402, United States",4.6,2004
+23,ChIJ3XUlLeMm9ocRRuII1slIOIo,Broders' Pasta Bar,44.912055,-93.309141,"5000 Penn Ave S, Minneapolis, MN 55419, United States",4.7,853
+24,ChIJwWRLgIUys1IRvutxO0SIWGA,Red Rabbit Minneapolis,44.9836941,-93.27174579999999,"201 N Washington Ave, Minneapolis, MN 55401, United States",4.6,1511
+25,ChIJ9TrI_8Eys1IR2Uezdwm3nmg,Café and Bar Lurcat,44.97128,-93.2862,"1624 Harmon Pl, Minneapolis, MN 55403, United States",4.6,778
+26,ChIJQd6o-ZMys1IRq6HVpHwel-Y,The Capital Grille,44.9769367,-93.2759331,"801 Hennepin Ave, Minneapolis, MN 55402, United States",4.7,894
+27,ChIJM75Ao3Ets1IRftCVbIP51eY,Alma,44.983884,-93.248088,"528 University Ave SE, Minneapolis, MN 55414, United States",4.6,1176
+28,ChIJE3kxG5Eys1IRbB_gCwewckY,Fogo de Chão Brazilian Steakhouse,44.9780575,-93.27420769999999,"645 Hennepin Ave, Minneapolis, MN 55403, United States",4.5,3915
+29,ChIJAzVY9b0n9ocR4J7ffirBPLI,Victor's 1959 Cafe,44.9342328,-93.2846924,"3756 Grand Ave S, Minneapolis, MN 55409, United States",4.7,1477
+30,ChIJj2Sea4kys1IR8FbtTsPKoug,Smack Shack,44.986801,-93.27640099999999,"603 N Washington Ave, Minneapolis, MN 55401, United States",4.5,2295
+31,ChIJOZq5gCsts1IRsVtrCfY7zXA,Birchwood Cafe,44.957235,-93.223421,"3311 East 25th Street, Minneapolis, MN 55406, United States",4.6,1633
+32,ChIJvdIP0X4n9ocR0M9tMj3o2TU,Lake & Irving Restaurant & Bar,44.9482522,-93.3015966,"1513 W Lake St, Minneapolis, MN 55408, United States",4.7,540
+33,ChIJz_r2I4Qys1IRcsfV5jGwVY8,The Bachelor Farmer,44.9856718,-93.2689168,"50 N 2nd Ave, Minneapolis, MN 55401, United States",4.6,778
+34,ChIJrztXQWIts1IRwvGBsxcgCnU,Zen Box Izakaya,44.9783838,-93.2595448,"602 S Washington Ave, Minneapolis, MN 55415, United States",4.5,1180
+35,ChIJr03h2Jkys1IREtlw7i5kytw,Hen House Eatery,44.9750615,-93.2706311,"114 S 8th St, Minneapolis, MN 55402, United States",4.5,2766
+36,ChIJ8_mZkhEts1IRiFtvRB5u5iM,Al's Breakfast,44.9810593,-93.2356508,"413 14th Ave SE, Minneapolis, MN 55414, United States",4.7,971
+37,ChIJQ_vdcyQo9ocR2N-hul49a2I,Town Talk Diner & Gastropub,44.94811989999999,-93.23277790000002,"2707 E Lake St, Minneapolis, MN 55406, United States",4.6,266
+38,ChIJN8U6ktoys1IRj_PB_C-e0_0,Burch Steak,44.9630224,-93.2916601,"1933 Colfax Ave S, Minneapolis, MN 55403, United States",4.5,822
+39,ChIJEa33Aogn9ocRa86tLqTjRv0,World Street Kitchen,44.9525952,-93.28783589999999,"2743 Lyndale Ave S #5, Minneapolis, MN 55408, United States",4.6,1174
+40,ChIJ8fv1whkn9ocR6HUhb-sWe84,Patisserie 46,44.9197694,-93.28481090000001,"4552 Grand Ave S, Minneapolis, MN 55419, United States",4.7,767
+41,ChIJn2cpm9Ays1IRVif4cw18GcA,The Lowry,44.9615287,-93.2926604,"2112 Hennepin Ave, Minneapolis, MN 55405, United States",4.4,1807
+42,ChIJv4aZ5Xcys1IROxn69iX4l_w,The Anchor Fish & Chips,45.0007262,-93.26434909999999,"302 13th Ave NE, Minneapolis, MN 55413, United States",4.7,1612
+43,ChIJ1xiNvZkn9ocRKa1jwKIZ4ck,Our Kitchen,44.9375542,-93.2902022,"813 W 36th St, Minneapolis, MN 55408, United States",4.7,567
+44,ChIJ0VzpYiUzs1IRdw4ZxQGotR0,The Kenwood Restaurant,44.9616468,-93.3079693,"2115 W 21st St, Minneapolis, MN 55405, United States",4.6,433
+45,ChIJkwXEURcn9ocRhjBpeQz3yPA,Tilia,44.9246358,-93.3141271,"2726 W 43rd St, Minneapolis, MN 55410, United States",4.6,601
+46,ChIJ02_O-ngts1IRNDRHYVqX6kY,Gorkha Palace,44.9892628,-93.2550772,"23 4th St NE, Minneapolis, MN 55414, United States",4.6,774
+47,ChIJR2GAy34ts1IRyfUe8wxC_i0,Kramarczuk Sausage Company,44.9878093,-93.2572948,"215 E Hennepin Ave, Minneapolis, MN 55414, United States",4.7,2062
+48,ChIJwQzEd80ys1IRMqr4uqdRbUM,French Meadow Bakery & Cafe,44.95499,-93.288477,"2610 Lyndale Ave S, Minneapolis, MN 55408, United States",4.5,2100
+49,ChIJ8dlFFIkys1IRlWsLIEd2EB8,Black Sheep Coal Fired Pizza,44.9872212,-93.2758257,"600 N Washington Ave, Minneapolis, MN 55401, United States",4.5,1074
+50,ChIJR7mcJVwn9ocRJ9cEEU23_C8,Wakame Sushi & Asian Bistro,44.9468009,-93.32196520000001,"3070 Excelsior Blvd, Minneapolis, MN 55416, United States",4.6,1137
+51,ChIJPeULrests1IRwHECsj8P_ic,El Taco Riendo,45.0126643,-93.24755549999999,"2412 Central Ave NE, Minneapolis, MN 55418, United States",4.6,1543
+52,ChIJwQMAd8DLj4ARxETHpYQPprs,Brit's Pub,44.972818,-93.2759227,"1110 Nicollet Mall, Minneapolis, MN 55403, United States",4.4,3274
+53,ChIJ4S8J0Y8ys1IRmWaq0xTwphg,Pizza Luce,44.98175089999999,-93.2735502,"119 N 4th St, Minneapolis, MN 55401, United States",4.4,2108
+54,ChIJLxPhMfUts1IRSGFlQ7usiVI,Hai Hai,45.0098593,-93.2628864,"2121 University Ave NE, Minneapolis, MN 55418, United States",4.5,1423
+55,ChIJBfieZbUys1IRk3L8N5y7-gI,Lu's Sandwiches,44.954834,-93.27806900000002,"2624 Nicollet Ave, Minneapolis, MN 55408, United States",4.5,620
+56,ChIJeYxxjZAys1IRRei-3G2fPuo,Murray's,44.97846639999999,-93.272514,"26 South 6th St, Minneapolis, MN 55402, United States",4.7,942
+57,ChIJ4ft0WZQts1IR2lpdC3AxMFM,Maya Cuisine,45.0074182,-93.2478287,"1840 Central Ave NE, Minneapolis, MN 55418, United States",4.5,1435
+58,ChIJEZL-o9Yys1IRlL28jEVsYaA,Rinata Restaurant,44.9575651,-93.29510789999999,"2451 Hennepin Ave S, Minneapolis, MN 55405, United States",4.6,294
+59,ChIJ6WZ_Jooys1IRr9VAAy6FY-8,Parlour,44.9887376,-93.2779944,"730 N Washington Ave, Minneapolis, MN 55401, United States",4.6,594
+60,ChIJWQwWOYoys1IRpXazSG4jUI8,The Freehouse,44.9875643,-93.2771578,"701 N Washington Ave #101, Minneapolis, MN 55401, United States",4.4,762
+61,ChIJI2VFTF4n9ocRFaxrEh7m4ZI,Punch Pizza Lake Calhoun,44.9493672,-93.3204621,"3226 W Lake St, Minneapolis, MN 55416, United States",4.7,494
+62,ChIJH1cpmoQo9ocR-z7wImMRsIQ,Hot Plate,44.90863299999999,-93.2527806,"5204 Bloomington Ave, Minneapolis, MN 55417, United States",4.6,1068
+63,ChIJHy_yjrUys1IRAzB3aslEuQc,Icehouse,44.9563234,-93.2780612,"2528 Nicollet Ave, Minneapolis, MN 55404, United States",4.5,1216
+64,ChIJt344xtots1IRPkSdD9JJ0WA,Hazel's Northeast,45.0203318,-93.23685809999999,"2859 Johnson St NE, Minneapolis, MN 55418, United States",4.6,1284
+65,ChIJA_Kxljcts1IRSZrdfx4AV3c,Himalayan Restaurant,44.9486239,-93.2294357,"2910 E Lake St, Minneapolis, MN 55406, United States",4.6,1157
+66,ChIJid5-x9Mp9ocRa8O-g-WPPRQ,Hi-Lo Diner,44.9485906,-93.2142949,"4020 E Lake St, Minneapolis, MN 55406, United States",4.4,2100
+67,ChIJfeuNWH8n9ocRNU0aPGHo0ZE,Chino Latino,44.9486652,-93.29858530000001,"2916 Hennepin Ave S, Minneapolis, MN 55408, United States",4.3,1687
+68,ChIJb-y0LxIts1IRkAVWijtbakE,Lands End Pasty Company,44.98036,-93.236701,"1316 4th St SE, Minneapolis, MN 55414, United States",4.8,220
+69,ChIJUwlN-scn9ocRtDZXalhHYw4,The Lowbrow,44.9254441,-93.27812349999999,"4244 Nicollet Ave, Minneapolis, MN 55409, United States",4.6,945
+70,ChIJSQDzWBcn9ocRheXCuSwGuTI,Clancey's Meats & Fish,44.9242532,-93.31451849999999,"4307 S Upton Ave, Minneapolis, MN 55410, United States",4.7,84
+71,ChIJK9Rafb8ys1IR2v_2CTBUQkI,Eggy's Minneapolis,44.9689103,-93.28049039999999,"120 W 14th St, Minneapolis, MN 55403, United States",4.3,1021
+72,ChIJQ4xle0kn9ocRO1-nnnqwuoo,Colita,44.9048458,-93.3090625,"5400 Penn Ave S, Minneapolis, MN 55419, United States",4.9,464
+73,ChIJf1n8xn4n9ocRUHMBvMoEqpo,Barbette,44.948526,-93.30223149999999,"1600 W Lake St, Minneapolis, MN 55408, United States",4.4,869
+74,ChIJdy0aR84ys1IR22yWTLPCROs,Muddy Waters Bar & Eatery,44.9492252,-93.2877031,"2933 Lyndale Ave S, Minneapolis, MN 55408, United States",4.5,1003
+75,ChIJ--7w-b0n9ocRzUp3P3pA170,Rincón 38,44.93399369999999,-93.2842075,"3801 Grand Ave S, Minneapolis, MN 55409, United States",4.6,309
+76,ChIJ81Dib5Ays1IRcvAyEzLFuEI,Trieste Cafe,44.9797008,-93.2717741,"10 S 5th St #9, Minneapolis, MN 55402, United States",4.8,229
+77,ChIJoyoHjnkys1IR44-5_FWgKJE,Element Wood Fire Pizza,44.9985699,-93.26774209999999,"96 Broadway St NE, Minneapolis, MN 55413, United States",4.8,545
+78,ChIJNxUO8b0n9ocRj2ctbzbteK0,Grand Cafe,44.9338237,-93.2846556,"3804 Grand Ave S, Minneapolis, MN 55409, United States",4.6,341
+79,ChIJLdMuKesys1IRgX_Gi67kXP8,Eli's Food & Cocktails,44.9742142,-93.2813383,"1225 Hennepin Ave, Minneapolis, MN 55403, United States",4.5,476
+80,ChIJr1zDbXgts1IRT5J8JwHX_gw,The Herbivorous Butcher,44.9902963,-93.25369119999999,"507 1st Ave NE, Minneapolis, MN 55413, United States",4.7,419
+81,ChIJe18Tmogn9ocR7UpRi67Wfz8,Galactic Pizza,44.9496798,-93.2879102,"2917 Lyndale Ave S, Minneapolis, MN 55408, United States",4.4,563
+82,ChIJGc6O1P0n9ocRTPScIPfrpqI,Moroccan Flavors,44.9486757,-93.26074109999999,"920 E Lake St, Minneapolis, MN 55407, United States",4.8,106
+83,ChIJfwvuBRIts1IRcpts2oh9EEw,Kbop Korean Bistro,44.9819536,-93.23674199999999,"425 13th Ave SE, Minneapolis, MN 55414, United States",4.5,523
+84,ChIJH_hJhLUys1IREHKJeUHmkYY,Eat Street Social,44.9556695,-93.27840739999999,"18 W 26th St, Minneapolis, MN 55404, United States",4.5,661
+85,ChIJe65JKnkts1IRVX6b0sldzII,PinKU Japanese Street Food,44.9885512,-93.257059,"20 University Ave NE, Minneapolis, MN 55413, United States",4.6,505
+86,ChIJ40xGEFcn9ocROdMRIYmWDRY,yum! Kitchen and Bakery,44.948616,-93.33057,"4000 Minnetonka Blvd #4127, Minneapolis, MN 55416, United States",4.5,961
+87,ChIJnZvZIAwys1IRaJ44-1EcE0s,Psycho Suzi's Motor Lounge,45.0074918,-93.2723888,"1900 Marshall St NE, Minneapolis, MN 55418, United States",4.2,3730
+88,ChIJ2VBJNHkts1IREfi84Jwd-0s,Punch Pizza Northeast,44.9875163,-93.2568974,"210 E Hennepin Ave, Minneapolis, MN 55414, United States",4.7,785
+89,ChIJmwWYkoEn9ocRRN4pdA7cUwo,Stella's Fish Café & Prestige Oyster Bar,44.9486711,-93.2973159,"1400 W Lake St, Minneapolis, MN 55408, United States",4.1,2226
+90,ChIJdXfmZs0ys1IRjq5736bcCgs,The Lynhall,44.9541376,-93.28846159999999,"2640 Lyndale Ave S, Minneapolis, MN 55408, United States",4.5,827
+91,ChIJZdv4Xpcys1IRYfc8uoIWoOs,Sushi Takatsu,44.9755634,-93.27101359999999,"733 S Marquette Ave, Minneapolis, MN 55402, United States",4.9,270
+92,ChIJ0xGbJ5Eys1IRMds_fHqoRj0,FireLake Grill House & Cocktail Bar,44.9772561,-93.27371439999999,"31 S 7th St, Minneapolis, MN 55402, United States",4.1,263
+93,ChIJF9KF6rUys1IR-R8tR4VCnL0,The Copper Hen Cakery & Kitchen,44.9566701,-93.27751789999999,"2515 Nicollet Ave, Minneapolis, MN 55404, United States",4.3,520
+94,ChIJe8Jz3ukm9ocRotVqCuezzs8,Cave Vin,44.9018789,-93.31848169999999,"5555 Xerxes Ave S, Minneapolis, MN 55410, United States",4.7,162
+95,ChIJMYwGzL8ys1IR3HOaQldAnW4,The Oceanaire Seafood Room,44.97814959999999,-93.2717243,"50 South 6th St, Minneapolis, MN 55402, United States",4.4,806
+96,ChIJJSqBkrUys1IRcmQenwl6bY0,Pimento Jamaican Kitchen,44.9564408,-93.27805409999999,"2524 Nicollet Ave, Minneapolis, MN 55404, United States",4.5,1168
+97,ChIJQYmOj80ys1IRWQVWzqffD6E,Common Roots Cafe,44.955733,-93.288355,"2558 Lyndale Ave S, Minneapolis, MN 55405, United States",4.4,568
+98,ChIJX77Drvwn9ocRw5H5MQNMvig,Modern Times,44.944621,-93.2628817,"3200 Chicago Ave, Minneapolis, MN 55407, United States",4.6,625
+99,ChIJeV3uEKEys1IRo8n3apIhfGo,Band Box Diner,44.9690429,-93.26345030000002,"729 S 10th St, Minneapolis, MN 55404, United States",4.6,578
+100,ChIJ2ac5LYoys1IR0OcTJy8DiRc,Borough,44.988794,-93.277838,"730 N Washington Ave, Minneapolis, MN 55401, United States",4.6,512
+101,ChIJse3VlbUys1IRy3MSgozQXuo,Pho 79,44.9563285,-93.2775429,"2529 Nicollet Ave, Minneapolis, MN 55404, United States",4.3,711
+102,ChIJARfxCtUys1IRVISzEMVEPqI,Red Cow Uptown,44.9547639,-93.29747689999999,"2626 Hennepin Ave, Minneapolis, MN 55408, United States",4.6,1299
+103,ChIJcTNtvuwxs1IR9TPBkW7zPRs,FireBox Deli,45.0406179,-93.2874126,"4707 Lyndale Ave N, Minneapolis, MN 55430, United States",4.6,853
+104,ChIJHUdVd7Uys1IRPB_28ufQ93E,Peninsula Malaysian Cuisine,44.9551163,-93.27822610000001,"2608 Nicollet Ave, Minneapolis, MN 55408, United States",4.4,696
+105,ChIJTSGePpoys1IROStgCCmBfE0,Allie's Deli & Catering,44.9773676,-93.269656,"527 S Marquette Ave #205, Minneapolis, MN 55402, United States",4.8,122
+106,ChIJM4Q_E3gts1IRdfkFZlFBvCw,Red Stag Supperclub,44.9903389,-93.2535705,"509 1st Ave NE, Minneapolis, MN 55413, United States",4.3,812
+107,ChIJhTTAOeots1IRHbD1noNOwKU,Holy Land,45.0138279,-93.2471276,"2513 Central Ave NE, Minneapolis, MN 55418, United States",4.5,2656
+108,ChIJA0QhW0Ets1IRNP8Kas5fdBY,Afro Deli & Grill: Minneapolis,44.9735263,-93.2277723,"720 Washington Ave SE, Minneapolis, MN 55414, United States",4.6,547
+109,ChIJQVBT0ewn9ocRcgrTHyMi5VI,Ramen Kazama,44.9412064,-93.2781315,"3400 Nicollet Ave, Minneapolis, MN 55408, United States",4.5,995
+110,ChIJTUHer2Io9ocR9mQLEPclw8g,ie - Italian Eatery,44.9172049,-93.24776179999999,"4724 Cedar Ave, Minneapolis, MN 55407, United States",4.6,965
+111,ChIJScokAsAn9ocRj9VZ_IsRrMc,Kyatchi,44.9343347,-93.2781296,"3758 Nicollet Ave, Minneapolis, MN 55409, United States",4.6,698
+112,ChIJO4Ff5d8n9ocRMW9JwS44QEA,The Tiny Diner,44.9344457,-93.2590032,"1024 E 38th St, Minneapolis, MN 55407, United States",4.5,1298
+113,ChIJJ-hNCson9ocRvnKjgGn2pWc,Sun Street Breads,44.9194402,-93.2782173,"4600 Nicollet Ave, Minneapolis, MN 55419, United States",4.7,404
+114,ChIJc0yeAeoys1IRuMxu6Z9BHg0,4 Bells,44.971576,-93.28539149999999,"1610 Harmon Pl, Minneapolis, MN 55403, United States",4.4,663
+115,ChIJ1c1n_kYn9ocRSs2E2oTK7kA,Boludo,44.934366,-93.277608,"3749 Nicollet Ave, Minneapolis, MN 55409, United States",4.6,261
+116,ChIJdb1JHMAn9ocRcub27hEB5d8,Nighthawks Diner & Bar,44.9342728,-93.2776798,"3753 Nicollet Ave, Minneapolis, MN 55409, United States",4.4,748
+117,ChIJCZ_XDRgts1IRRR-YhQHQ2zg,Day Block Brewing Company,44.975189,-93.253061,"1105 S Washington Ave, Minneapolis, MN 55415, United States",4.3,444
+118,ChIJpbuisusts1IR8hK-qSy-DY8,Sen Yai Sen Lek Thai,45.012899,-93.2475625,"2422 Central Ave NE, Minneapolis, MN 55418, United States",4.6,572
+119,ChIJ5RLJH_Am9ocRtHcfcIrr080,Red Wagon Pizza Company,44.9046047,-93.3089353,"5416 Penn Ave S, Minneapolis, MN 55419, United States",4.6,752
+120,ChIJXTpHnJsys1IRvHkDQwJPGXE,Kieran's Irish Pub,44.9791315,-93.27469180000001,"85 N 6th St, Minneapolis, MN 55403, United States",4.4,1678
+121,ChIJY9rrl80ys1IRbpNVBmdTr5g,Nightingale,44.955787,-93.28768900000001,"2551 Lyndale Ave S, Minneapolis, MN 55405, United States",4.6,658
+122,ChIJ2yzEpCQn9ocRBA_x83sx8X0,Penny's Coffee,44.9811877,-93.2659307,"100 S Washington Ave, Minneapolis, MN 55401, United States",4.5,308
+123,ChIJ4ysuvpcys1IRoKM9rns-Gl0,Ruth's Chris Steak House,44.973085,-93.27223959999999,"920 2nd Ave S Suite 100, Minneapolis, MN 55402, United States",4.6,979
+124,ChIJYyxjnpcys1IRep2-027ZZCo,Keys At The Foshay,44.9742075,-93.2717682,"114 S 9th St, Minneapolis, MN 55402, United States",4.3,859
+125,ChIJiWW7oOAn9ocRdTRSjJpMG4Y,Smoke in the Pit,44.934949,-93.262284,"3733 Chicago Ave, Minneapolis, MN 55407, United States",4.4,380
+126,ChIJGahwf6Un9ocRlOepHD_kLUY,Tenant Restaurant,44.9248967,-93.2910222,"4300 Bryant Ave S, Minneapolis, MN 55409, United States",4.9,234
+127,ChIJIxHJx0Mts1IRlGMFZ_q61xo,HardTimes Cafe,44.969589,-93.24622699999999,"1821 Riverside Ave, Minneapolis, MN 55454, United States",4.5,1247
+128,ChIJO9g9TXAm9ocRvfNgvQ5TWrk,Lyn 65,44.88595,-93.286386,"6439 Lyndale Ave S, Minneapolis, MN 55423, United States",4.5,565
+129,ChIJXapw0Qwys1IRTSt-A9SR_WE,The Sample Room,45.0095521,-93.27198779999999,"2124 Marshall St NE, Minneapolis, MN 55418, United States",4.5,647
+130,ChIJSwT_s9Uys1IR6kJWA_r0BP0,India Palace Uptown,44.9561234,-93.2971898,"2546 Hennepin Ave, Minneapolis, MN 55405, United States",4.4,612
+131,ChIJf4wvBHkts1IRhtOnKm2VUCI,Masu Sushi & Robata,44.988271,-93.254998,"330 E Hennepin Ave, Minneapolis, MN 55414, United States",4.5,1102
+132,ChIJv4agVr0o9ocRu3CeixxwSWg,5-8 Club,44.8977282,-93.2478849,"5800 Cedar Ave, Minneapolis, MN 55417, United States",4.4,2029
+133,ChIJVXCeGQsk9ocRKt0Dqh1wBwU,Ike's Food & Cocktails,44.85943289999999,-93.33552660000001,"4400 W 78th St, Bloomington, MN 55435, United States",4.1,417
+134,ChIJV_UZqIgn9ocRNhDgH9Uxtfk,Moto-i,44.948685,-93.2883259,"2940 Lyndale Ave S, Minneapolis, MN 55408, United States",4.5,1640
+135,ChIJb0hUeqots1IRBdpaXkAoTt8,Up Cafe and Up Coffee Roasters,44.9926487,-93.2252168,"1901 Traffic St NE, Minneapolis, MN 55413, United States",4.7,192
+136,ChIJARtcpRgts1IRuWzpGap9Vg4,Bar Luchador,44.9737703,-93.22609729999999,"825 SE Washington Ave, Minneapolis, MN 55414, United States",4.6,552
+137,ChIJVwlEh3kys1IRInyma7g99oM,The 1029 Bar,44.99811099999999,-93.26828239999999,"1029 Marshall St NE, Minneapolis, MN 55413, United States",4.5,983
+138,ChIJ-SOeFQsys1IRcKc0o-VqLD0,Mojo Coffee Gallery,45.0103361,-93.2684148,"2205 California St NE, Minneapolis, MN 55418, United States",4.7,537
+139,ChIJJWL3JRIts1IRO3_X_4mrE2Q,Shuang Cheng,44.9805708,-93.2363797,"1320 4th St SE, Minneapolis, MN 55414, United States",4.4,726
+140,ChIJHTq8udUys1IRZk9xcbZ6rms,Uptown Diner,44.9557599,-93.2970305,"2548 Hennepin Ave, Minneapolis, MN 55405, United States",4.4,1961
+141,ChIJj4O4rests1IRAGSVdLE8Dxw,Costa Blanca Bistro,45.0127607,-93.2476445,"2416 Central Ave NE, Minneapolis, MN 55418, United States",4.6,245
+142,ChIJHXA1KXgts1IROYIBdIUO_t0,Wilde Cafe & Spirits,44.9856922,-93.2578114,"65 SE Main St, Minneapolis, MN 55414, United States",4.4,848
+143,ChIJzwHFqXgn9ocRNKJKuLayNlo,Amazing Thailand,44.947434,-93.298712,"3024 Hennepin Ave, Minneapolis, MN 55408, United States",4.1,1054
+144,ChIJP5PlWJYys1IR9xGt14losbI,Barrio,44.97417129999999,-93.2741606,"925 Nicollet Mall, Minneapolis, MN 55402, United States",4.4,947
+145,ChIJRfrC7BEts1IRsCl6tk0Df2k,Wally's Falafel and Hummus,44.9812238,-93.2355903,"423 14th Ave SE, Minneapolis, MN 55414, United States",4.4,987
+146,ChIJ-3hsbkgts1IRypSzFa86uyQ,Pizza Luce,44.962987,-93.24044490000001,"2200 E Franklin Ave, Minneapolis, MN 55404, United States",4.4,1067
+147,ChIJDfTPaI8ys1IRW5hoIHCSUDo,J.D. Hoyt's Supper Club,44.9844411,-93.2728063,"301 N Washington Ave, Minneapolis, MN 55401, United States",4.6,708
+148,ChIJYVLys0Qo9ocRDNAYwYq45XU,Buster's On 28th,44.9266351,-93.23247429999999,"4204 S 28th Ave, Minneapolis, MN 55406, United States",4.5,855
+149,ChIJ2XHo_Kwys1IRN8hz75wCo9E,Fika,44.9547332,-93.2660575,"2600 Park Ave, Minneapolis, MN 55407, United States",4.5,132
+150,ChIJWXJFzWkts1IRc_B_voNR6xY,Town Hall Brewery,44.9733315,-93.2477857,"1430 S Washington Ave, Minneapolis, MN 55454, United States",4.5,1010
+151,ChIJa5VzZYgts1IRADlz8GI2s5k,Northeast Social,45.0010166,-93.261712,"359 13th Ave NE, Minneapolis, MN 55413, United States",4.5,362
+152,ChIJ64M8T5oys1IRrAp5W90SJdA,Mercury Dining Room and Rail,44.97797,-93.26929899999999,"505 S Marquette Ave, Minneapolis, MN 55402, United States",4.4,748
+153,ChIJoWZ_KXgts1IROrKoK6_csSc,Spitz - Minneapolis,44.9891059,-93.2524597,"518 E Hennepin Ave, Minneapolis, MN 55414, United States",4.6,708
+154,ChIJm5eekbUys1IRaNDt5rsu7_s,Jasmine Deli,44.9562561,-93.2780444,"2532 Nicollet Ave, Minneapolis, MN 55404, United States",4.7,143
+155,ChIJhbI677Mn9ocRomlyuvUgta8,Cafe Ena,44.91945,-93.28423289999999,"4601 Grand Ave S, Minneapolis, MN 55419, United States",4.6,425
+156,ChIJSxJsKk4ys1IRHgzZYZtmhEU,Breaking Bread Café,44.9993442,-93.2960969,"1210 W Broadway Ave, Minneapolis, MN 55411, United States",4.5,364
+157,ChIJ0SR-dyQo9ocRm8_bHh5MUyk,Gandhi Mahal Restaurant,44.9479224,-93.23294949999999,"3009 27th Ave S, Minneapolis, MN 55406, United States",4.3,892
+158,ChIJHStNzQ8ts1IRVzRXMG-q5Ok,Le Pot Chinese Hotpot 乐涮小火锅,44.9818682,-93.234944,"507 14th Ave SE, Minneapolis, MN 55414, United States",4.4,326
+159,ChIJPzOlXYEn9ocRfOjKng5EQ_U,Darbar India Grill & Bar,44.94819,-93.295003,"1221 W Lake St #106, Minneapolis, MN 55408, United States",3.9,382
+160,ChIJm5bPRU4n9ocRtDxZ9Ug7JiM,Seed Plant-Based Cafe,44.9486219,-93.3221217,"3252 W Lake St, Minneapolis, MN 55416, United States",4.6,122
+161,ChIJhZeiKPUn9ocR0HBBX1y8R3k,Pho Tau Bay,44.9507441,-93.2777177,"2837 Nicollet Ave, Minneapolis, MN 55408, United States",4.3,495
+162,ChIJ82YuUNop9ocRMhJRJLlJXKk,Longfellow Grill,44.948722,-93.2061658,"2990 W River Pkwy, Minneapolis, MN 55406, United States",4.4,1303
+163,ChIJe74VcoQys1IRK9jK3XFMrfI,Kado no Mise,44.9846466,-93.2674674,"33 N 1st Ave, Minneapolis, MN 55401, United States",4.6,334
+164,ChIJfU0Znhgts1IRgVVPjhbh1VY,Kimchi Tofu House,44.9732794,-93.2269362,"307 SE Oak St, Minneapolis, MN 55414, United States",4.6,255
+165,ChIJbUxnWE0o9ocRP2qXL7Qh1Ro,Blue Door Pub Longfellow,44.939803,-93.21302999999999,"3448 42nd Ave S, Minneapolis, MN 55406, United States",4.5,1529
+166,ChIJzSAXTFIm9ocREO9e2x0wjqc,Saint Genevieve,44.9120983,-93.2904927,"5003 Bryant Ave S, Minneapolis, MN 55419, United States",4.5,434
+167,ChIJO0vUunsts1IRl9Dz-4LhB_k,Aster Cafe,44.984615,-93.25505629999999,"125 SE Main St, Minneapolis, MN 55414, United States",4.5,1224
+168,ChIJ4bfpVbUys1IRWCdIMV9AFg8,Ichiddo Ramen Minneapolis,44.953442,-93.2780914,"2710 Nicollet Ave, Minneapolis, MN 55408, United States",4.5,813
+169,ChIJqRo0mRgts1IRHnc1XLejRQU,Punch Pizza Stadium Village,44.97348969999999,-93.2267712,"802 Washington Ave SE, Minneapolis, MN 55414, United States",4.6,562
+170,ChIJ-0VwoxEts1IRsUIGUJ5ktvQ,Pagoda,44.9803718,-93.2347843,"1417 4th St SE, Minneapolis, MN 55414, United States",4.1,762
+171,ChIJQdxqe5co9ocRtpNpifHDHgA,Fat Lorenzos,44.9008359,-93.24770840000001,"5600 Cedar Ave, Minneapolis, MN 55417, United States",4.5,1433
+172,ChIJNxwjJNQys1IRYiQDwoG0XLE,Namaste Cafe,44.95687179999999,-93.2960872,"2512 Hennepin Ave, Minneapolis, MN 55405, United States",4.4,483
+173,ChIJ3SDbVUIts1IRUEMdSgVpAIE,Keefer Court,44.9705466,-93.24754209999999,"326 Cedar Ave, Minneapolis, MN 55454, United States",4.5,203
+174,ChIJwU8vvoots1IRxLP9aHrk9oo,Jax Cafe,45.008368,-93.263395,"1928 University Ave NE, Minneapolis, MN 55418, United States",4.6,1294
+175,ChIJqRmGeoYn9ocROJ_rUgwsy0o,Bryant-Lake Bowl & Theater,44.9485068,-93.29014269999999,"810 W Lake St, Minneapolis, MN 55408, United States",4.4,1197
+176,ChIJRXw8R8on9ocRp1Lg0jK1Phg,Waffle Bar,44.9522343,-93.2886284,"2758 Lyndale Ave S, Minneapolis, MN 55408, United States",4.5,231
+177,ChIJoaYc9IUys1IR2EjkZayEfp4,Moose & Sadie's,44.985328,-93.271571,"212 3rd Ave N #107, Minneapolis, MN 55401, United States",4.5,295
+178,ChIJlxuwEPwn9ocReK4JE6eRSHI,Taqueria Los Ocampo,44.94814299999999,-93.2534518,"1507 E Lake St, Minneapolis, MN 55407, United States",4.1,886
+179,ChIJwyrovpAn9ocRU2gdXJXxoco,Guavas Cuban Cafe,44.9012719,-93.2623526,"5607 Chicago Ave, Minneapolis, MN 55417, United States",4.7,302
+180,ChIJ44k5qA4o9ocRX-OeW8FtATI,May Day Café,44.9398541,-93.2526041,"3440 Bloomington Ave, Minneapolis, MN 55407, United States",4.6,374
+181,ChIJz-xW7hEts1IRjyq8BKoM6ZE,The Cove,44.9815377,-93.23555809999999,"1320 5th St SE, Minneapolis, MN 55414, United States",4.5,226
+182,ChIJ1cGsvn4ts1IR3puvn6kWZbw,The Sonder Shaker,44.9872069,-93.2580867,"130 E Hennepin Ave, Minneapolis, MN 55414, United States",4.6,270
+183,ChIJl2C4U-ots1IRMscIl04OoOE,Khao Hom Thai Restaurant Minneapolis,45.0125956,-93.2471013,"2411 Central Ave NE, Minneapolis, MN 55418, United States",4.5,587
+184,ChIJ1UjNBr9OmYcReXQVUA08v84,Football Pizza,45.012025,-93.247027,"2339 Central Ave NE, Minneapolis, MN 55418, United States",4.3,535
+185,ChIJTQrY1-Im9ocRP29SA13Hf3A,Broders' Cucina Italiana,44.912549,-93.309125,"2308 W 50th St, Minneapolis, MN 55410, United States",4.6,441
+186,ChIJccvNZpYys1IR7YIEi1xj1k4,Dakota,44.973659,-93.275307,"1010 Nicollet Mall, Minneapolis, MN 55403, United States",4.7,1098
+187,ChIJDa4v22kts1IRFhlNq8HTBOM,Republic,44.973203,-93.2469139,"221 Cedar Ave, Minneapolis, MN 55454, United States",4.4,992
+188,ChIJxw-n-ywo9ocRAlTqqVGh0dI,Merlins Rest Pub,44.948077,-93.22021199999999,"3601 E Lake St, Minneapolis, MN 55406, United States",4.6,1281
+189,ChIJlaGOZ7Uys1IRrAeYlUw0O74,Christos Greek Restaurant,44.9543364,-93.27815980000001,"2632 Nicollet Ave, Minneapolis, MN 55408, United States",4.6,634
+190,ChIJz_Zuuasts1IR1JOUBNi7VYs,Zakia Deli,44.994945,-93.226148,"2412 Kennedy St NE, Minneapolis, MN 55413, United States",4.7,535
+191,ChIJFfmM-RIts1IRQfmFPxdBtEc,Olive and Lamb,45.0129488,-93.2637391,"2424 University Ave NE, Minneapolis, MN 55418, United States",4.6,208
+192,ChIJjZvyomEn9ocRYFFtkjX-08Y,Urban Eatery Minneapolis,44.9496634,-93.3150632,"2730 W Lake St, Minneapolis, MN 55416, United States",4.5,376
+193,ChIJtb3_G4In9ocRALb9Y-etTLM,fig + farro,44.9481646,-93.297888,"3001 Hennepin Ave S, Minneapolis, MN 55408, United States",4.4,437
+194,ChIJLaEvihEts1IRA93dH4Hw8DM,Mesa Pizza Dinkytown,44.98087599999999,-93.2361021,"1323 4th St SE, Minneapolis, MN 55414, United States",4.4,590
+195,ChIJXcReboUys1IRjlOj6ldP070,Runyon's,44.9830184,-93.2707087,"107 N Washington Ave, Minneapolis, MN 55401, United States",4.5,619
+196,ChIJzePe7BEts1IR2UlIIn2dfEs,Kafé 421,44.9811881,-93.2356569,"421 14th Ave SE, Minneapolis, MN 55414, United States",4.6,181
+197,ChIJ-6xhdMMzs1IRV02CS3Dfhno,Sushi Train,44.9719015,-93.27691279999999,"1200 Nicollet Mall Suite C3, Minneapolis, MN 55403, United States",4.4,816
+198,ChIJlarheDIts1IRDBmF1PoSQP0,Cafe Racer Kitchen,44.957227,-93.2285448,"2929 East 25th Street, Minneapolis, MN 55406, United States",4.7,343
+199,ChIJSQTEp0Mts1IRvKaWhE_WpY4,Malabari Kitchen Restaurant,44.9695991,-93.2474812,"414 Cedar Ave, Minneapolis, MN 55454, United States",4.4,226
+200,ChIJ-f90LYcts1IRKC0mHGeEU4M,Emily's Lebanese Deli,44.9956283,-93.261461,"641 University Ave NE, Minneapolis, MN 55413, United States",4.7,500
+201,ChIJO-DfSekj9ocRVW3v3M_vlFc,Taco Libre,44.863341,-93.35439339999999,"5125 Edina Industrial Blvd #800, Edina, MN 55439, United States",4.5,1213
+202,ChIJKf8Wj1cts1IRdpFl0XrAPg8,Maria's Cafe,44.96250000000001,-93.25751319999999,"1113 E Franklin Ave, Minneapolis, MN 55404, United States",4.4,700
+203,ChIJHVW0Rpcts1IR3cQrxaJH8xY,Ideal Diner,45.0015611,-93.2475475,"1314 Central Ave NE, Minneapolis, MN 55413, United States",4.7,812
+204,ChIJSThxTRcn9ocRXqRANDTAxMI,The Harriet Brasserie,44.9247001,-93.3138117,"2724 W 43rd St, Minneapolis, MN 55410, United States",4.6,223
+205,ChIJlRClURcn9ocR_g3oE-MZDM0,The Zumbro Cafe,44.9245495,-93.3150708,"2803 W 43rd St, Minneapolis, MN 55410, United States",4.7,222
+206,ChIJP_vqVJAts1IRaq-vuaedgiE,Centro,45.0027337,-93.25141529999999,"1414 Quincy St NE, Minneapolis, MN 55413, United States",4.5,768
+207,ChIJ5edqYJYys1IR4Qs1AHmx7rU,The News Room,44.9741923,-93.2747754,"990 Nicollet Mall, Minneapolis, MN 55403, United States",4.2,1155
+208,ChIJVUyL9I8n9ocRdUQiHwSrfBg,Pizza Lucé Uptown,44.9445074,-93.28871509999999,"3200 Lyndale Ave S, Minneapolis, MN 55408, United States",4.5,1177
+209,ChIJdz9uvJYn9ocRBRrmokpqzqI,Butter Bakery Cafe,44.9357147,-93.2782314,"3700 Nicollet Ave, Minneapolis, MN 55409, United States",4.5,431
+210,ChIJzf8SBhkzs1IR42Wbp5z166c,Cuppa Java,44.973487,-93.3084885,"400 Penn Ave S, Minneapolis, MN 55405, United States",4.7,497
+211,ChIJD1iEd-Qo9ocRRcFCtFb5OMY,Berry Sweet Kitchen,44.905066,-93.223078,"5406 S 34th Ave, Minneapolis, MN 55417, United States",4.5,541
+212,ChIJgZOo1vwm9ocRwvwPh49lpyI,TERZO,44.9122318,-93.3084097,"2221 W 50th St, Minneapolis, MN 55419, United States",4.6,230
+213,ChIJ5-gS_Jkys1IRgn54nkeEZlo,Vellee Deli,44.975914,-93.270344,"109 S 7th St #263, Minneapolis, MN 55402, United States",4.6,225
+214,ChIJZ4DrDpQys1IRkIRoy-3YjGg,Mercy Bar & Dining Room,44.9760722,-93.2769768,"901 Hennepin Ave, Minneapolis, MN 55403, United States",4.3,424
+215,ChIJTUSoczgm9ocRyyY0mR533Lk,Wise Acre Eatery,44.9050032,-93.2776485,"5401 Nicollet Ave, Minneapolis, MN 55419, United States",4.4,629
+216,ChIJuYJNUCsm9ocRZf1o2r9DYvY,Town Hall Tap,44.915762,-93.262925,"4810 Chicago Ave, Minneapolis, MN 55417, United States",4.5,517
+217,ChIJa5MvHAQo9ocRwz8VLNPvBnY,Manny's Tortas,44.9486757,-93.26074109999999,"920 E Lake St #125, Minneapolis, MN 55407, United States",4.7,72
+218,ChIJQ3EW8Jg0s1IR7OcdM-5t8Ns,Good Day Cafe,44.9713286,-93.34822299999999,"5410 Wayzata Blvd, Golden Valley, MN 55416, United States",4.5,2092
+219,ChIJybTlyYgn9ocRjSTnYVTNtD0,Fuji Ya,44.948648,-93.28730000000002,"600 W Lake St, Minneapolis, MN 55408, United States",4.4,509
+220,ChIJKReefAYts1IR4wPZE8Fotzc,Blue Door Pub — University,44.987642,-93.22971179999999,"1514 Como Ave SE, Minneapolis, MN 55414, United States",4.5,1249
+221,ChIJAWe7p0Mts1IRog3IA8d7kTk,Wienery,44.969612,-93.247503,"414 Cedar Ave South, Minneapolis, MN 55454, United States",4.5,194
+222,ChIJWzQMsBgts1IR2HqBkHlWwVI,Raising Cane's Chicken Fingers,44.97375599999999,-93.2258411,"825 Washington Ave SE #103, Minneapolis, MN 55414, United States",4.5,1355
+223,ChIJabo6_5Qts1IRdZnHq6cZrBE,The Mill Northeast,45.0077295,-93.2471109,"1851 Central Ave NE, Minneapolis, MN 55418, United States",4.5,768
+224,ChIJ98y8rRgts1IRhJ7pYYGM32g,Hong Kong Noodle,44.9737385,-93.225506,"901 SE Washington Ave, Minneapolis, MN 55414, United States",4,647
+225,ChIJS7C_Uboys1IRaHTNTlSvZ-k,Boiler Room Coffee,44.9644262,-93.2729289,"1830 3rd Ave S, Minneapolis, MN 55404, United States",4.5,307
+226,ChIJSTeQjogn9ocRdOafXteUwms,Lago Tacos Lyn-Lake,44.94997780000001,-93.2877819,"2901 Lyndale Ave S, Minneapolis, MN 55408, United States",4.2,789
+227,ChIJEdpJz9ots1IRGM2o0l7ffTM,The Coffee Shop NE,45.020087,-93.237211,"2852A Johnson St NE, Minneapolis, MN 55418, United States",4.7,565
+228,ChIJjbG5mLszs1IRxWpT6ZVC9rs,P.S. Steak,44.9671955,-93.2873068,"510 Groveland Ave, Minneapolis, MN 55403, United States",4.7,214
+229,ChIJrbRDuy8n9ocREOxr0X9e4Js,Tenka Ramen,44.9484831,-93.2973224,"1404 W Lake St, Minneapolis, MN 55408, United States",4.7,243
+230,ChIJjQ2yWLQys1IRCCDjDxpF1gw,Jasmine 26 Restaurant and Bar,44.9557197,-93.2774742,"8 E 26th St, Minneapolis, MN 55404, United States",4.6,232
+231,ChIJdUFpxPUts1IR516taNFpA7A,Stanley's Northeast Bar Room,45.0133162,-93.2632658,"2500 University Ave NE, Minneapolis, MN 55418, United States",4.5,1785
+232,ChIJMwMprTgts1IRfqqgfasVNqI,MOMO Sushi,45.00735299999999,-93.2469728,"1839 Central Ave NE, Minneapolis, MN 55418, United States",4.8,274
+233,ChIJX4MXMokys1IRzjQlfPDt8jE,Cuzzy's Grill & Bar,44.9861979,-93.2751966,"507 N Washington Ave, Minneapolis, MN 55401, United States",4.5,550
+234,ChIJT65Dt0Mts1IR5TRQcJo9qrY,Dilla Ethiopian restaurant,44.9696981,-93.24650109999999,"1813 Riverside Ave, Minneapolis, MN 55454, United States",4.3,616
+235,ChIJGZ4G0_0n9ocRj2V3m6X9pLc,Safari Express,44.9489054,-93.2609208,"920 E Lake St # 134, Minneapolis, MN 55407, United States",4.4,59
+236,ChIJh93gjB8ts1IRTDjMNEfiUNA,Tea House Chinese Restaurant,44.9737875,-93.2214587,"2425 University Ave SE, Minneapolis, MN 55414, United States",4.3,727
+237,ChIJjR_W_fMn9ocRwoo7Tu0cdJY,Taqueria la Hacienda,44.9487152,-93.2706807,"334 E Lake St #101, Minneapolis, MN 55408, United States",4.2,1170
+238,ChIJ0wJU0Ygys1IRjWSnG9DWNes,CRISP & GREEN,44.9861519,-93.27435969999999,"428 N Washington Ave, Minneapolis, MN 55401, United States",4.7,363
+239,ChIJPeATHIgts1IRqrDquFEOkj0,Erté & The Peacock Lounge,45.0010525,-93.2632845,"323 13th Ave NE, Minneapolis, MN 55413, United States",4.4,261
+240,ChIJQ0QDk4Uzs1IReB5O7Li6X9Y,Spyhouse Coffee,44.97828,-93.26700470000002,"215 S 4th St, Minneapolis, MN 55401, United States",4.9,111
+241,ChIJhWddgtoys1IR-58mn5Cq3lw,Liquor Lyle's,44.962066,-93.29165379999999,"2021 Hennepin Ave, Minneapolis, MN 55405, United States",4.3,511
+242,ChIJAdCxly4o9ocR03OZCTqfGJA,Sonora Grill,44.9485963,-93.2240138,"3300 E Lake St, Minneapolis, MN 55406, United States",4.5,730
+243,ChIJFybIspsys1IRZjyk65bTxN8,Bep Eatery,44.97834779999999,-93.2687066,"100 S 5th St #210, Minneapolis, MN 55402, United States",4.5,193
+244,ChIJdXBVYR8ts1IRQXsnCR0C8MQ,Blaze Pizza,44.97351,-93.22352800000002,"1000 Washington Ave SE, Minneapolis, MN 55414, United States",4.5,846
+245,ChIJU4x2-U8m9ocRoecIxnixli8,Prima,44.9059192,-93.2881281,"5325 Lyndale Ave S, Minneapolis, MN 55419, United States",4.7,279
+246,ChIJx-4_mZEys1IRDQmBexlV4to,Cosmos Restaurant,44.9788552,-93.27485639999999,"601 N 1st Ave, Minneapolis, MN 55403, United States",4,42
+247,ChIJG2KV3Uoo9ocRft-HxftqSg8,Fireroast Coffee and Wine,44.9340695,-93.2193597,"3800 37th Ave S, Minneapolis, MN 55406, United States",4.5,388
+248,ChIJqYmRqewn9ocRxCZompgPsCs,Pat's Tap,44.93921090000001,-93.2781754,"3510 Nicollet Ave, Minneapolis, MN 55408, United States",4.3,789
+249,ChIJHTT2-WYts1IRyyCjHEgmZqw,Northern Coffeeworks,44.9753853,-93.2535692,"1027 S Washington Ave, Minneapolis, MN 55415, United States",4.6,285
+250,ChIJFyXPqdo0s1IRMlTOwl7h9PI,Ariana Kabob & Gyro Bistro,44.9592629,-93.3703354,"7115 Cedar Lake Rd, St Louis Park, MN 55426, United States",4.7,539
+251,ChIJi6dABfwo9ocR5p6kAM2azjA,Sassy Spoon,44.9121495,-93.2227103,"5011 S 34th Ave, Minneapolis, MN 55417, United States",4.7,370
+252,ChIJIw_y7BEts1IR4Vwy-fBtmPs,Tasty Pot,44.9812238,-93.2355903,"423 14th Ave SE, Minneapolis, MN 55414, United States",4.3,285
+253,ChIJa-YBuoEn9ocRW2boypAPIrA,Origami Restaurant,44.949712,-93.29747569999999,"1354 Lagoon Ave, Minneapolis, MN 55408, United States",4.4,412
+254,ChIJCVohmTAzs1IR3MwvYmPs0WY,Fairgrounds Coffee & Tea,44.9857681,-93.2710634,"120 3rd Ave N, Minneapolis, MN 55401, United States",4.4,193
+255,ChIJN4sCE-0ys1IRoWaIOrrh1xg,Parallel,44.9796737,-93.28417639999999,"145 Holden St N, Minneapolis, MN 55405, United States",4.6,193
+256,ChIJj1PZHQQo9ocRttU6_gcpomU,Taco Taxi,44.9482491,-93.25320540000001,"1511 E Lake St, Minneapolis, MN 55407, United States",4.3,624
+257,ChIJX3kmMYkys1IRH2Jyz0NryHY,NOLO's Kitchen & Bar,44.9862214,-93.2756116,"515 N Washington Ave #100, Minneapolis, MN 55401, United States",4.4,525
+258,ChIJt2rc0Jsys1IROuEZzLmJs_E,Naf Naf Grill,44.97713,-93.26802909999999,"200 South 6th St, Minneapolis, MN 55402, United States",4.4,304
+259,ChIJibe11v0n9ocRQBCHtYTSsXc,Taco Cat,44.9487134,-93.26046330000001,"920 E Lake St #118, Minneapolis, MN 55407, United States",4.6,249
+260,ChIJzeOJ_3Uts1IRDoLK83M8-r0,Eli's East,44.9912629,-93.24741069999999,"815 E Hennepin Ave, Minneapolis, MN 55413, United States",4.5,753
+261,ChIJcaR0ipoys1IRKoqD5axAi0Y,HopCat,44.9787672,-93.26971189999999,"435 Nicollet Mall, Minneapolis, MN 55401, United States",4.3,1051
+262,ChIJvfJfb0gts1IR6pJXoFPcg1k,Seward Cafe,44.9626393,-93.24115379999999,"2129 E Franklin Ave, Minneapolis, MN 55404, United States",4.5,521
+263,ChIJc6weR7Mn9ocRiBRAjXtSJno,La Fresca,44.9162701,-93.2847262,"4750 Grand Ave S #5430, Minneapolis, MN 55419, United States",4.5,177
+264,ChIJSyhN7nIts1IRTpQp-tSWOhk,Sphynx Cafe,44.9836925,-93.2433935,"813 SE 4th St, Minneapolis, MN 55414, United States",4.5,139
+265,ChIJC-dRCmQts1IR8U88OKebFPQ,Sea Change,44.9781482,-93.2557599,"806 S 2nd St, Minneapolis, MN 55415, United States",4.2,193
+266,ChIJjXKHN3kts1IRsyyCBdMd9Hs,Bardo,44.9876392,-93.2565571,"222 E Hennepin Ave, Minneapolis, MN 55414, United States",4.4,217
+267,ChIJF_b_v9Ays1IRC5k5tgy2d9Y,Tao Organic Cafe + Herbery,44.9608148,-93.29330329999999,"2200 Hennepin Ave, Minneapolis, MN 55405, United States",4.4,124
+268,ChIJhdt0QF4n9ocRCqgMYAc1YBI,Burger Jones,44.948695,-93.31992,"Calhoun Village Shopping Center, 3200 W Lake St, Minneapolis, MN 55416, United States",4.3,824
+269,ChIJZxIuI1wn9ocRXgug77pws_E,My Burger,44.9464775,-93.32212439999999,"3100 Excelsior Blvd, Minneapolis, MN 55416, United States",4.5,493
+270,ChIJ2YgOL4Qys1IRLpCru_FGq3o,The Bachelor Farmer Cafe,44.985585,-93.269048,"200 N 1st St, Minneapolis, MN 55401, United States",4.6,324
+271,ChIJK-MGUKkp9ocRcWmCjUaoE2o,Parkway Pizza,44.9234768,-93.216499,"4359 Minnehaha Ave, Minneapolis, MN 55406, United States",4.6,754
+272,ChIJORg3p4En9ocRFIofLeXB4rw,Hammer & Sickle,44.9494465,-93.296318,"1300 Lagoon Ave #150, Minneapolis, MN 55408, United States",4.4,386
+273,ChIJb7-olbUys1IRS_0_x_s2S8A,KhunNai Thai Cuisine,44.956505,-93.27770799999999,"2523 Nicollet Ave, Minneapolis, MN 55404, United States",4.2,375
+274,ChIJOQgzM3gts1IRmaRE5Jn54O4,Ray J's American Grill,44.988916,-93.25292979999999,"500 Central Ave SE, Minneapolis, MN 55414, United States",4.4,1125
+275,ChIJJdvLhE8n9ocR5Od0ElTx5wo,Mill Valley Kitchen,44.9406932,-93.32944189999999,"3906 Excelsior Blvd, St Louis Park, MN 55416, United States",4.6,462
+276,ChIJI8G1mpcys1IRawIHq8S0z48,Dave's Downtown,44.97372439999999,-93.2715118,"SKYWAY LEVEL, 900 2nd Ave S #230, Minneapolis, MN 55402, United States",4.6,361
+277,ChIJwwe_spEys1IRGuzKUMZFCqo,Gluek's Restaurant & Bar,44.97930299999999,-93.274181,"16 N 6th St, Minneapolis, MN 55403, United States",4.4,921
+278,ChIJwyObfoIn9ocRGHn1rv9yi3Q,La La Homemade Ice Cream,44.945007,-93.298479,"3146 Hennepin Ave, Minneapolis, MN 55408, United States",4.4,295
+279,ChIJ2aqbnRYts1IRL3KELAgdCDY,Dipped & Debris,45.0128944,-93.24770029999999,"2422 Central Ave NE, Minneapolis, MN 55418, United States",4.9,201
+280,ChIJT3kE4j4us1IRBcOs5kxNHqc,Dong Yang Oriental Food,45.0503448,-93.2516893,"725 45th Ave NE, Hilltop, MN 55421, United States",4.2,494
+281,ChIJ0a_s_JQys1IRJVJXZa3t-0U,Dancing Ganesha,44.9743313,-93.27869439999999,"1100 Harmon Pl, Minneapolis, MN 55403, United States",4.1,618
+282,ChIJY7JX-_40s1IRkzpRfUQVgeM,Doolittles Woodfire Grill,44.9852031,-93.3797112,"550 Winnetka Ave N, Golden Valley, MN 55427, United States",4.4,1198
+283,ChIJvU8f3M0ys1IREL4GG5TMl3k,Loon Deli,44.957176,-93.2875514,"2501 Lyndale Ave S, Minneapolis, MN 55405, United States",4.7,201
+284,ChIJuXPlXNUys1IRVqZm3C0mkWw,Giordano's,44.9535603,-93.29791139999999,"2700 Hennepin Ave S, Minneapolis, MN 55408, United States",4.3,1091
+285,ChIJn8wjO9gm9ocRAhfU7YN0OvE,Coalition Restaurant On 50th & France,44.9127434,-93.3281203,"3808 W 50th St, Minneapolis, MN 55410, United States",4.5,423
+286,ChIJl8sWlRgts1IRg_Htaw_7Gic,Korea Restaurant,44.9742961,-93.22666339999999,"211 SE Oak St 1st floor, Minneapolis, MN 55414, United States",4.4,395
+287,ChIJv4qRVY8n9ocRWjCv9CvrDXI,Caffrey's Deli & Subs,44.94792899999999,-93.28851600000002,"3008 Lyndale Ave S, Minneapolis, MN 55408, United States",4.3,567
+288,ChIJE1VOymcts1IR2cbeLk0ixzU,Maxwell's American Pub,44.9746058,-93.2517731,"1201 S Washington Ave, Minneapolis, MN 55415, United States",4.5,370
+289,ChIJ9etGjfMts1IRP_esM9kwX-o,Carma Coffee,45.0130567,-93.2595116,"520 NE Lowry Ave, Minneapolis, MN 55418, United States",4.7,329
+290,ChIJ2Un5x34ts1IRo84lQ-YdM6g,Ginger Hop Restaurant,44.987689,-93.2577194,"201 E Hennepin Ave, Minneapolis, MN 55414, United States",4.3,756
+291,ChIJL--SFZ8zs1IRKHpaL32yvQM,Fletcher's Ice Cream,45.0031123,-93.2709088,"1509 Marshall St NE, Minneapolis, MN 55413, United States",4.7,277
+292,ChIJIRuC3GEzs1IR95ImVc1yzlE,Demi,44.9851383,-93.2707464,"212 N 2nd St #100, Minneapolis, MN 55401, United States",4.9,84
+293,ChIJrd9SHJcys1IReqGhkJjR6_E,La Belle Crepe,44.9751606,-93.2735323,"825 Nicollet Mall, Minneapolis, MN 55402, United States",4.4,199
+294,ChIJtfqQ-_so9ocR974N0b4M6A4,Dominguez Restaurant,44.9123299,-93.223661,"3313 E 50th St, Minneapolis, MN 55417, United States",4.6,577
+295,ChIJ_xfZrBgts1IR1VmbjZTqqR0,Sidewalk Kitchen,44.9737442,-93.2262191,"817 SE Washington Ave, Minneapolis, MN 55414, United States",4.3,131
+296,ChIJGZ4G0_0n9ocRroFdwGRjdb4,La Loma Tamales,44.9486757,-93.26074109999999,"920 E Lake St #162, Minneapolis, MN 55407, United States",4.3,59
+297,ChIJnTywWLQys1IRkNxuj8Iz0xs,The Bad Waitress,44.955727,-93.27766,"2 E 26th St, Minneapolis, MN 55404, United States",4.2,1123
+298,ChIJX9wE5wYo9ocRRtiVgB3ilTw,Szechuan Spice,44.947691,-93.28861769999999,"3016 Lyndale Ave S, Minneapolis, MN 55408, United States",4.1,271
+299,ChIJvd9L-rQys1IRfYDJ_vnilyE,TILT Pinball Bar,44.95537119999999,-93.2757185,"113 E 26th St #110, Minneapolis, MN 55404, United States",4.6,1051
+300,ChIJJVuYRLUys1IRRS6jyPMgFGE,Harry Singh's Original Caribbean Restaurant,44.9538987,-93.2776253,"2653 Nicollet Ave, Minneapolis, MN 55408, United States",4.4,213
+301,ChIJA03XHVczs1IRDnfpnHxvOOQ,First Draft Taproom & Kitchen,44.9854479,-93.27813850000001,"324 N 6th Ave, Minneapolis, MN 55401, United States",4.5,272
+302,ChIJHeAFDtMp9ocRwDxg3EgG3rg,Peppers and Fries,44.9487236,-93.216179,"3900 E Lake St, Minneapolis, MN 55406, United States",4.3,599
+303,ChIJJTELf4Yn9ocRPIjvLrzdIjM,Tinto Kitchen,44.91250060000001,-93.3081825,"4959 Penn Ave S, Minneapolis, MN 55419, United States",4.2,297
+304,ChIJX1KcLOMm9ocRibXBwIGfcjM,Sparrow Cafe,44.912247,-93.308516,"5001 Penn Ave S, Minneapolis, MN 55419, United States",4.6,136
+305,ChIJqdIwewYts1IR4JcDeEnl0iU,Ramen Kazama Select,44.987663,-93.2298313,"1510 Como Ave SE, Minneapolis, MN 55414, United States",4.5,285
+306,ChIJQx3KbAQo9ocRTLNcseDfoQ0,Abi's cafe,44.9486186,-93.2520871,"1532 E Lake St, Minneapolis, MN 55407, United States",4.7,134
+307,ChIJq4lGfyUn9ocRZyu7SoEkaFc,Old Southern BBQ - 44th & France,44.9213702,-93.3285533,"4501 France Ave S, Minneapolis, MN 55410, United States",4.4,564
+308,ChIJIdxE-pots1IRvLutdk0wrpw,Uncle Franky's,44.998561,-93.25134800000001,"728 Broadway St NE, Minneapolis, MN 55413, United States",4.5,863
+309,ChIJ6WZ_Jooys1IRfU0NvP21Fb8,JUN,44.9887319,-93.2779113,"730 N Washington Ave, Minneapolis, MN 55401, United States",4.2,259
+310,ChIJxx5fzxQm9ocRMPiaoJ83nwk,Q fanatic Artisan BBQ,44.8939568,-93.2778624,"6009 Nicollet Ave, Minneapolis, MN 55419, United States",4.6,583
+311,ChIJXd76vFkxs1IRSGXIABeRsjk,Athens Cafe,45.0295727,-93.3361369,"4080 W Broadway Ave, Robbinsdale, MN 55422, United States",4.6,540
+312,ChIJjZwQH5oys1IRn5qZTbvmBjw,Simpls,44.9764841,-93.27027419999999,"601 S Marquette Ave #210, Minneapolis, MN 55402, United States",4.8,43
+313,ChIJZ_Zv2fAn9ocRZP4nDhzCUKY,Safari Restaurant in Minneapolis,44.9478342,-93.27065739999999,"3010 4th Ave S, Minneapolis, MN 55408, United States",4.2,433
+314,ChIJS5z2BFAys1IRUXaxnsnvXlw,Sammy’s Avenue Eatery,44.9989285,-93.29437399999999,"1101 W Broadway Ave #1, Minneapolis, MN 55411, United States",4.8,188
+315,ChIJObThls0ys1IRoITXyZDymBM,The Bulldog Uptown,44.9558987,-93.28775499999999,"2549 Lyndale Ave S, Minneapolis, MN 55403, United States",4.4,487
+316,ChIJlx4oqIUts1IRPBoiwbVUisc,Vo's Vietnamese Restaurant,44.9397966,-93.2884907,"3450 Lyndale Ave S, Minneapolis, MN 55408, United States",4.5,378
+317,ChIJM1j2eHkts1IRaZm6twbq-zo,Mac's Industrial Sports Bar,44.9879707,-93.2555515,"310 E Hennepin Ave, Minneapolis, MN 55414, United States",4.4,463
+318,ChIJD6GRKCAts1IRkbJ2xbBVv7Y,Caspian Bistro and Gourmet Marketplace,44.9734345,-93.22182819999999,"2418 University Ave SE, Minneapolis, MN 55414, United States",4.4,428
+319,ChIJ71Lv3YEn9ocRBI2wqJsnNko,Hoban Korean BBQ,44.9487819,-93.29788669999999,"2939 Hennepin Ave S, Minneapolis, MN 55408, United States",4.1,748
+320,ChIJN-kh4JUts1IRPAAFHg_-PuE,Bacon Social House,44.976882,-93.25887879999999,"700 S 3rd St, Minneapolis, MN 55415, United States",4.4,209
+321,ChIJ2cz51agts1IRSazGgsGXcZ8,Union Rooftop,44.9770542,-93.27538799999999,"731 Hennepin Ave #1, Minneapolis, MN 55403, United States",4,1239
+322,ChIJxRZagM4n9ocRsqNrbGryqa8,Fish Bowl Poké,44.9850511,-93.27759720000002,"520 N 4th St, Minneapolis, MN 55401, United States",4.6,108
+323,ChIJs0ZDDPUts1IR4QuCWttzs4o,Gasthof Zur Gemutlichkeit,45.011374,-93.263376,"2300 University Ave NE, Minneapolis, MN 55418, United States",4.5,1257
+324,ChIJKd_V4eQzs1IRNsfsywxDSpw,Fhima’s Minneapolis,44.9777794,-93.2739175,"40 S 7th St, Minneapolis, MN 55402, United States",4.5,124
+325,ChIJVQlDKxIts1IRAw7xWh_Md5o,Annie's Parlour,44.9799878,-93.2365667,"313 14th Ave SE, Minneapolis, MN 55414, United States",4.3,783
+326,ChIJWX67BJ0ys1IRtPSsvG4szMc,Eastside Eat + Drink,44.97975779999999,-93.26405249999999,"305 S Washington Ave, Minneapolis, MN 55415, United States",4.2,271
+327,ChIJ1xUTTSwp9ocRVQZ5K4nJs-Q,Shoyu,44.8822489,-93.2119652,"4300 Glumack Dr, St Paul, MN 55111, United States",3.8,458
+328,ChIJT69lpp4ts1IRruoO_fWkdG8,LUSH,44.9954137,-93.2476873,"990 Central Ave NE, Minneapolis, MN 55413, United States",4.1,174
+329,ChIJP3DCUh8ts1IR5vTmjmdbCEo,Kowloon Restaurant,44.9737449,-93.22439840000001,"935 Washington Ave SE, Minneapolis, MN 55414, United States",4.4,304
+330,ChIJKYKtXkUss1IRCVE74CtAsfo,Twin Cities 400 Tavern,45.0026804,-93.2128887,"1330 Industrial Blvd NE #400, Minneapolis, MN 55413, United States",4.4,546
+331,ChIJeYtpNkgq9ocRm-fvoiveNzk,The Nook,44.92657029999999,-93.1566689,"492 Hamline Ave S, St Paul, MN 55116, United States",4.6,2496
+332,ChIJqTaK4JQys1IROxfon1zGOJ0,Crooked Pint Ale House,44.97838609999999,-93.2610898,"501 S Washington Ave, Minneapolis, MN 55415, United States",4.2,1210
+333,ChIJVebPCkUn9ocR7hcbhP-xImk,Mucci's Italian,44.948183,-93.29092399999999,"901 W Lake St, Minneapolis, MN 55408, United States",4.6,123
+334,ChIJS9M6b9Uys1IRpaysavoXS1s,Roat Osha,44.94770310000001,-93.29714159999999,"3001 Hennepin Ave S, Minneapolis, MN 55408, United States",3.8,379
+335,ChIJzUXwHk0o9ocRwYevotjgHlY,All Square,44.9289159,-93.21982159999999,"4047 Minnehaha Ave, Minneapolis, MN 55406, United States",4.9,308
+336,ChIJ92eIPZEys1IR4ZKzKVSiyHY,Bombay Palace,44.977637,-93.27447599999999,"11 S 7th St, Minneapolis, MN 55402, United States",4,330
+337,ChIJszltcLYp9ocRUQJO894FZ4g,Riverview Wine Bar,44.934495,-93.21246,"3747 42nd Ave S, Minneapolis, MN 55406, United States",4.6,139
+338,ChIJkf26eTgm9ocRFfJTtJTF2kA,St. Paul Bagelry - Nicollet,44.9045782,-93.2782763,"5426 Nicollet Ave, Minneapolis, MN 55419, United States",4.6,163
+339,ChIJLQpzSdgm9ocRCs92xPo-c4w,Agra Culture Kitchen,44.9123703,-93.32737619999999,"3717 W 50th St, Minneapolis, MN 55410, United States",4.2,325
+340,ChIJw8x2ktoys1IRy9y6XCR_EOw,Lowry Hill Meats,44.96312409999999,-93.2912814,"1934 Hennepin Ave, Minneapolis, MN 55403, United States",4.6,104
+341,ChIJwYKZs5Ays1IRjsBR7Hb7PlA,Mission American Kitchen & Bar,44.9764526,-93.2717859,"77 S 7th St, Minneapolis, MN 55402, United States",4.2,150
+342,ChIJ8-Czr8on9ocRDM9eEvOcKgI,Xin Wong,44.916315,-93.277471,"4749 Nicollet Ave, Minneapolis, MN 55419, United States",4.2,147
+343,ChIJvcLLQhcn9ocRGqNH7Y2g32A,Naviya's Thai Brasserie,44.9247947,-93.31517950000001,"2812 W 43rd St, Minneapolis, MN 55410, United States",4.5,324
+344,ChIJ__oS4ksts1IRUS9_5H_wqpE,Unideli,44.9578365,-93.24241920000001,"2015 E 24th St, Minneapolis, MN 55406, United States",3.5,132
+345,ChIJfQDQ1n4ys1IRTHTKMJPCNYU,Elsie's,44.9951559,-93.2663426,"729 Marshall St NE, Minneapolis, MN 55413, United States",4.3,1060
+346,ChIJ0UxSJvUts1IRBoiGrdqEnYI,Crepe and Spoon,45.0102225,-93.2624539,"339 22nd Ave NE, Minneapolis, MN 55418, United States",4.6,345
+347,ChIJQ6GiarYys1IRPGJgYgYp9Eo,A Slice of New York,44.9589489,-93.2775581,"2407 Nicollet Ave, Minneapolis, MN 55404, United States",4.3,503
+348,ChIJvxgWIGMn9ocRz7665e8Us8c,Trio Plant-based,44.9485351,-93.287543,"610 W Lake St, Minneapolis, MN 55408, United States",4.4,300
+349,ChIJTTtOy-Yo9ocRFOmBAyy2sKg,Grande Sunrise seafood and mexican restaurant y,44.901907,-93.223199,"5554 S 34th Ave, Minneapolis, MN 55417, United States",4.6,259
+350,ChIJGTkbmHsts1IR6KiY8BNUKCk,Jefe Urban Hacienda,44.9841318,-93.2540952,"219 SE Main St, Minneapolis, MN 55414, United States",4.4,522
+351,ChIJH-YJLYgys1IRstL5tv9Z06E,Acme Comedy Co,44.989811,-93.275018,"708 N 1st St, Minneapolis, MN 55401, United States",4.6,1241
+352,ChIJlV0jFRIts1IR4c_yL0heZxc,Frank From Philly & Andrea Pizza,44.98127059999999,-93.23717740000001,"1235 4th St SE, Minneapolis, MN 55414, United States",4.5,651
+353,ChIJ_Q2TPOEn9ocRL85EwW6jtYM,Jakeeno's Pizza & Pasta,44.9378997,-93.262332,"3555 Chicago Ave, Minneapolis, MN 55407, United States",4.5,491
+354,ChIJDTKFtJYys1IRhPkBEjr5kjg,Green + The Grain,44.976319,-93.275111,"800 LaSalle Avenue, Skyway Level, Minneapolis, MN 55402, United States",4.6,72
+355,ChIJ9zf8gJwys1IR6M-BFXgJUiE,CITY OF MINNEAPOLIS,44.9792149,-93.2661425,"309 2nd Ave S #300, Minneapolis, MN 55401, United States",5,1
+356,ChIJY0yQQ1Im9ocRP4AVVrH9qnE,The Malt Shop,44.9121801,-93.2901127,"809 W 50th St, Minneapolis, MN 55419, United States",4.3,557
+357,ChIJh2E4tQIq9ocRmxkXDVB0zZQ,Blue Door Pub St. Paul,44.9467173,-93.1767689,"1811 Selby Ave, St Paul, MN 55104, United States",4.5,1535
+358,ChIJp30LUbgys1IRkfVGxc1jGog,Tibet Kitchen,44.9643516,-93.2775156,"1833 Nicollet Ave, Minneapolis, MN 55403, United States",4.3,369
+359,ChIJU0t5m7Uys1IRd_vg5-wadVM,Black Sheep Coal Fired Pizza,44.9556696,-93.27808189999999,"2550 Nicollet Ave, Minneapolis, MN 55404, United States",4.4,706
+360,ChIJ2Z_sEUco9ocRnuofEO-wB4o,Ted Cook's 19th Hole BBQ,44.9342487,-93.231402,"2814 E 38th St, Minneapolis, MN 55406, United States",4.4,511
+361,ChIJ2Rkg668n9ocRiso4CVuIVeY,Bonchon - Uptown Minneapolis,44.9485293,-93.29773159999999,"1414 W Lake St, Minneapolis, MN 55408, United States",4.2,325
+362,ChIJN62xbEgts1IRXi0f4vH92Jg,Tracy's Saloon & Eatery,44.96260710000001,-93.24053529999999,"2207 E Franklin Ave, Minneapolis, MN 55404, United States",4.5,439
+363,ChIJobbAApcys1IRni6y9wb2tQY,The Melting Pot,44.9746041,-93.2726866,"80 S 9th St, Minneapolis, MN 55402, United States",4.2,891
+364,ChIJL4_lH3gts1IRrMqE72fIH40,Lu's Sandwiches,44.9899282,-93.2525909,"10 6th St NE, Minneapolis, MN 55413, United States",4.6,416
+365,ChIJOZvl2Eko9ocR2CTMPuPegh8,The Howe Daily Kitchen & Bar,44.9359075,-93.22486099999999,"3675 Minnehaha Ave South, Minneapolis, MN 55406, United States",4.3,1439
+366,ChIJZ4qY688ys1IRd4kZ0piA-aI,Red Dragon Restaurant,44.961215,-93.288234,"2116 Lyndale Ave S, Minneapolis, MN 55405, United States",4,363
+367,ChIJyaRWmJkn9ocREE9uXdYd200,Gigi's Cafe,44.9378387,-93.290424,"822 W 36th St, Minneapolis, MN 55408, United States",4.5,374
+368,ChIJ-3PRmbUys1IRHusw8oY-7QE,Pancho Villa Mexican Restaurant,44.9560271,-93.2775911,"2539 Nicollet Ave, Minneapolis, MN 55404, United States",3.9,730
+369,ChIJb426kXoys1IRzuGkVuVP6WI,Sip Coffeebar,44.9993494,-93.2718393,"34 13th Ave NE, Minneapolis, MN 55413, United States",4.4,114
+370,ChIJDX4EYdcm9ocR_R6dfIm4lE0,Arezzo Ristorante,44.910863,-93.32871600000001,"5057 France Ave S, Minneapolis, MN 55410, United States",4.5,194
+371,ChIJu6NRo3Ao9ocREOUvdtHiNEY,Mei Inn,44.926407,-93.25203479999999,"3334 4215, Bloomington Ave, Minneapolis, MN 55407, United States",4.4,256
+372,ChIJT97wL9Qys1IRIH7XilTZpKU,Nico's Taco and Tequila Bar,44.9567748,-93.29624079999999,"2516 Hennepin Ave, Minneapolis, MN 55405, United States",4.2,736
+373,ChIJlbKxZgQo9ocRiWiNCMRQewA,Ingebretsen's Scandinavian Gifts & Foods,44.9482544,-93.2510848,"1601 E Lake St, Minneapolis, MN 55407, United States",4.7,225
+374,ChIJ7cm91JQts1IRxEnKvw4pjKc,La Colonia Restaurant,45.0101985,-93.2471056,"2205 Central Ave NE, Minneapolis, MN 55418, United States",4.1,409
+375,ChIJQYx60PQts1IRpcUrEiYm9iw,Grumpy's Bar,45.0101245,-93.26179409999999,"2200 4th St NE, Minneapolis, MN 55418, United States",4.5,593
+376,ChIJ8f31uDAts1IRbFEPfiC4U-U,Soberfish,44.9626022,-93.2332632,"2627 E Franklin Ave, Minneapolis, MN 55406, United States",4.3,730
+377,ChIJr7S9gLgts1IRY2UdlbWf9uw,Que Viet Village House,45.009968,-93.23708460000002,"2211 Johnson St NE #3905, Minneapolis, MN 55418, United States",4.7,773
+378,ChIJ4yGf3ZYys1IR1xRmsgPQKHw,McCormick & Schmick's Seafood & Steaks,44.9751585,-93.2739651,"800 Nicollet Mall, Minneapolis, MN 55402, United States",4.3,583
+379,ChIJh5znsB0ts1IRNPvNVCdPGQE,Giulia,44.97828,-93.26700470000002,"215 S 4th St, Minneapolis, MN 55401, United States",4.4,73
+380,ChIJBxlKKHgts1IRfsYw4SypjwU,Rusty Taco,44.9891952,-93.2523911,"522 E Hennepin Ave, Minneapolis, MN 55414, United States",4.4,939
+381,ChIJ807tNtgm9ocRUDgA84O_cIs,Sotarol Asian Kitchen,44.9122448,-93.3273972,"5005 Ewing Ave S, Minneapolis, MN 55410, United States",4,202
+382,ChIJJc42z_An9ocRQXabkiWWZ5c,Taqueria Victor Hugo #2,44.8977231,-93.2777576,"5801 Nicollet Ave, Minneapolis, MN 55419, United States",4.5,143
+383,ChIJkQKX_-kys1IR5jK69jVhQXM,The Bird,44.9715916,-93.28562559999999,"1612 Harmon Pl, Minneapolis, MN 55403, United States",4.3,364
+384,ChIJsROxNKAn9ocRov8w-M6cMec,Tap Society,44.9197686,-93.28420159999999,"4555 Grand Ave S, Minneapolis, MN 55419, United States",4.4,261
+385,ChIJnZvHAhAq9ocRy9gVeIWcNI4,The Naughty Greek,44.9468571,-93.1672364,"181 Snelling Ave N, St Paul, MN 55104, United States",4.5,782
+386,ChIJVVUFENEp9ocRvxDuSgM3Sxc,The Bungalow Club,44.948605,-93.211278,"4300 E Lake St, Minneapolis, MN 55406, United States",4.7,178
+387,ChIJ5_Luczcts1IR-jxVE6HUDug,Animales Barbeque Co.,44.9994389,-93.2509839,"1121 Quincy St NE, Minneapolis, MN 55413, United States",4.4,68
+388,ChIJkUYYXQEts1IRnNSEDm6C7ck,Potter's Pasties & Pies,44.9876646,-93.2260376,"1820 Como Ave SE, Minneapolis, MN 55414, United States",4.5,122
+389,ChIJaRkXBIAn9ocR2S96WQGzcGA,Kinhdo Restaurant,44.9520787,-93.29809139999999,"2755 Hennepin Ave, Minneapolis, MN 55408, United States",4.5,311
+390,ChIJd1nAeYgn9ocRKDlrU21f29I,Egg and I,44.9509946,-93.28832039999999,"2828 Lyndale Ave S, Minneapolis, MN 55408, United States",4.4,606
+391,ChIJGXjrA8An9ocRX1PClPPpkMs,Cocina Latina,44.9342809,-93.27830619999999,"3764 Nicollet Ave, Minneapolis, MN 55409, United States",4.3,250
+392,ChIJpVLNg4Yn9ocRnhnZ19b02jc,Morrissey's Irish Pub,44.9482507,-93.29134649999999,"913 W Lake St, Minneapolis, MN 55408, United States",4.4,475
+393,ChIJO5zSP2cys1IR5WYlDVAJUyU,Sikora's Polish Market,45.0050012,-93.2572512,"1625 Washington St NE, Minneapolis, MN 55413, United States",4.8,242
+394,ChIJN2kJ6m8o9ocRDRCPIr4LpVg,Hamburguesas El Gordo,44.9271383,-93.24695609999999,"4157 Cedar Ave, Minneapolis, MN 55407, United States",4.3,845
+395,ChIJaUDU_pMys1IRDNA99MbiRaQ,CRAVE American Kitchen & Sushi Bar (LaSalle Plaza - Minneapolis),44.976479,-93.276507,"825 Hennepin Ave, Minneapolis, MN 55402, United States",4.1,1093
+396,ChIJV3noujAts1IR76AlNpn5fo0,Code Blu Coffee,44.963019,-93.233455,"2620 E Franklin Ave, Minneapolis, MN 55406, United States",4.9,167
+397,ChIJU7nzXI8ys1IR_zOB-GBh8JA,Tullibee,44.9847434,-93.2724843,"300 N Washington Ave, Minneapolis, MN 55401, United States",4.4,295
+398,ChIJm8CrsGYts1IRxqC2pOiCWro,Wasabi Sushi Fusion,44.9762505,-93.2558282,"903 S Washington Ave 2nd floor, Minneapolis, MN 55415, United States",4.1,463
+399,ChIJz0hZnvYxs1IRCATRX6Vk6YA,Tori 44 - Ramen,45.035315,-93.3088662,"2203 N 44th Ave, Minneapolis, MN 55412, United States",4.4,331
+400,ChIJX_EOUSwo9ocROJKb5SwL-YU,International Cuisine Bar and Grill,44.94854780000001,-93.2210925,"3508 E Lake St, Minneapolis, MN 55406, United States",4.4,224
+401,ChIJGULmGF8ts1IRw6arxpOsltQ,Segue Coffee,44.968991,-93.25787539999999,"811 11th Ave S, Minneapolis, MN 55404, United States",4.7,166
+402,ChIJHUgbiSMo9ocRoZA8sXHtL1w,Midori's Floating World Cafe,44.9481176,-93.23342810000001,"2629 E Lake St #1925, Minneapolis, MN 55406, United States",4.5,242
+403,ChIJLzyBIRko9ocROOV-elKdmNc,Pineda Tacos,44.9486539,-93.2409785,"2130 E Lake St, Minneapolis, MN 55407, United States",4.3,374
+404,ChIJZyM0fMwzs1IRlUq1-hQ__08,The Lowry Cafe,45.013085,-93.30871,"2207 Lowry Ave N, Minneapolis, MN 55411, United States",4.4,401
+405,ChIJvTIybgYts1IRUFeenp9_E3g,Black Coffee and Waffle Bar,44.987702,-93.2301312,"1500 Como Ave SE, Minneapolis, MN 55414, United States",3.9,630
+406,ChIJDdGbytUys1IRI8uymz1n1jg,Soho Cafe,44.956124,-93.29666999999999,"2532 Hennepin Ave, Minneapolis, MN 55405, United States",4.5,253
+407,ChIJKQRlxPYn9ocR0Qy6YPaFogI,Raag Progressive Indian Cuisine,44.9127904,-93.32826750000001,"3812 W 50th St, Minneapolis, MN 55410, United States",4.4,72
+408,ChIJE_ZWQRkzs1IRJnykmgCtPdA,La Mesa,44.9746575,-93.30691159999999,"230 Cedar Lake Rd S, Minneapolis, MN 55405, United States",4.5,129
+409,ChIJHRpxWkIts1IRflBIDRSgbnI,The Red Sea Ethiopian Restaurant,44.9707363,-93.2475125,"320 Cedar Ave South, Minneapolis, MN 55454, United States",4.4,682
+410,ChIJ5Qk5Q7Uys1IRjeqXCm3QTdo,Rainbow Chinese Restaurant and Bar,44.95247639999999,-93.2775812,"2739 Nicollet Ave, Minneapolis, MN 55408, United States",4.3,348
+411,ChIJPYQpgTgm9ocRQfnhZC2ZlJ0,Scott Ja-Mama's,44.9038881,-93.2784317,"3 W Diamond Lake Rd, Minneapolis, MN 55419, United States",4.7,177
+412,ChIJJ1KuH78ys1IR_5MdCcafxLQ,The Nicollet Diner,44.9678578,-93.2780664,"1428 Nicollet Ave, Minneapolis, MN 55403, United States",4,2402
+413,ChIJGVK_zdkts1IRKRQenG453tA,Popol Vuh,45.0027337,-93.25141529999999,"1414 Quincy St NE #2, Minneapolis, MN 55413, United States",4.7,154
+414,ChIJXYwlbpEys1IRsIvOH7UV0qM,The Depot Tavern,44.978429,-93.2757295,"17 N 7th St, Minneapolis, MN 55403, United States",4.2,405
+415,ChIJj5S9EaM0s1IRiJDGK-o1LhA,Yard House,44.96655459999999,-93.34893050000001,"THE SHOPS AT WEST END, 1665 Park Pl Blvd, St Louis Park, MN 55416, United States",4.4,1396
+416,ChIJxdwXGfAm9ocRLq_SAG2k_hE,Book Club,44.9045446,-93.30843639999999,"5411 Penn Ave S, Minneapolis, MN 55419, United States",4.4,420
+417,ChIJidJM_ngts1IRUqlvArGcQmY,The Stray Dog,44.9887863,-93.25492729999999,"401 E Hennepin Ave, Minneapolis, MN 55414, United States",4.5,508
+418,ChIJrSPqsVAxs1IR5ZSf17kuMhQ,Pig Ate My Pizza Kitchen + Brewery,45.0304385,-93.3378808,"4124 W Broadway Ave, Robbinsdale, MN 55422, United States",4.5,1246
+419,ChIJOfP6t34n9ocRUXIY_JtsWI0,Amore Uptown,44.9482247,-93.3022901,"1601 W Lake St, Minneapolis, MN 55408, United States",4.3,563
+420,ChIJqes_IZUys1IRSpQKHzpmXpw,Buca di Beppo Italian Restaurant,44.9739483,-93.28003849999999,"1204 Harmon Pl, Minneapolis, MN 55403, United States",4.3,910
+421,ChIJkxLkjgcts1IROIWds-oBhwM,Chin Dian Kitchen,44.9912992,-93.2305992,"1500 E Hennepin Ave, Minneapolis, MN 55414, United States",4.3,201
+422,ChIJh2ZOz0go9ocRjnDY5OohwpQ,Mesob Ethiopian Restaurant,44.931671,-93.226394,"3915 Hiawatha Ave, Minneapolis, MN 55406, United States",4.7,179
+423,ChIJycvf4LUys1IRsKnvjlAgwHc,Pho Hoa Noodle Soup,44.9575533,-93.2784964,"2450 Nicollet Ave, Minneapolis, MN 55404, United States",4.3,744
+424,ChIJL2V8T38n9ocRf5zrrJFU3Ko,Mesa Pizza Uptown,44.94850479999999,-93.29938059999999,"1440 W Lake St, Minneapolis, MN 55408, United States",4.3,509
+425,ChIJfRm_Efwo9ocRn6fhpVlRqvo,Town Hall Lanes,44.911846,-93.222454,"5019 S 34th Ave, Minneapolis, MN 55417, United States",4.5,799
+426,ChIJFSQHYj8us1IRNn0wJbyibWU,Tasty Pizza - Hangar 45,45.0505726,-93.24849479999999,"875 45th Ave NE, Minneapolis, MN 55421, United States",4.4,535
+427,ChIJQxP5mJkys1IRQpUwWDeW1QI,Dan Kelly's Pub,44.9756295,-93.26889159999999,"212 S 7th St, Minneapolis, MN 55402, United States",4.1,490
+428,ChIJmU84kW8o9ocRXvuWKzBZItw,Colossal Cafe,44.9826257,-93.1958051,"2315 Como Ave, St Paul, MN 55108, United States",4.6,747
+429,ChIJsZyJ9JAys1IR-vDKzbkzOxk,Lyon's Pub,44.97862,-93.272803,"16 South 6th St, Minneapolis, MN 55402, United States",4.4,670
+430,ChIJt2yxbIkys1IRAuDBAqj1x7g,The Loop - Minneapolis,44.9872805,-93.27614179999999,"606 N Washington Ave #100, Minneapolis, MN 55401, United States",4,430
+432,ChIJKfEBPPUn9ocRfeBZNdB5pMs,Marhaba Grill,44.9518248,-93.27748059999999,"2801 Nicollet Ave, Minneapolis, MN 55408, United States",4.3,658
+433,ChIJeXu2VGsm9ocRXU4iEFSlzzw,"The Patty Wagon, Best Burgers in South Minneapolis",44.8926872,-93.278604,"6042 Nicollet Ave, Minneapolis, MN 55419, United States",4.3,447
+434,ChIJK9u4Cncys1IRMl3ugp9fwqw,Matchbox Coffee Shop,45.0012425,-93.26634,"1306 NE 2nd St, Minneapolis, MN 55413, United States",4.7,114
+435,ChIJlT0LsdQn9ocR4MpC0xFDdgE,BaGu Sushi & Thai,44.91644460000001,-93.26235919999999,"4741 Chicago Ave, Minneapolis, MN 55407, United States",4.3,304
+436,ChIJHTy6yJYys1IRRrDOsbyu0O4,Pad Ga Pow,44.9759766,-93.274523,"811 Lasalle Ave #207, Minneapolis, MN 55402, United States",4.6,121
+437,ChIJY1w39YUys1IRMdvKbP6rZoE,The Monte Carlo,44.98478189999999,-93.2718593,"219 3rd Ave N, Minneapolis, MN 55401, United States",4.5,723
+438,ChIJ4yEtwCg0s1IR-3XyoGXUOPo,Fat Nat's Eggs,45.0211114,-93.3793175,"3540 Winnetka Ave N, Minneapolis, MN 55427, United States",4.7,1745
+439,ChIJ8a3Dkpgys1IR-RgoWtiMcyU,Normandy Kitchen,44.973439,-93.2674985,"405 S 8th St, Minneapolis, MN 55404, United States",4,248
+440,ChIJJ1OBzfwm9ocR0mHHr1Tk7bM,Lake Harriet Pizza,44.912017,-93.30838399999999,"5009 Penn Ave S, Minneapolis, MN 55419, United States",4.6,84
+441,ChIJSRQF5JYys1IR9TfMyO0vUEw,Zelino Deli,44.9750278,-93.2736163,"831 Nicollet Mall, Minneapolis, MN 55402, United States",4.1,12
+442,ChIJOUUrQXgts1IRjrXXREpS17Q,Gardens of Salonica,44.9896617,-93.2535927,"19 5th St NE, Minneapolis, MN 55413, United States",4.4,225
+443,ChIJEdIYRc8zs1IRcw3Sm6envqc,Tooties On Lowry,45.01340949999999,-93.31502809999999,"2706 Lowry Ave N, Minneapolis, MN 55411, United States",4.5,456
+444,ChIJzTMQdJoys1IRJ_pOmlbeSJw,Sprout Salad Company,44.9779855,-93.2705263,"555 Nicollet Mall #295, Minneapolis, MN 55402, United States",4.5,41
+445,ChIJRQ0EDhEts1IRLWqFr3tj55Y,Burrigato,44.9794239,-93.2345831,"314 15th Ave SE, Minneapolis, MN 55414, United States",4.6,125
+446,ChIJWcUku0co9ocRYBcO_QRpXio,Cardinal Restaurant and Bar,44.9342243,-93.2299658,"2920 E 38th St, Minneapolis, MN 55406, United States",4.3,803
+447,ChIJhyeUmlYn9ocR4eDpalKY9nM,Prime Deli & Restaurant,44.9489197,-93.3332375,"4224 Minnetonka Blvd, Minneapolis, MN 55416, United States",4.7,236
+448,ChIJs8usSYMp9ocRfIKuZVTlAMY,Cecil's,44.9219144,-93.1877248,"651 Cleveland Ave S, St Paul, MN 55116, United States",4.6,1283
+449,ChIJF2zF-JMys1IRkCtIZO7AWr8,Rock Bottom Restaurant & Brewery,44.9764446,-93.2765934,"825 Hennepin Ave #125, Minneapolis, MN 55402, United States",4,341
+450,ChIJ1xUTTSwp9ocRVGs_V1M1n0M,Mill City Tavern,44.8797611,-93.2068196,"Terminal 1, 4300 Glumack Dr, St Paul, MN 55111, United States",3.2,143
+451,ChIJf6PK4J0ys1IR_69nxhPavUo,McKinney Roe,44.9767229,-93.2620826,"530 S 4th St, Minneapolis, MN 55415, United States",4.3,601
+452,ChIJXaZBhpkys1IRVCM2yAM4QlY,La Loma Tamales-North Star,44.9765825,-93.2692811,"608 2nd Ave S, Minneapolis, MN 55407, United States",4.6,87
+453,ChIJb5ygpBgts1IRULK9VCs1pfk,Bona Vietnamese Restaurant,44.97375,-93.22631849999999,"815 SE Washington Ave, Minneapolis, MN 55414, United States",4.1,297
+454,ChIJBaJzd70ys1IRaexB4quip9k,Monello,44.971185,-93.2727474,"1115 2nd Ave S, Minneapolis, MN 55403, United States",4.3,244
+455,ChIJjdpdcX8g9ocRxwpkI9480Y8,Wok in the Park,44.94908299999999,-93.38165800000002,"3005 Utah Ave S, St Louis Park, MN 55426, United States",4.6,944
+457,ChIJ5-43Yh8ts1IRSjWcL1sX9CM,Legendary Spice,44.9731489,-93.22333309999999,"317 SE Huron Blvd, Minneapolis, MN 55414, United States",4,340
+458,ChIJoaAG5MEl9ocRoAcBJ3fvA-Y,Andale Taqueria & Mercado,44.8635485,-93.2788362,"Andale Taqueria & Mercado, 7700 Nicollet Ave, Minneapolis, MN 55423, USA",4,340
+459,ChIJQ5EAomIts1IRtFRrna8dosw,Smith & Porter | Restaurant + Bar,44.9804657,-93.26102279999999,"428 S 2nd St, Minneapolis, MN 55401, United States",4.1,159
+460,ChIJp9M7-oEn9ocRCxZ0yRtRrA8,Sushi Tango,44.9472392,-93.2972772,"3001 Hennepin Ave S, Minneapolis, MN 55408, United States",3.9,432
+461,ChIJP19AyX4ts1IRgll9l0HR8lk,Honey,44.9877215,-93.2575801,"205 E Hennepin Ave, Minneapolis, MN 55414, United States",4.2,497
+462,ChIJdwI3jWMts1IRZ1tPjIYIpuo,Kindee Thai Restaurant,44.978113,-93.25673479999999,"719 S 2nd St, Minneapolis, MN 55401, United States",4,409
+463,ChIJ8ZeF9DQts1IR5zVgdP_tOnI,Flashback Cafe,44.95639269999999,-93.23485529999999,"Minneapolis, MN 55406, United States",3.3,3
+464,ChIJDygzP20o9ocR6TzOXlAJJxI,Lucy's Market & Carry-Out (Ethiopian Restaurant),44.9342741,-93.2471963,"3749 Cedar Ave, Minneapolis, MN 55407, United States",4.8,133
+465,ChIJGZ4G0_0n9ocR7u5HlBQzi0Y,Holy Land,44.9491458,-93.26109129999999,"Midtown Global Market, 920 E Lake St, Minneapolis, MN 55407, United States",4,129
+466,ChIJLzacakUm9ocRXDJRTuQfGls,Mac's Fish / Chips / Strips,44.9051911,-93.2872761,"610 W 54th St, Minneapolis, MN 55419, United States",4.6,331
+467,ChIJL6b9ad8n9ocR5MQw8mMFhQw,R. A. MacSammy's Elbow Room,44.9160031,-93.26317540000001,"735 E 48th St, Minneapolis, MN 55417, United States",4.6,116
+468,ChIJrwPixZYys1IRUqcYkA9Bj2M,Andrea Pizza,44.976266,-93.27439000000001,"811 Lasalle Ave, Minneapolis, MN 55402, United States",4.6,140
+469,ChIJ3WT5uAIzs1IRxvKX0tw_wLU,Milda's Cafe,44.9810102,-93.3029239,"1720 Glenwood Ave, Minneapolis, MN 55405, United States",4.3,429
+470,ChIJZ9N75WQn9ocRbessOAPmhAA,Brim,44.948589,-93.304811,"2919 Knox Ave S, Minneapolis, MN 55408, United States",4.4,79
+471,ChIJAy-a4E8o9ocR1XNyac17sQ4,Chicago's Taste Authority - Mpls,44.9266838,-93.2267648,"3101 E 42nd St, Minneapolis, MN 55406, United States",4.3,686
+472,ChIJY80bT5oys1IR7Vx6ZcODqO8,Sorrento Cucina,44.9764741,-93.27028709999999,"Northstar Center West, 625 S Marquette Ave, Minneapolis, MN 55402, United States",4.5,88
+473,ChIJY-fNrokts1IRCwWs_94LLJ0,Mayslack's,45.00293930000001,-93.2616874,"1428 4th St NE, Minneapolis, MN 55413, United States",4.2,880
+474,ChIJoWDEf5Eys1IRmnrK8hwqYog,O'Donovan's Irish Pub,44.9786516,-93.2765568,"700 N 1st Ave, Minneapolis, MN 55403, United States",4.3,502
+475,ChIJ1S3ajrgts1IR1G42KRLPIuM,Marino's Deli,45.0094415,-93.2373659,"1946 Johnson St NE, Minneapolis, MN 55418, United States",4.7,186
+476,ChIJXez49_wts1IR6l_CWSEpQ3A,Camdi Restaurant,44.9808285,-93.23603849999999,"1325 4th St SE, Minneapolis, MN 55414, United States",3.9,112
+477,ChIJN55LK1Qo9ocRwkSM-Snn4co,Bull's Horn Food and Drink,44.9198093,-93.222725,"4563 S 34th Ave, Minneapolis, MN 55406, United States",4.5,484
+478,ChIJyf_kaKM0s1IRkcPAd8D_F-M,Punch Bowl Social Minneapolis,44.965716,-93.34901599999999,"1691 Park Pl Blvd, St Louis Park, MN 55416, United States",4.1,1479
+479,ChIJO716Q4Uys1IRAxSiNinOHJ4,Dong Hae Korean Grill & Sushi,44.9820001,-93.27100689999999,"251 N 1st Ave, Minneapolis, MN 55401, United States",3.9,532
+480,ChIJHYz4Mywp9ocRnzqBs3Q6Scw,Surdyk's Flights Wine Market and Bar,44.8741214,-93.2281683,"4300 Glumack Dr, St Paul, MN 55111, United States",3.1,59
+481,ChIJXaSgL7gys1IRe6CANnZ11AE,Cajun Boiling Minneapolis,44.9628676,-93.27761489999999,"1931 Nicollet Ave, Minneapolis, MN 55403, United States",3.9,327
+482,ChIJAWyGqSEts1IRj2omjO5J7rg,Sprout Salad Company,44.9733112,-93.2234411,"309 SE Huron Blvd, Minneapolis, MN 55414, United States",4.2,96
+483,ChIJh5Kb_tgzs1IRgObcYUrp9Nc,Kieran's Kitchen Northeast,45.00156279999999,-93.2701258,"117 14th Ave NE, Minneapolis, MN 55413, United States",4.8,110
+484,ChIJrUTCIcMys1IRw1YJoHGO4hw,Esker Grove,44.9685949,-93.2892737,"723 Vineland Pl, Minneapolis, MN 55403, United States",4.2,160
+485,ChIJGShVIoAn9ocRdYx1V1JHUQw,Kiku Bistro,44.9511995,-93.29805759999999,"2819 Hennepin Ave, Minneapolis, MN 55408, United States",4.4,333
+487,ChIJRQfYx9ots1IRzNxr4uLWoeU,Parkway Pizza Northeast,45.0201769,-93.23676499999999,"2851 Johnson St NE, Minneapolis, MN 55418, United States",4.5,327
+488,ChIJ2QlXdJQys1IRf93_1A45oxA,Mackenzie Pub,44.9762437,-93.2775508,"918 Hennepin Ave, Minneapolis, MN 55403, United States",4.4,492
+489,ChIJ80ToqqI0s1IRgm0WBFgTDdA,Yangtze Restaurant,44.9695636,-93.35148579999999,"5625 Wayzata Blvd, St Louis Park, MN 55416, United States",4.3,634
+490,ChIJ-zwihZAys1IRzp0xbMxAuJw,The Brothers Deli,44.9784058,-93.2719527,"50 South 6th St #220, Minneapolis, MN 55402, United States",4,97
+491,ChIJ11xNM5Ays1IRSgjZdQ_kGe0,The Loon Cafe,44.9803934,-93.2739606,"500 N 1st Ave, Minneapolis, MN 55403, United States",4.4,739
+492,ChIJN-xJu1cts1IR7uAryd4fHeU,JJ’S Poke,44.9819024,-93.2349667,"509 14th Ave SE, Minneapolis, MN 55414, United States",4.7,54
+493,ChIJQ8OFsM8zs1IRSiUOrgo6tiA,Vitali’s Cafe,44.9706868,-93.27834469999999,"1300 Nicollet Mall #2270, Minneapolis, MN 55403, United States",4.8,57
+494,ChIJEQ97lBgts1IRpI8XbS4wWA0,My Burger,44.97424789999999,-93.2269361,"213 SE Oak St, Minneapolis, MN 55414, United States",4.4,497
+495,ChIJc8hwN5cys1IRhIXLEur_mIU,Roti Modern Mediterranean,44.97618629999999,-93.2719045,"80 S 8th St, Minneapolis, MN 55402, United States",4.5,263
+496,ChIJ_3XbeM0ys1IRxO0EhIdA6A8,Bluestem Bar,44.95500320000001,-93.28842920000001,"2610 Lyndale Ave S, Minneapolis, MN 55408, United States",3.9,37
+497,ChIJiVY1aEwo9ocRZJskCOZZ4FU,Dumpling,44.9302813,-93.2214439,"4004 Minnehaha Ave South, Minneapolis, MN 55406, United States",4.1,326
+498,ChIJWX49fNcm9ocRZTs-5WzgfcU,Edina Grill,44.9117664,-93.32921429999999,"5028 France Ave S, Edina, MN 55424, United States",4.4,789
+499,ChIJ6XsmTY8n9ocRJDJWA3NeDbY,Iron Door Pub,44.94821899999999,-93.2879329,"3001 Lyndale Ave S, Minneapolis, MN 55408, United States",4.3,498
+500,ChIJVQxezDQss1IRhCEyNn-RraM,Catrinas Cerveza & Mexican Grill,45.0134481,-93.2244845,"2510 Kenzie Terrace, St Anthony, MN 55418, United States",4.7,873
+501,ChIJeRl3FIgts1IR7fLCpB-Wj0k,The Sheridan Room,45.0010651,-93.2627079,"337 13th Ave NE, Minneapolis, MN 55413, United States",4.4,406
+502,ChIJk7LpSsQ1s1IR69sR-DuDHMY,Roti Modern Mediterranean,44.9667993,-93.34998399999999,"1620 Park Pl Blvd, St Louis Park, MN 55416, United States",4.5,421
+503,ChIJbyp3y5Eys1IRrwQgglzLPC8,508 Bar & Restaurant,44.98026100000001,-93.2741247,"508 N 1st Ave, Minneapolis, MN 55403, United States",4,815
+504,ChIJGc6O1P0n9ocRq8a1vZ-vxFw,Hot Indian Foods,44.9486757,-93.26074109999999,"920 E Lake St, Minneapolis, MN 55407, United States",4,55
+505,ChIJhYFdZpcys1IRwtqQScroOII,Ginellis Pizza Inc,44.9748093,-93.2712128,"121 S 8th St, Minneapolis, MN 55402, United States",4.6,96
+506,ChIJk7B37xUo9ocRZePdz94McMA,Chatterbox Pub,44.93937589999999,-93.2391454,"2229 E 35th St, Minneapolis, MN 55407, United States",4.1,642
+507,ChIJy4IDVY8n9ocRnaMNjaH_hlU,Blue Door Pub — Lyn-Lake,44.9480091,-93.28840550000001,"3006 Lyndale Ave S, Minneapolis, MN 55408, United States",4.4,400
+508,ChIJIZcZqXkts1IR5SzkzYlXKVA,Whitey's Old Town Saloon,44.988338,-93.25455040000001,"400 E Hennepin Ave, Minneapolis, MN 55414, United States",4.3,274
+509,ChIJ-ap4qR8ts1IR2t8oTM49m4c,Tony's Diner,44.9806895,-93.2359354,"1327 SE 4th St, Minneapolis, MN 55414, United States",4.3,258
+510,ChIJQxhqeCAzs1IR-U5YASyaOPs,Snack Bar,44.9895629,-93.2787922,"800 N Washington Ave, Minneapolis, MN 55401, United States",4.8,38
+511,ChIJmYrBVBcn9ocRwSfyCMQ-YsU,Apoy,44.924885,-93.277536,"4301 Nicollet Ave, Minneapolis, MN 55409, United States",4.1,239
+512,ChIJVVVlYTcws1IRByFUJfZ8oHs,Pappys Chicago Style,45.0738279,-93.2889459,"615 66th Ave N #7, Brooklyn Center, MN 55430, United States",4.3,353
+513,ChIJd4Nc7JY8s1IRELOcOZS6wAo,Thai Cuisine Xpress,44.9879298,-93.2300798,"1517 Como Ave SE, Minneapolis, MN 55414, United States",4.6,171
+514,ChIJL3ogZRcn9ocRcbb676b2STY,Linden Hills Co-op,44.9221701,-93.3285631,"3815 Sunnyside Ave, Minneapolis, MN 55410, United States",4.6,380
+515,ChIJrWoF-gcq9ocRn_iKJz775Mg,On's Kitchen Thai Cuisine,44.9559195,-93.16846140000001,"1613 University Ave W, St Paul, MN 55104, United States",4.5,933
+516,ChIJz6mSM2Uq9ocRjqy5Y0oCYH4,Whole Sum Kitchen,44.9124484,-93.2906016,"824 W 50th St, Minneapolis, MN 55419, United States",4.5,164
+517,ChIJoxkOrhQm9ocR2blyg9VOZrE,"Tailgate Sports Cafe, Best Sports Bar in South Minneapolis",44.8926236,-93.27864249999999,"6050 Nicollet Ave, Minneapolis, MN 55419, United States",4.2,745
+518,ChIJDzT3j8cn9ocRNqsjPHInJ7Y,Curran's Family Restaurant,44.92652409999999,-93.2774287,"4201 Nicollet Ave, Minneapolis, MN 55409, United States",4.4,1228
+519,ChIJFYana5cys1IRrB-CQEt0Pwk,8th Street Grill,44.9752879,-93.2719745,"800 S Marquette Ave #107, Minneapolis, MN 55402, United States",4.2,730
+520,ChIJz3flVLYys1IRayqO3eeC1ns,Dave the Pie Guy,44.938059,-93.28456299999999,"3544 Grand Ave S, Minneapolis, MN 55408, United States",4.6,108
+521,ChIJ517Dcson9ocRunqXFQAUxV4,Fresh Wok,44.9193078,-93.2785462,"4610 Nicollet Ave, Minneapolis, MN 55419, United States",3.9,238
+522,ChIJk2aIm4Uys1IR8iE9rVdxGts,Skyway Wok,44.9802513,-93.2661018,"250 2nd Ave S, Minneapolis, MN 55401, United States",4.5,257
+523,ChIJUVx62N4zs1IRPO3m0jG7YXw,Zettas,44.9582189,-93.2782435,"2424 Nicollet Ave suite b, Minneapolis, MN 55404, United States",4.7,54
+524,ChIJKfmIjZkys1IR7ys2fISrEWI,Walkin' Dog,44.9760664,-93.26969129999999,"618 2nd Ave S, Minneapolis, MN 55402, United States",4.7,50
+525,ChIJe1KszQ8p9ocRGU32a3jajkg,Sea Salt,44.9160853,-93.211165,"4825 Minnehaha Ave, Minneapolis, MN 55417, United States",4.5,1870
+526,ChIJt0O_Q48n9ocRQXdQB91LfOQ,Saigon Uptown Restaurant,44.9471792,-93.28780230000001,"3035 Lyndale Ave S, Minneapolis, MN 55408, United States",4.4,148
+527,ChIJZTgCZ90n9ocRjNMNGVwohSs,Tacos El Kevin,44.9343339,-93.26701369999999,"3751 Portland Ave, Minneapolis, MN 55407, United States",4.3,120
+528,ChIJ4ceDZBw0s1IRTO7msKvEv2M,Milton's,45.0214423,-93.3604591,"3545 Douglas Dr N, Crystal, MN 55422, United States",4.6,1004
+529,ChIJK-jFCrUys1IR0n6JomUUnxc,Black Forest Inn,44.955354,-93.27759800000001,"1 E 26th St, Minneapolis, MN 55404, United States",4.1,735
+530,ChIJ65UTy0Qo9ocRxeNAVtLNU7M,Bill's Garden Chinese Gourmet,44.9265366,-93.2318785,"4209 S 28th Ave, Minneapolis, MN 55406, United States",4.3,356
+531,ChIJTWAim5kys1IRQxFjb1orIM8,The Six15 Room,44.97599,-93.26879699999999,"615 2nd Ave S, Minneapolis, MN 55402, United States",4.4,40
+532,ChIJm3s_t5wts1IRNqQmy70ORmM,Spring Street Tavern,44.994848,-93.251915,"355 Monroe St NE, Minneapolis, MN 55413, United States",4.3,702
+533,ChIJk4cfSYEqs1IRVHyu5yaAGIQ,The Cajun House,44.9723311,-93.2200817,"2600 University Ave SE, Minneapolis, MN 55414, United States",3.5,266
+534,ChIJwRUwdngn9ocR0-aYyP343dU,TRUCE - Uptown,44.9448961,-93.29847339999999,"1428 W 32nd St, Minneapolis, MN 55408, United States",4.1,81
+535,ChIJ19IVN84ys1IRClUwYf5wOHQ,Leaning Tower of Pizza,44.9592585,-93.2883622,"2324 Lyndale Ave S, Minneapolis, MN 55405, United States",4.1,544
+536,ChIJvRXCXxoxs1IRE1v-DiWaqJA,50's Grill,45.0555606,-93.3231718,"5524 Brooklyn Blvd, Brooklyn Center, MN 55429, United States",4.4,1123
+537,ChIJqc4kyk8rs1IRL51r14bGT8Y,Black Sea,44.9634616,-93.16727030000001,"737 Snelling Ave, St Paul, MN 55104, United States",4.6,573
+538,ChIJ740-wqAzs1IRpFaq2z-yBkA,Vegan East,44.958745,-93.28760500000001,"2409 Lyndale Ave S, Minneapolis, MN 55405, United States",4.9,88
+539,ChIJQZXuat8j9ocRL922UhTHbI4,Cahill Bistro,44.8748958,-93.3627211,"7078 Amundson Ave, Edina, MN 55439, United States",4.8,316
+540,ChIJp7N-Bn4n9ocR8IenYh8Cfvk,El Jefe Cocina & Bar,44.9062299,-93.2880301,"5309 Lyndale Ave S, Minneapolis, MN 55419, United States",4.4,121
+541,ChIJ2UCDTNYm9ocRYcwT7i5mIXY,Coconut Thai,44.9129903,-93.3313814,"3948 W 50th St, Edina, MN 55424, United States",4.4,445
+542,ChIJB0vhVyMn9ocRuF3pmtVkQyw,Turtle Bread,44.92308999999999,-93.32380099999999,"3421 W 44th St, Minneapolis, MN 55410, United States",4.4,249
+544,ChIJaWxOo5k2s1IRiKqUShrUv2k,Papa's Cafe,45.0324681,-93.37221389999999,"7181 42nd Ave N, Minneapolis, MN 55427, United States",4.5,279
+545,ChIJV43TK3kts1IREymfY79D2Oc,Red's Savoy Pizza,44.9885021,-93.25702020000001,"18 University Ave NE, Minneapolis, MN 55413, United States",4.3,91
+546,ChIJSzSBIxAq9ocRU4zWpADCY2Y,Neighborhood Cafe,44.9463868,-93.1663942,"1570 Selby Ave, St Paul, MN 55104, United States",4.7,770
+547,ChIJ7fYSZcUys1IR1PRcjN-kMw0,Mortimer's Bar and Restaurant,44.9625382,-93.28780479999999,"2001 Lyndale Ave S, Minneapolis, MN 55405, United States",4.2,690
+548,ChIJeWq3s2Yts1IRiPxDLTFTDyc,Pog Mahone's Pub & Grill,44.9763094,-93.2557293,"903 S Washington Ave, Minneapolis, MN 55415, United States",4.2,171
+549,ChIJVwT77okts1IR8LrqEOA3Efc,Shaws Bar & Grill,45.0040525,-93.2634145,"1528 University Avenue Northeast Minneapolis+1 612, MN 55413, United States",4.4,365
+550,ChIJS5-2WG8ys1IRzo5nGoKcmyo,Broadway Pizza,44.9997451,-93.2778423,"2025 West River Rd N, Minneapolis, MN 55411, United States",4.3,1045
+551,ChIJa5MvHAQo9ocRulXFkvEn5Ro,Cafeteria La Loma,44.9482325,-93.2526721,"1515 E Lake St # 126, Minneapolis, MN 55407, United States",4.4,78
+552,ChIJp8TF3IIp9ocR_hUgUV66Ujc,Punch Pizza Highland Park,44.9202775,-93.1869395,"HIGHLAND PARK, 704 Cleveland Ave S, St Paul, MN 55116, United States",4.7,495
+553,ChIJ3T3wgPMn9ocRVmxWgey8KW4,Hibachi Buffet,44.9482059,-93.2764535,"111 E Lake St, Minneapolis, MN 55408, United States",4.1,1120
+554,ChIJORXExfUts1IRJJkfmwt1yJs,Al's Place,45.0133236,-93.26338679999999,"2500 University Ave NE 2nd floor, Minneapolis, MN 55418, United States",4.7,155
+555,ChIJ0YkueIYn9ocRHbmOjjkvLK0,Zoe's Bakery & Cafe,44.948193,-93.29046199999999,"821 W Lake St, Minneapolis, MN 55408, United States",4.6,227
+556,ChIJA1kWrlAxs1IRZQMX-Vko4o8,Marna's Eatery and Lounge,45.0310797,-93.33874399999999,"4154 W Broadway Ave, Minneapolis, MN 55422, United States",4.6,118
+557,ChIJJYzvBP4ss1IR8ni1tkzxriE,Manning's Cafe,44.9877342,-93.22132140000001,"2200 Como Ave SE, Minneapolis, MN 55414, United States",4.4,498
+558,ChIJM-Xm-DMys1IRUT30xNbqyqY,Banana Blossom,45.0134047,-93.30168760000001,"1724 Lowry Ave N, Minneapolis, MN 55411, United States",4.3,274
+559,ChIJ_yqnqoUys1IRqheSimxt2Ko,Kaiseki Furukawa,44.9846466,-93.2674674,"33 N 1st Ave, Minneapolis, MN 55401, United States",4.8,51
+560,ChIJXaSgL7gys1IR2XJTlKVwMjo,Reverie Cafe + Bar,44.9393726,-93.2527106,"1517 E 35th St, Minneapolis, MN 55407, United States",4.7,227
+561,ChIJD6YTdh0k9ocRrL_MaT-Wo0s,The Original Pancake House,44.8756911,-93.3256078,"3501 W 70th St, Edina, MN 55435, United States",4.5,1896
+562,ChIJm4DY7mYts1IRvNf0z58x4Eo,"Conexion at Open Book - Latte, Vino, Cafe",44.9755385,-93.2539797,"1011 S Washington Ave #101, Minneapolis, MN 55415, United States",4.7,244
+563,ChIJIYfdjtUn9ocREbtRcFEJW5I,Sol Taqueria,44.9037478,-93.27762709999999,"5447 Nicollet Ave, Minneapolis, MN 55419, United States",4.4,131
+564,ChIJL3vjLwwys1IRYtB0e1KZo0A,Tony Jaros River Garden,45.0132791,-93.2720607,"2500 Marshall St NE, Minneapolis, MN 55418, United States",4.4,437
+565,ChIJs1L6Sjcts1IRprfmpy2x9YA,Seward Co-op Creamery Café,44.9626116,-93.23428679999999,"2601 E Franklin Ave, Minneapolis, MN 55406, United States",4.4,370
+566,ChIJGZ4G0_0n9ocR_WkzamzX69E,Salsa A La Salsa (MIDTOWN GLOBAL MARKET),44.949277,-93.2610982,"920 E Lake St #155, Minneapolis, MN 55407, United States",4.5,156
+567,ChIJQ7qHE5oys1IRmQw2FV1GRqA,BANK Restaurant,44.97764,-93.2702534,"88 South 6th St, Minneapolis, MN 55402, United States",3.9,214
+568,ChIJpb2Lb38g9ocR_XTYWslEQww,Best of India Indian Restaurant,44.9498985,-93.3829221,"8120 Minnetonka Blvd, St Louis Park, MN 55426, United States",4.3,526
+569,ChIJP4-sHRIts1IRrAf0MF-0IYw,Burrito Loco,44.981544,-93.236539,"418 13th Ave SE, Minneapolis, MN 55414, United States",4,598
+570,ChIJE5BwF_Ap9ocRlTWfaMOJSdI,Stewart's,44.945355,-93.187111,"128 Cleveland Ave N, St Paul, MN 55104, United States",4.6,353
+571,ChIJv4B97rcss1IRcR1j3vzfDeA,The Naughty Greek,44.9639213,-93.1980677,"2400 University Ave W, St Paul, MN 55114, United States",4.6,672
+572,ChIJzZ1Pf_4n9ocRce8yZdKIh5Q,Sabbai Express,44.9489683,-93.2605986,"920 E Lake St Suite #114, Minneapolis, MN 55407, United States",3.8,25
+573,ChIJJ7htmi8n9ocR04dOUyDnOys,Convention Grill,44.92180099999999,-93.32965399999999,"3912 Sunnyside Rd, Edina, MN 55424, United States",4.5,602
+574,ChIJH82Rosc1s1IROWsGDfhP0DA,Nong's Thai Cuisine,45.0068749,-93.3974772,"2520 Hillsboro Ave N, Golden Valley, MN 55427, United States",4.6,787
+575,ChIJuWx_pdMp9ocRlZi_sDwR4LU,El Norteno Authentic Mexican,44.9485805,-93.2151258,"4000 E Lake St, Minneapolis, MN 55406, United States",4.5,254
+576,ChIJGfZc6hgo9ocRWWJpIcYt3Rc,Teppanyaki Grill and Supreme Buffet,44.949045,-93.24004509999999,"2216 E Lake St, Minneapolis, MN 55407, United States",4,2130
+577,ChIJVaCzlnAys1IRWN037-id608,Dusty's Bar,45.0007854,-93.2701501,"1319 Marshall St NE, Minneapolis, MN 55413, United States",4.6,326
+578,ChIJSzRTcCQo9ocRPlK3YdBKK0E,El Nuevo Rodeo,44.948153,-93.2325795,"2709 E Lake St, Minneapolis, MN 55406, United States",3.5,284
+579,ChIJjwZkpcon9ocRQZOkiSROchY,C & G's Smoking Barbeque,44.9164578,-93.27761869999999,"4743 Nicollet Ave, Minneapolis, MN 55419, United States",4.5,197
+580,ChIJI8G1mpcys1IRes1dNs71Q4s,Valentino Cafe,44.97367,-93.2718809,"900 2nd Ave S #120, Minneapolis, MN 55402, United States",4.8,59
+581,ChIJv8LsMpoys1IRkdnoNkHTdmg,Greenfield Natural Kitchen,44.97716399999999,-93.268791,"120 South 6th St, Minneapolis, MN 55402, United States",3.3,48
+582,ChIJU7i4w5Ays1IRJXDpSjBvsT8,Greek Grill and Cafe,44.9764741,-93.27028709999999,"625 S Marquette Ave, Minneapolis, MN 55402, United States",4.2,93
+583,ChIJrRUrNfIts1IR-PGZXfq9y28,Listo! Fresh Mexican Grill,45.0056799,-93.2283061,"1730 New Brighton Blvd #100, Minneapolis, MN 55413, United States",4.4,57
+584,ChIJJ51QVuots1IR16zzCbR65PM,Adelita's | Mexican Restaurant,45.012417,-93.24693479999999,"2405 Central Ave NE, Minneapolis, MN 55418, United States",3.9,587
+585,ChIJ1yAw7Tcts1IRkCsgxKvUGjE,Pita King,44.96286670000001,-93.2379121,"2328 E Franklin Ave, Minneapolis, MN 55406, United States",4.6,112
+586,ChIJA-gUmewxs1IRGFWDQTXtndY,Burrito Cubano,45.04119670000001,-93.2870709,"4729 Lyndale Ave N, Minneapolis, MN 55430, United States",4.1,256
+587,ChIJe7ZlnHwts1IRI3wVhzyb6x8,lao sze chuan chinese restaurant and bar,44.9733575,-93.2273062,"304 SE Oak St, Minneapolis, MN 55414, United States",4.1,315
+588,ChIJE0vrojUrs1IRPqnyV_j6UOo,Groundswell,44.9592359,-93.15698809999999,"1340 Thomas Ave W, St Paul, MN 55104, United States",4.5,771
+589,ChIJr8uaFhgts1IRNZ_a8AYb6tA,The Beacon | Public House,44.9743662,-93.2296097,"615 Washington Ave SE, Minneapolis, MN 55414, United States",3.6,62
+591,ChIJrXbe-8Qss1IRdCvb7qrKGwo,Hodges Bend,44.96760980000001,-93.20737020000001,"2700 University Ave W Suite 100, St Paul, MN 55114, United States",4.7,335
+592,ChIJiekYKJxKs1IRWVbirJZkRis,BLVD Kitchen & Bar,44.972467,-93.425406,"11544 Wayzata Blvd, Minnetonka, MN 55305, United States",4.5,1408
+593,ChIJvdfc628o9ocReC17maPkY7U,Cedar Inn,44.9271705,-93.2470685,"4155 Cedar Ave, Minneapolis, MN 55407, United States",4.4,210
+594,ChIJiSmujnE1s1IRvFUUr_CgTpg,Pineda Tacos,44.97937230000001,-93.4070599,"60 Nathan Ln N, Minneapolis, MN 55441, United States",4.5,834
+595,ChIJF9DqFzMp9ocRn4aIn9Ra_CI,Habanero Tacos Grill,44.948007,-93.2247824,"3223 E Lake St, Minneapolis, MN 55406, United States",4.7,129
+596,ChIJMc24xmMn9ocRKSYzSKbiAoo,Prieto Taqueria Bar,44.948204,-93.28842689999999,"701 W Lake St, Minneapolis, MN 55408, United States",4,179
+597,ChIJmQn-mRgts1IRqleEZitu_oA,Stub and Herbs,44.9738555,-93.22690589999999,"227 SE Oak St, Minneapolis, MN 55414, United States",4.2,564
+598,ChIJrRf_TKMn9ocRMUCgCIOkUS8,Harriet's Inn,44.930205,-93.288696,"4000 Lyndale Ave S, Minneapolis, MN 55409, United States",4.1,623
+599,ChIJ2zkPniAq9ocRIONuSiK2hjw,Groveland Tap,44.9340693,-93.1778679,"1834 St Clair Ave, St Paul, MN 55105, United States",4.5,1117
+600,ChIJ3aUxqVoys1IR6yCir3tPgTc,Wendy's House of Soul,44.9989005,-93.29355989999999,"1021 W Broadway Ave, Minneapolis, MN 55411, United States",4.5,98
+601,ChIJjZwQH5oys1IRUqhJaoIRnTY,Kadai Indian Kitchen - Skyway Minneapolis,44.9769295,-93.2700555,"601 S Marquette Ave #200, Minneapolis, MN 55402, United States",4.1,385
+602,ChIJHagurPE1s1IRP0aEzTamuMQ,Lat14 Asian Eatery,44.9850472,-93.391472,"8815 7th Ave N, Golden Valley, MN 55427, United States",4.4,625
+603,ChIJ4ysuvpcys1IRcJOUrQomnCA,Cafe Patteen,44.9731768,-93.2721455,"920 2nd Ave S #295, Minneapolis, MN 55402, United States",4.3,34
+604,ChIJpVK6nMon9ocRB3pR__xi0cA,Taberna Street Tacos,44.9485644,-93.3195764,"3126 W Lake St, Minneapolis, MN 55416, United States",4,127
+605,ChIJsbkY_hgq9ocRN8kZv60pQ6M,Shish,44.9399697,-93.1706473,"1668 Grand Ave, St Paul, MN 55105, United States",4.4,929
+606,ChIJPQ09h-cts1IRzZofxzy91uw,Beast Barbecue,44.9916174,-93.24702239999999,"825 E Hennepin Ave, Minneapolis, MN 55414, United States",4.1,283
+607,ChIJZwgrA4wo9ocR8lLO3IRNFjA,Sandcastle,44.9115,-93.2431021,"4955 W Lake Nokomis Pkwy, Minneapolis, MN 55417, United States",4.3,393
+608,ChIJK151-YEn9ocRZMoKPdb68UQ,Peoples Organic,44.94807280000001,-93.2980991,"3001 Hennepin Ave, Minneapolis, MN 55408, United States",3.8,126
+609,ChIJIdfDsNAts1IRFMzzNzX3qns,Flamin Thai Cuisine,44.9728487,-93.2469105,"233 Cedar Ave, Minneapolis, MN 55454, United States",4.5,118
+610,ChIJNVjyP8Eg9ocRUhLW3v22v0s,Bunny's Bar & Grill,44.9287622,-93.3551622,"5916 Excelsior Blvd, St Louis Park, MN 55416, United States",4.4,1809
+611,ChIJGZ4G0_0n9ocR-XyKE-x6I64,Andy's Garage,44.948676,-93.260741,"920 E Lake St #151, Minneapolis, MN 55407, United States",4.4,40
+612,ChIJ-6eKHk0ts1IRe9iABpxLyX0,Capitol Cafe & Catering,44.9626577,-93.23692369999999,"2417 E Franklin Ave, Minneapolis, MN 55406, United States",5,5
+613,ChIJVURXstQn9ocRW4B90g14ygY,Turtle Bread Company,44.9163254,-93.26302079999999,"4762 Chicago Ave, Minneapolis, MN 55407, United States",4.3,427
+614,ChIJPwltazo1s1IRhpQ5ul4-1Jo,CRAVE West End,44.9676615,-93.34755439999999,"1603 West End Blvd, St Louis Park, MN 55416, United States",4.1,850
+615,ChIJQR9IxIQm9ocREPTi-QhP8jk,Aida,44.883836,-93.30783400000001,"2208 W 66th St, Richfield, MN 55423, United States",4.3,549
+616,ChIJ9xJ0SU0rs1IRdypec3HGi40,Fasika Restaurant,44.9564591,-93.1667889,"510 Snelling Ave N, St Paul, MN 55104, United States",4.3,878
+617,ChIJFz2_B3gp9ocRNo2TZ4I1Szo,Highland Grill,44.9182514,-93.1876915,"771 Cleveland Ave S, St Paul, MN 55116, United States",4.5,689
+618,ChIJ0SgLJeEp9ocRCj3-RkbtPao,Standish Cafe,44.9339649,-93.2368765,"2403 E 38th St, Minneapolis, MN 55406, United States",4.7,172
+619,ChIJF8_oCbUys1IRJ7g6dsUfUfQ,Little Tijuana Bar & Grill,44.955355,-93.27711900000001,"17 E 26th St, Minneapolis, MN 55404, United States",4.3,425
+621,ChIJwWZmo2Io9ocRmo6kdz9tLTM,Minneapolis Carbone's Pizza & Pub,44.9177184,-93.24693429999999,"4705 Cedar Ave S, Minneapolis, MN 55407, United States",4.4,701
+622,ChIJg5iwUqI0s1IRuDlZBJQfoBQ,Rojo Mexican Grill,44.9672799,-93.3479816,"1602 West End Blvd, Minneapolis, MN 55416, United States",4.1,712
+623,ChIJORVRKOs0s1IRxIl0vhaqTaY,JJ's Clubhouse,44.9716499,-93.3619597,"6400 Wayzata Blvd, Minneapolis, MN 55426, United States",4.2,919
+624,ChIJzXlVH5oys1IRCQcJbiBPSKQ,Orient Express,44.976484,-93.270274,"601 S Marquette Ave #204, Minneapolis, MN 55402, United States",4.6,34
+625,ChIJD2lhQ3Mo9ocRA02N0EP2xPM,Mama Sheila's House of Soul,44.93426609999999,-93.2526072,"3744 Bloomington Ave, Minneapolis, MN 55407, United States",4.2,447
+626,ChIJ0XmcMIoys1IRah3CG5y3rqI,Bunker's Music Bar & Grill,44.9886038,-93.27870270000001,"761 N Washington Ave, Minneapolis, MN 55401, United States",4.5,575
+627,ChIJbfeU2oEn9ocRMkegqCSU-fw,Williams Uptown Pub & Peanut Bar,44.9495177,-93.29810069999999,"2911 Hennepin Ave, Minneapolis, MN 55408, United States",4.1,634
+628,ChIJ1aZ3wmMg9ocRRKBEXPu-9Hs,Blaze Pizza,44.936747,-93.3830576,"8126 MN-7, St Louis Park, MN 55426, United States",4.5,517
+629,ChIJSQR9Y9cm9ocRZLjrzqCIOuo,Salut | Bar Americain,44.9114952,-93.32943370000001,"5034 France Ave S, Edina, MN 55410, United States",4.3,463
+630,ChIJ_RbY0d0n9ocRoggOsy8knP0,Cheese Louise,44.9248244,-93.31430209999999,"4279 Sheridan Ave S, Minneapolis, MN 55410, United States",4.4,34
+632,ChIJVY1BAhkq9ocRCenlcFoCU0U,Grand Catch,44.9398626,-93.17084489999999,"1672 Grand Ave, St Paul, MN 55105, United States",4.5,503
+633,ChIJZUV-WCUzs1IRzO_PIJeMWLs,Graze | Provisions + Libations,44.9847844,-93.27710119999999,"520 N 4th St, Minneapolis, MN 55401, United States",4.3,174
+634,ChIJP2Uznmkrs1IRGZltxaBmff0,Nelson Cheese & Deli,44.9770838,-93.166281,"1562 Como Ave, St Paul, MN 55108, United States",4.7,812
+635,ChIJjWfSVL00s1IRJgT-2AmH2Hk,Taste of India,44.9694014,-93.35137700000001,"5617 Wayzata Blvd, St Louis Park, MN 55416, United States",4.3,649
+636,ChIJcQAViUgus1IReVyaT9zudNg,Asia Chow Mein,45.0576634,-93.24689939999999,"4905 Central Ave NE, Columbia Heights, MN 55421, United States",4.4,281
+637,ChIJVVXlUnots1IRtzbzmLSPq3A,Hideaway Burger Bar,44.9845603,-93.25419029999999,"219 SE Main St, Minneapolis, MN 55414, United States",4.2,145
+638,ChIJz5bIu7css1IRdIktthbGJyQ,Caffe Biaggio,44.9633464,-93.1966655,"2356 University Ave W, St Paul, MN 55114, United States",4.5,314
+639,ChIJTToVc1Ap9ocRMO3PGl6pxAQ,Geek Love Cafe,44.9471762,-93.2338714,"3032 Minnehaha Ave, Minneapolis, MN 55406, United States",4.6,83
+640,ChIJT1N2ssYss1IRBwdwBDcQv5U,Embers America LLC,44.968984,-93.20397899999999,"2561 W Territorial Rd, St Paul, MN 55114, United States",3,1
+641,ChIJlW79SKI0s1IR4uF4AgC5FOc,Raku Sushi & Lounge | WEST END,44.9674908,-93.3482652,"5371 W 16th St, St Louis Park, MN 55416, United States",4.3,325
+642,ChIJCRr8wEcus1IRFvUPPpVCi20,Flameburger,45.0555449,-93.24824810000001,"4800 Central Ave NE, Minneapolis, MN 55421, United States",4.5,1406
+643,ChIJTz3uhDgm9ocR8npUbPQaO4A,Cathay Chow Mein,44.9035403,-93.2776186,"5457 Nicollet Ave, Minneapolis, MN 55419, United States",4.2,90
+644,ChIJMxY5J9Eys1IRKIZjEofhYZA,The Cafe Meow,44.9593964,-93.29358909999999,"2323 Hennepin Ave S, Minneapolis, MN 55405, United States",4.4,480
+645,ChIJ_f6Zspsys1IRlboIrTyTDHc,Bep Eatery,44.9763185,-93.2751107,"LaSalle Plaza, 800 Lasalle Ave #211, Minneapolis, MN 55402, United States",4.4,105
+646,ChIJa5MvHAQo9ocRhEsg9B9CYC8,Pupuseria El Rincon,44.9480858,-93.25290179999999,"1515 E Lake St #102, Minneapolis, MN 55407, United States",3.7,29
+647,ChIJYf5ffIgn9ocROt2iUjoMP_c,Kyoto Sushi,44.9505226,-93.2878597,"2841 Lyndale Ave S, Minneapolis, MN 55408, United States",4.1,754
+648,ChIJyxrThtcn9ocRmM2if7M5OQU,JJ'S POKE,44.8792059,-93.3196396,"6817 York Ave S, Edina, MN 55435, United States",4.7,164
+649,ChIJddP0u3sts1IRYvskOaHpulM,Pracna,44.9846198,-93.255388,"117 SE Main St, Minneapolis, MN 55414, United States",3.9,156
+650,ChIJd7EFNBIts1IRhLbIQgV_PTc,Purple Onion Café & Catering,44.9801306,-93.2376335,"1301 University Ave SE #1, Minneapolis, MN 55414, United States",4.1,356
+651,ChIJAQG__Og1s1IR8NNVH8Xh8ho,Ichigo Tokyo Crepes,44.9411691,-93.27826759999999,"5 W 34th St, Minneapolis, MN 55408, United States",4.8,10
+652,ChIJV64GAsAn9ocREC0jhILjmc4,Dragon Wok Chinese Delivery & Takeout,44.9345169,-93.27818219999999,"3752 Nicollet Ave, Minneapolis, MN 55409, United States",4,205
+653,ChIJZ9iBPxous1IRo_gN-v9pNcg,Roman's Cafe,45.0411248,-93.2596564,"513 40th Ave NE, Columbia Heights, MN 55421, United States",4.7,328
+654,ChIJkbK-9tcm9ocRmfDuX4ibqhA,Beaujo's Wine Bar & Bistro,44.9127704,-93.32934859999999,"4950 France Ave S, Minneapolis, MN 55410, United States",4.3,43
+655,ChIJ5RvcOJcys1IRj6Od8qMxN08,Potbelly Sandwich Shop,44.9747036,-93.2700713,"IDS Center, 80 S 8th St #210, Minneapolis, MN 55402, United States",4.2,224
+656,ChIJ75PlVs8l9ocRdk4zmufMKnw,Sarpino’s Pizzeria,44.8643216,-93.28878139999999,"7630 Lyndale Ave S #400, Richfield, MN 55423, United States",3.6,113
+657,ChIJX8kNTlwg9ocRwmTpC0F3r58,Pizza Lucé,44.9284531,-93.3859111,"210 Blake Rd N, Hopkins, MN 55343, United States",4.5,1687
+659,ChIJyS8tyJwts1IRyACO75IKa5Q,NE Moose Bar & Grill,44.99490429999999,-93.252878,"356 Monroe St NE, Minneapolis, MN 55413, United States",4.2,940
+660,ChIJDZ1P7hEk9ocRei8GUKcAbk0,Tavern 23,44.8636416,-93.3275525,"7651 France Ave S, Minneapolis, MN 55435, United States",4.2,684
+661,ChIJRdOqmi8n9ocRRyen_5Xj6F4,Hello Pizza,44.921912,-93.32947790000001,"3904 Sunnyside Rd, Edina, MN 55424, United States",4.6,391
+662,ChIJHWoePXom9ocROXjeWw_n3iE,Pizza Lucé,44.88346689999999,-93.2899266,"800 W 66th St, Richfield, MN 55423, United States",4.5,1971
+663,ChIJmVEB3dAys1IRgN0K_0flIS4,Five Guys,44.959769,-93.29391,"2300 Hennepin Ave S, Minneapolis, MN 55405, United States",4.2,653
+664,ChIJewTOSOIws1IRybCq0lf8Rg8,Que Viet Village House,45.06564729999999,-93.3253338,"6100 Brooklyn Blvd, Brooklyn Center, MN 55429, United States",4.5,729
+665,ChIJr33DmBEts1IRUcSwlNwapCA,Five Guys,44.9804328,-93.2349902,"1413 4th St SE, Minneapolis, MN 55414, United States",4.2,602
+666,ChIJ0w0tkGous1IRfWWFo1akXtg,Filfillah Middle Eastern Restaurant,45.0465838,-93.2467335,"4301 Central Ave NE, Columbia Heights, MN 55421, United States",4.4,870
+667,ChIJf_vRjuEh9ocRGtju2R69GEU,Bay Leaf Indian Cuisine,44.888165,-93.417904,"6403 City W Pkwy, Eden Prairie, MN 55344, United States",4.1,615
+668,ChIJdT0ntxoq9ocR7Pl5v_9cuG8,Zait & Za'atar,44.946391,-93.168921,"1626 Selby Ave, St Paul, MN 55104, United States",4.6,276
+669,ChIJoT1zwPIn9ocRNLtO70sLbGQ,Valerie's Taqueria Inc,44.94507429999999,-93.2773478,"30 E 32nd St, Minneapolis, MN 55408, United States",4.4,57
+671,ChIJgSSADZcys1IRQI_-A1YQVpA,Living Room,44.9746365,-93.27182619999999,"821 S Marquette Ave, Minneapolis, MN 55402, United States",4.3,143
+672,ChIJ-TtOW5cys1IR3X6DwOwsWgA,123 Sushi,44.9760258,-93.27245339999999,"80 S 8th St, Minneapolis, MN 55402, United States",4.3,92
+673,ChIJT89opWYts1IRrW4roCzw6Dc,WXYZ BAR,44.9765641,-93.25524689999999,"900 S Washington Ave, Minneapolis, MN 55415, United States",4.2,25
+674,ChIJOcEFEbYys1IRpGYZeUh-VQY,The Wedge Table,44.9584948,-93.2782811,"2412 Nicollet Ave, Minneapolis, MN 55404, United States",4.4,411
+675,ChIJ721xSfUn9ocRTr7DOp0HAfU,El Mariachi Restaurant,44.9526756,-93.2781742,"2728 Nicollet Ave, Minneapolis, MN 55408, United States",3.8,328
+676,ChIJszltcLYp9ocRUagosL-VDW8,Riverview Cafe,44.9344014,-93.2125362,"3753 42nd Ave S, Minneapolis, MN 55406, United States",4.5,251
+677,ChIJAX8EP4Qys1IRJLH-9P8uuI0,Sawatdee,44.9778471,-93.25968639999999,"607 S Washington Ave, Minneapolis, MN 55415, United States",3.9,536
+678,ChIJnZXKDTIq9ocR138mvCTHRwQ,Joan's in the Park,44.9225714,-93.16739849999999,"631 Snelling Ave S, St Paul, MN 55116, United States",4.7,225
+679,ChIJkRY-v-Ezs1IRlbbumDUxGIE,Mai Thai Restaurant,45.0251271,-93.3309215,"3839 Lakeland Ave N, Minneapolis, MN 55422, United States",4.2,273
+680,ChIJGdrOb4kys1IRTJvMiquCYiQ,Haiku Japanese Bistro,44.973431,-93.22933200000001,"620 Washington Ave SE, Minneapolis, MN 55414, United States",4,267
+681,ChIJ91g8FrUg9ocRh2sqFVpwOhQ,McCoy's Public House,44.934177,-93.3399922,"3801 Grand Way, St Louis Park, MN 55416, United States",4.2,560
+682,ChIJqyZT1Gkts1IRJ1ZIyb3QoBM,The Corner Bar,44.97284579999999,-93.24770009999999,"1501 S Washington Ave, Minneapolis, MN 55454, United States",4.4,372
+683,ChIJL65dFBEts1IRdAO_jJlhi7s,D.P. Dough Minneapolis,44.97899049999999,-93.2347278,"1501 University Ave SE #130, Minneapolis, MN 55414, United States",4.3,189
+684,ChIJxxhdfl4p9ocRSTCUSQ7Ph_c,Taqueria y birrieria las cuatro milpas,44.9485237,-93.2522561,"1526 E Lake St, Minneapolis, MN 55407, United States",4.5,208
+685,ChIJ0-GDE5Eys1IRlxo3Pu5DaEE,Seven Steakhouse Sushi & Rooftop,44.9779459,-93.2751183,"700 Hennepin Ave, Minneapolis, MN 55403, United States",3.9,1035
+686,ChIJfYt8J9ots1IRM5qlxeuKMRM,Banh Appetit,44.9820493,-93.23495469999999,"511 14th Ave SE, Minneapolis, MN 55414, United States",5,44
+687,ChIJmaXYl5wys1IRfcAk7EEfC40,Dagwoods,44.9801963,-93.2661298,"250 2nd Ave S, Minneapolis, MN 55401, United States",4.5,52
+688,ChIJ2yzEpCQn9ocR1FuoTH0a1Q8,Penny's Coffee,44.9229624,-93.3243954,"3509 W 44th St, Minneapolis, MN 55410, United States",4.4,244
+690,ChIJZeZp53cts1IRSeV8CumX3T0,The Bad Waitress Northeast,44.9907848,-93.25127789999999,"700 Central Ave NE, Minneapolis, MN 55414, United States",3.9,729
+691,ChIJ49d7ZZYys1IRSQ5-gLXV4Yc,Chipotle Mexican Grill,44.9736485,-93.2753808,"1040 Nicollet Mall, Minneapolis, MN 55403, United States",4.1,601
+692,ChIJo7ylxoEn9ocRcsU3gKQDJPc,Uptown Tavern & Rooftop,44.9494159,-93.2974507,"1400 Lagoon Ave, Minneapolis, MN 55408, United States",3.8,1023
+693,ChIJ8-8sa48ys1IR8Izmr5fvspM,The Office Pub & Grill,44.9846224,-93.2731366,"307 N Washington Ave, Minneapolis, MN 55401, United States",4.2,190
+694,ChIJQVr0SWoq9ocRjLfyCJoUzIY,Everest on Grand,44.939863,-93.1540953,"1278 Grand Ave, St Paul, MN 55105, United States",4.3,687
+695,ChIJp8wywgYo9ocRCPpun3j0ULA,Tacos El Primo,44.9480638,-93.25495079999999,"1405 E Lake St, Minneapolis, MN 55407, United States",4.4,146
+696,ChIJsypZGPErs1IRoVZO3d2HQTM,Lisu's Thai Taste | Roseville,45.0184043,-93.1783257,"2575 Fairview Ave N, Roseville, MN 55113, United States",4.4,527
+697,ChIJU5gXxmcq9ocR3OJaBli33WQ,The Uptowner Cafe on Grand,44.9398267,-93.14681910000002,"1100 Grand Ave, St Paul, MN 55105, United States",4.4,759
+698,ChIJ64CwI_wn9ocRjrsVZKmgGZE,Hamdi Restaurant,44.9485959,-93.26192429999999,"818 E Lake St, Minneapolis, MN 55407, United States",4.1,135
+699,ChIJoaI2axous1IRGoNSF26yjK8,Amos & Amos Barbeque Restaurant,45.0411017,-93.2590821,"4000 6th St NE, Columbia Heights, MN 55421, United States",4.3,173
+700,ChIJeyz_y5Qys1IRDYxEjil3v0U,Davanni's Pizza & Hot Hoagies,44.9749187,-93.2808067,"1242 Hennepin Ave, Minneapolis, MN 55403, United States",4.1,359
+701,ChIJBRixHS4v9ocRLOcx27Wf3TQ,Cocina del Barrio,44.874643,-93.22746900000001,"7150 Humphrey Drive HT-2330, Minneapolis, MN 55450, United States",3.5,443
+702,ChIJFYKwfC8n9ocRWcG8vJMDa2U,Great Wall Chinese Restaurant,44.92088570000001,-93.32857949999999,"4515 France Ave S, Minneapolis, MN 55410, United States",3.8,187
+703,ChIJ4xkkmpEss1IRdil5xVyvdB4,Finnish Bistro Coffee & Cafe,44.9815424,-93.1950756,"2264 Como Ave, St Paul, MN 55108, United States",4.4,755
+704,ChIJIRZyf5Ays1IRH_M3ZVdHJac,The Pourhouse,44.97953,-93.27182499999999,"10 S 5th St #11, Minneapolis, MN 55402, United States",3.7,1036
+705,ChIJ5YzPoRgts1IR6j5GEiUkxAw,Naf Naf Grill,44.9733878,-93.2265007,"856 SE Washington Ave, Minneapolis, MN 55414, United States",4.3,247
+707,ChIJKcT_fpkys1IRa-I1B8mI8Gk,Atlas Grill & Clubroom,44.9768276,-93.2670095,"200 South 6th St, Minneapolis, MN 55402, United States",4.3,145
+709,ChIJ8cVbfsUl9ocRS_lGZwAU4Z0,Broadway Pizza,44.8666663,-93.28903040000002,"7514 Lyndale Ave S, Richfield, MN 55423, United States",4.7,636
+710,ChIJ36a8PpE1s1IRIpQq3ajo8iY,Lucky Cricket,44.9674494,-93.3475605,"1607 West End Blvd, St Louis Park, MN 55416, United States",3.5,447
+711,ChIJj_H0Rg0m9ocR5p8re8dY7bM,Vina Vietnamese Restaurant,44.886898,-93.277683,"6401 Nicollet Ave, Richfield, MN 55423, United States",4.2,253
+712,ChIJbYkTbsIn9ocRaPMifKwZ6Ks,Seward Community Co-op - Friendship Store,44.9339224,-93.27182379999999,"317 E 38th St, Minneapolis, MN 55409, United States",4.6,662
+713,ChIJaZGkSaI0s1IR4KXuICXDEBw,The Loop West End,44.96786900000001,-93.3472669,"5331 W 16th St, Minneapolis, MN 55416, United States",4.3,718
+714,ChIJzS-m25Ays1IRnrW1z3E0nSE,The Salad Bar,44.9774497,-93.27311549999999,"Skyway Kiosk, 40 South 7th Street City Center, Minneapolis, MN 55402, United States",4.8,34
+715,ChIJAQDAnJoys1IRAeAX1e2tDJw,Hibachi Daruma,44.9746625,-93.27247799999999,"820 S Marquette Ave, Minneapolis, MN 55402, United States",4.7,50
+716,ChIJoeUKnJsys1IR8obYhj9EaqQ,Andrea Pizza,44.9762362,-93.2686052,"225 South 6th St, Minneapolis, MN 55402, United States",4.7,63
+717,ChIJU6yOK8k2s1IRsRf4NrhDMis,Big Louie's Bar and Grill,45.048494,-93.3577947,"5216 W Broadway Ave, Minneapolis, MN 55429, United States",4.3,924
+718,ChIJSfoq3hwk9ocR6wbjhWv5GNM,Nakamori Japanese Bistro,44.8745431,-93.3273495,"7101 France Ave S #113, Edina, MN 55435, United States",4.4,378
+719,ChIJk4z6iZ0ys1IRdTef-wSPeJ8,Hop21 Ping Pong Bar,44.9785241,-93.2609409,"501 Washington Avenue South Underground, Minneapolis, MN 55415, United States",4.4,187
+720,ChIJ_X0U1fAn9ocRuS-x-YJ3Bsk,Pineda Tacos Plus,44.9485178,-93.2708883,"330 E Lake St, Minneapolis, MN 55408, United States",4.6,481
+721,ChIJIV1Zu44ys1IR2XOYojXe-mk,Darby's Pub & Grill,44.9847259,-93.2756939,"315 N 5th Ave, Minneapolis, MN 55401, United States",4,254
+722,ChIJGZ4G0_0n9ocRhnKoZSVLGec,Grass Roots Gourmet,44.9486757,-93.26074109999999,"920 E Lake St # 130, Minneapolis, MN 55407, United States",3.8,4
+724,ChIJ4zufmuUj9ocRVTkKIA3N8xA,JK's Table,44.8674641,-93.3522112,"7401 Metro Blvd #155, Edina, MN 55439, United States",4.8,344
+725,ChIJb7XvoGIts1IRdf3ytlJhWBw,Porter Cafe,44.9805713,-93.2613204,"428 S 2nd St, Minneapolis, MN 55401, United States",4.4,23
+726,ChIJFeMLn5gys1IR6nWPKmsT_O0,Tavola Italian Kitchen + Bar,44.9721736,-93.26674279999999,"823 S 5th Ave, Minneapolis, MN 55404, United States",4.2,109
+727,ChIJ7e2KN4srs1IRl0rD_9wKpwo,Good Earth Restaurant,45.0110948,-93.1803446,"1901 MN-36, Roseville, MN 55113, United States",4.3,971
+728,ChIJFTEkHvAm9ocRLglQtHT8UpI,Kwan's Chinese Cuisine on Penn,44.904613,-93.30895799999999,"5412 Penn Ave S, Minneapolis, MN 55419, United States",4.1,103
+729,ChIJl-V4UnAm9ocREJUAW-QDTEM,Taqueria El Ranchito,44.8859725,-93.2860716,"6451 Lyndale Ave S, Richfield, MN 55423, United States",4.2,157
+730,ChIJGQ7XhZsys1IR4EUDviwLaoE,IGRILL,44.9786607,-93.26649669999999,"331 2nd Ave S #206, Minneapolis, MN 55401, United States",4.4,324
+732,ChIJoeUKnJsys1IRu74dEeNjsis,China Kitchen,44.97922639999999,-93.2669483,"330 2nd Ave S, Minneapolis, MN 55401, United States",4.7,164
+733,ChIJu4JMrmwus1IRALgnVHbNJFc,Jimmy's Pro Billiards,45.0421209,-93.24765959999999,"4040 Central Ave NE, Columbia Heights, MN 55421, United States",4.2,393
+734,ChIJGaIlZhM0s1IRiFLe9qIxtPA,Crystal Cafe & Grill,45.0080491,-93.3593468,"2732 Douglas Dr N, Minneapolis, MN 55422, United States",4.3,403
+735,ChIJySWtwIQss1IRASuXaWV22Do,Mim's Cafe,44.9844409,-93.1875781,"1435 Cleveland Ave N, St Paul, MN 55108, United States",4.6,283
+736,ChIJa368TmYm9ocR7U4-m87iTjI,Patrick's Bakery & Cafe,44.89391149999999,-93.2893941,"6010 Lyndale Ave S, Minneapolis, MN 55419, United States",4.2,38
+737,ChIJtbFBgBon9ocRKgD49VeY9Qc,Bread & Pickle,44.927901,-93.30824729999999,"4135 W Lake Harriet Pkwy, Minneapolis, MN 55410, United States",4.2,177
+738,ChIJwVIGZ5gm9ocR4Lt6mBWhpDU,Patrick's Bakery & Cafe,44.8850094,-93.3174015,"2928 W 66th St, Richfield, MN 55423, United States",4.3,583
+739,ChIJnzXi2FUzs1IRU5jdeSlV25A,Cargo Food Authority,44.9796918,-93.27537749999999,"600 N 1st Ave, Minneapolis, MN 55403, United States",4.2,104
+740,ChIJGZ4G0_0n9ocRX7lMzjKFTgo,Pham's Rice Bowl,44.9486757,-93.26074109999999,"920 E Lake St, Minneapolis, MN 55407, United States",3.7,43
+741,ChIJUYDUpYkts1IRb-wBqFNin8I,Knight Cap Bar Lounge,45.003207,-93.261775,"1500 4th St NE, Minneapolis, MN 55413, United States",4.4,238
+742,ChIJd46WjREts1IRGqUr0mE99jI,China Express,44.9809118,-93.23578859999999,"409 14th Ave SE, Minneapolis, MN 55414, United States",3.9,92
+743,ChIJz2MysM4p9ocRrHQM5GQrOn4,Turtle Bread,44.94132,-93.212354,"4205 E 34th St, Minneapolis, MN 55406, United States",4.5,251
+744,ChIJd7UCKyEo9ocR3FU75oRoqYw,China Wok,44.951809,-93.23335399999999,"2800 27th Ave S, Minneapolis, MN 55406, United States",3.8,164
+745,ChIJ3xI-XoUys1IR7YAsKufr344,Jackson's Hole Bar & Grill,44.9822398,-93.27142599999999,"106 N 3rd St, Minneapolis, MN 55401, United States",4.2,238
+746,ChIJ3YSDxkMts1IRCZip6ljfkrI,Lucky Dragon Restaurant,44.9694147,-93.245961,"1827 Riverside Ave, Minneapolis, MN 55454, United States",4,111
+747,ChIJez650Jsys1IR1iK4vvRtEe0,Good to Go,44.977036,-93.268035,"200 South 6th St, Minneapolis, MN 55402, United States",4.2,49
+748,ChIJdxwFrvAn9ocRPmJoMJ0jO_Q,A & J Fish & Chicken Inc.,44.948647,-93.268524,"500 E Lake St, Minneapolis, MN 55408, United States",4.1,648
+749,ChIJQ3UcrdQn9ocRD_FcBXAc3S8,Pizza Biga,44.9163254,-93.26302079999999,"4762 Chicago Ave, Minneapolis, MN 55407, United States",4.7,70
+750,ChIJaePvA6Er9ocRGyaJLfZ4UmM,Magic Noodle,44.955923,-93.1565966,"1337 University Ave W, St Paul, MN 55104, United States",4.4,425
+751,ChIJlVWSqIIxs1IRHLqy7hSfJlE,Emily's FM Cafe,45.0356495,-93.30801079999999,"2124 N 44th Ave, Minneapolis, MN 55412, United States",4.5,428
+752,ChIJ3Ytf8pYys1IRD9DB9cb70W0,Simpls,44.9746816,-93.27448629999999,"950 Nicollet Mall #205, Minneapolis, MN 55403, United States",5,14
+753,ChIJ84mjRiQg9ocRKBSNWWLClzY,Nacho's Mexican Grill,44.9242882,-93.4133851,"1016 Mainstreet, Hopkins, MN 55343, United States",4.6,686
+754,ChIJyeMTVpg2s1IRnDItB6DuCiY,New Hope Bowl,45.0319307,-93.37076689999999,"7107 42nd Ave N, Minneapolis, MN 55427, United States",4.3,500
+755,ChIJRS1QgJcrs1IRxQM2aaWCSFY,CHIANTI GRILL Italian Restaurant,45.00290589999999,-93.16559409999999,"2050 Snelling Ave N, Roseville, MN 55113, United States",4.5,968
+756,ChIJiWyaN3gts1IRXrVKpLD1so0,Conga Latin Bistro,44.989313,-93.2534558,"501 E Hennepin Ave, Minneapolis, MN 55414, United States",4,582
+757,ChIJ-Y5LBoUts1IRtqUkJ6CZKoU,Cali's Vietnamese Restaurant,44.998591,-93.25567029999999,"648 Broadway St NE, Minneapolis, MN 55413, United States",3.9,258
+758,ChIJp3uBBxkzs1IRVLRfAKcDSbQ,Bryn Mawr Pizza & Deli,44.9737316,-93.3086608,"404 Cedar Lake Rd S, Minneapolis, MN 55405, United States",4.4,147
+759,ChIJL65dFBEts1IRwnYznnDS0_s,Ichiddo Ramen,44.979022,-93.23456499999999,"1501 University Ave SE #130, Minneapolis, MN 55414, United States",4.3,190
+760,ChIJVe0o4HAm9ocRhigQz5ih0n8,My Burger,44.8836422,-93.2860336,"6555 Lyndale Ave S, Richfield, MN 55423, United States",4.5,694
+761,ChIJ16hZfBgts1IR4h7jHLp8vuQ,Sally's Saloon,44.9734322,-93.2284835,"700 SE Washington Ave, Minneapolis, MN 55414, United States",3.9,466
+762,ChIJse3VlbUys1IRVmcwoMZRK-s,Caravelle Restaurant,44.9563285,-93.2775429,"2529 Nicollet Ave, Minneapolis, MN 55404, United States",4.2,53
+763,ChIJiXCojckg9ocRLIC2lpWD7j4,Pannekoeken Huis,44.9315064,-93.34466479999999,"4995 Excelsior Blvd, St Louis Park, MN 55416, United States",4.2,538
+764,ChIJK2pSIJcys1IReh84f5vQqqI,Panera Bread,44.9754692,-93.2732066,"809 Nicollet Mall, Minneapolis, MN 55402, United States",3.9,296
+765,ChIJjW6yw4oys1IRFs2dnxhIQJs,C McGee's Deli,44.98865199999999,-93.28150699999999,"1001, 901 N 3rd St #123, Minneapolis, MN 55401, United States",4.5,61
+766,ChIJ1xUTTSwp9ocR7bD6EP-vmgs,Mimosa,44.882155,-93.212711,"4300 Glumack Dr, St Paul, MN 55111, United States",3.4,215
+767,ChIJKS_Zucon9ocRddwIqCIFa7U,Fast Eddie's Pizza,44.9163936,-93.27761369999999,"4747 Nicollet Ave, Minneapolis, MN 55419, United States",4.3,62
+768,ChIJ1QE6-nMm9ocRIcOziE6FA5k,Lakes Buffet,44.8831014,-93.2775521,"9 E 66th St, Richfield, MN 55423, United States",3.8,708
+769,ChIJxxuO7Ywh9ocRfoBWG8Nbq9I,The Block Food & Drink,44.93881950000001,-93.36566789999999,"7007 Walker St, St Louis Park, MN 55426, United States",4.5,159
+770,ChIJZyxzMb4ys1IRdigYFpehVCM,Prairie Kitchen & Bar,44.9713121,-93.27753,"1300 Nicollet Mall, Minneapolis, MN 55403, United States",3.7,118
+771,ChIJZwcfI7gss1IRUulCjVU3O9E,Foxy Falafel,44.96520410000001,-93.19774029999999,"791 Raymond Ave, St Paul, MN 55114, United States",4.5,541
+772,ChIJ_f6Zspsys1IRexw2cL_0_Bw,Sphere,44.97839219999999,-93.2686588,"100 S 5th St, Minneapolis, MN 55402, United States",4.6,111
+773,ChIJxxyJIsszs1IRITE_kzYPgaA,SOUL BOWL,44.9850511,-93.27759720000002,"520 N 4th St #202, Minneapolis, MN 55401, United States",4.9,15
+774,ChIJT0FI6agss1IRHAf0ZX4Rw_0,Can Can Wonderland,44.9653663,-93.18321510000001,"755 Prior Ave N Suite #004, St Paul, MN 55104, United States",4.2,3084
+775,ChIJzYbFR1kzs1IR_x2ATQAFp40,Ono Hawaiian Plates,44.9880007,-93.2779855,"729 N Washington Ave, Minneapolis, MN 55413, United States",4.5,10
+776,ChIJL8bkG5oys1IR0fY7msY8vwk,My Burger,44.9769295,-93.2700555,"601 S Marquette Ave, Minneapolis, MN 55402, United States",4.2,179
+777,ChIJsXdrFt8j9ocRQEUDoFjb3ac,TJ's of Edina Restaurant,44.874526,-93.362589,"7100 Amundson Ave, Edina, MN 55439, United States",4.4,170
+778,ChIJC-XzVYkn9ocRT9_IYRzamEE,Popeyes Louisiana Kitchen,44.9485774,-93.28353340000001,"310 W Lake St, Minneapolis, MN 55408, United States",3.7,561
+779,ChIJs3rc0m8q9ocRYpogcbkGJQY,Pizza Luce,44.946881,-93.1502369,"1183 Selby Ave, St Paul, MN 55104, United States",4.5,1148
+780,ChIJzbDGB5Yss1IRYK8qYg_cIHM,Pho 79 Restaurants,44.9747274,-93.19503929999999,"2233 Energy Park Dr #800, St Paul, MN 55108, United States",4.4,539
+781,ChIJ4S1GHpIss1IRGuUS2WBntrY,Tim & Tom's Speedy Market Inc,44.982446,-93.196327,"2310 Como Ave, St Paul, MN 55108, United States",4.7,118
+782,ChIJhfSPhvMn9ocRvZ35VS7vLdo,Chinese Express,44.9479748,-93.2756302,"121 E Lake St, Minneapolis, MN 55408, United States",4.2,194
+783,ChIJ2aPYK1Uo9ocR4k5o312yJ5A,Crystal Garden,44.918143,-93.216251,"4711 Hiawatha Ave, Minneapolis, MN 55406, United States",4.1,196
+784,ChIJo85TL6Yys1IR35_yksmv8G8,Daily Cairo Grill,44.9630425,-93.2632308,"1922 Chicago Ave, Minneapolis, MN 55404, United States",4.2,143
+785,ChIJTZUnbggrs1IRw8wt7R_RDGU,La Tapatia,44.9924263,-93.15240299999999,"1237 Larpenteur Ave W, Roseville, MN 55113, United States",4.8,495
+787,ChIJJUIxg3A0s1IRsJIUEu2AFIE,Teresa's Mexican Restaurant,44.99765439999999,-93.3509624,"5621 Duluth St, Golden Valley, MN 55422, United States",4.3,1082
+788,ChIJ7zKqi7css1IRxVP1Av9zY5E,Keys Cafe & Bakery,44.9645965,-93.19779659999999,"767 Raymond Ave, St Paul, MN 55114, United States",4.3,755
+789,ChIJDWJSTJsm9ocRQ5Q9MkB5gBc,Sandy's Tavern,44.8829654,-93.3088717,"6612 Penn Ave S, Richfield, MN 55423, United States",4.5,347
+790,ChIJF3UJVAgss1IRxJCWyhMV3zM,India Palace,45.0188448,-93.1867765,"2570 Cleveland Ave N, St Paul, MN 55113, United States",4.2,1133
+791,ChIJZwaB_aYm9ocRMQqUx0rOggI,DeLeo Bros. Pizza,44.8806309,-93.32520149999999,"1705 Southdale Ctr, Edina, MN 55435, United States",4.6,445
+792,ChIJr1F6dCk0s1IRAkKwXFKMzfg,Tacos El Paraíso,45.0221356,-93.3821763,"8000 36th Ave N, Minneapolis, MN 55427, United States",4.7,151
+793,ChIJB_Gw-Nkss1IRmC6bm-ijkAs,Gatherings Cafe,44.9629427,-93.2526896,"1530 E Franklin Ave, Minneapolis, MN 55404, United States",4.7,35
+794,ChIJr6IAj3oys1IRkyKAY4HwA0A,Bunny's Bar & Grill NE,44.99928000000001,-93.2719484,"34 13th Ave NE, Minneapolis, MN 55413, United States",4.3,640
+795,ChIJeWhuQZAys1IR-2AuivYCVUE,Sal's on Fifth,44.9798749,-93.27265640000002,"10 N 5th St, Minneapolis, MN 55403, United States",4,467
+796,ChIJLS5KQ5cys1IRd5h-_rjD8y0,People's Organic Cafe,44.97597160000001,-93.27168879999999,"80 S 8th St #156, Minneapolis, MN 55402, United States",3.3,46
+797,ChIJlUpHwwgrs1IRENnrkghgTn0,Eureka Compass Vegan Food,44.9600528,-93.1724255,"629 Aldine St, St Paul, MN 55104, United States",4.7,97
+798,ChIJKzOP65Qys1IRIwASstOhIRs,The Bulldog Downtown,44.9748828,-93.2794404,"1111 Hennepin Ave, Minneapolis, MN 55403, United States",4.3,393
+799,ChIJ3eWDMZoys1IRuNz7-r5NLs8,Crepes Up Delicious,44.97738090000001,-93.2689781,"120 South 6th St, Minneapolis, MN 55402, United States",4.5,21
+800,ChIJt3dUXl4n9ocRiOi-y-MYNZ4,1st Wok,44.9493645,-93.3209954,"3236 W Lake St, Minneapolis, MN 55416, United States",4.1,85
+801,ChIJtWUoawUn9ocR6x014Uppv6g,Don Raul Restaurant,44.9126869,-93.31864870000001,"4953 Xerxes Ave S, Minneapolis, MN 55410, United States",4.6,44
+802,ChIJi2YG7CQg9ocRF2qvfxEbKE8,Pub 819,44.9246055,-93.41107869999999,"819 Mainstreet, Hopkins, MN 55343, United States",4.3,1251
+803,ChIJHTlZhhgts1IRN-AIZHcMYEE,Bruegger's Bagels,44.97352679999999,-93.22730899999999,"720 Washington Ave SE, Minneapolis, MN 55414, United States",4.3,163
+804,ChIJY9s8qoQm9ocROIzQR24LpuI,Cadao Express,44.8823065,-93.3082914,"6637 Penn Ave S, Minneapolis, MN 55423, United States",4.5,200
+805,ChIJYxxGWyQg9ocRq6ThzOpfW_8,Samba Taste of Brazil,44.92429749999999,-93.41255679999999,"922 Mainstreet, Hopkins, MN 55343, United States",4.7,458
+806,ChIJ5Suretcm9ocRRVe5qkTQTfA,Cocina Del Barrio,44.911387,-93.3294706,"5036 France Ave S, Edina, MN 55424, United States",4.4,399
+807,ChIJPYucoagm9ocRH4BF7RXWeQQ,Tavern on France,44.880569,-93.329477,"6740 France Ave S, Edina, MN 55435, United States",4.2,1749
+808,ChIJjVyMS94ss1IRftfk5SV6FbI,U Garden Restaurant And Event Center,44.972026,-93.21736,"2725 University Ave SE, Minneapolis, MN 55414, United States",3.8,326
+809,ChIJGVnK4r4ys1IRTJAGAZqMkCA,Ping's,44.9688398,-93.27749519999999,"1401 Nicollet Ave, Minneapolis, MN 55403, United States",4.1,344
+810,ChIJOSVsWh0k9ocReT0ePuCxMas,Pittsburgh Blue Steakhouse,44.8768361,-93.3236761,"The Galleria, 3220 W 70th St, Edina, MN 55435, United States",4.4,690
+811,ChIJTwHy16cY9ocRMkSbMyddXMo,TequeArepa,44.8642663,-93.4214054,"7733 Flying Cloud Dr, Eden Prairie, MN 55344, United States",4.6,331
+812,ChIJa7BZMw0us1IRBdWQK1VsRpk,Jasmine Thai,45.0364965,-93.24766100000001,"3800 Central Ave NE, Columbia Heights, MN 55421, United States",4.4,490
+813,ChIJK9Ak_gcq9ocRYp-SRlPRQCI,Turf Club,44.9559807,-93.1679755,"1601 University Ave W, St Paul, MN 55104, United States",4.6,994
+814,ChIJHwTtcQQo9ocReWjCQeR1RhI,Star Dragon,44.94865799999999,-93.25171499999999,"1540 E Lake St #1739, Minneapolis, MN 55407, United States",4,75
+815,ChIJXZaAUDAss1IRU9dNljVGe5Y,Village Pub,45.0171971,-93.21811729999999,"2720 County Rd 88, St Anthony, MN 55418, United States",4,444
+816,ChIJU04v8Dczs1IRnaPWySgaxHY,Breakfast Bar Of Minnesota,44.9814577,-93.2719309,"319 N 1st Ave N, Minneapolis, MN 55401, United States",4.3,125
+817,ChIJa4427WYts1IR7XNpRuUO84U,Sarpino’s Pizzeria,44.9758399,-93.2534527,"1028 S Washington Ave, Minneapolis, MN 55415, United States",3,227
+818,ChIJNWb4cSYm9ocRGkhHWUA0MEk,Huie's Chow Mein,44.9054272,-93.26299209999999,"5358 Chicago Ave, Minneapolis, MN 55417, United States",4.5,77
+819,ChIJUa38uYIp9ocRfhOnJxNzmQc,Sakana Sushi & Asian Bistro,44.91919739999999,-93.1870471,"740 Cleveland Ave S, St Paul, MN 55116, United States",4.3,350
+820,ChIJt9n7OSwp9ocRU4XxTwgAPKM,Lake Wine Kitchen + Bar,44.884122,-93.211232,"4300 Glumack Drive LT-2318, St Paul, MN 55111, United States",4.2,156
+821,ChIJ8Swcf48ys1IRisPuOdz8rBE,Stadium Bar and Grill,44.9838544,-93.2718488,"207 N Washington Ave, Minneapolis, MN 55401, United States",3.7,154
+822,ChIJQxXEu2Mts1IRdobEueRxf38,Bushel & Peck,44.9786756,-93.2573058,"704 S 2nd St, Minneapolis, MN 55401, United States",4.4,43
+823,ChIJ0_0mKVoxs1IRfLjLHsLmCGA,Broadway Pizza (Eagles Nest Lounge),45.0310019,-93.33598070000001,"4106 Lakeland Ave N, Robbinsdale, MN 55422, United States",4.4,549
+824,ChIJZ0SAT5Yys1IRaB0CcO8LJzk,Devil's Advocate,44.973411,-93.27554099999999,"1070 Nicollet Mall, Minneapolis, MN 55403, United States",4.2,307
+825,ChIJeQMT4uMws1IR8fukmq5mBRA,Hiep Thanh BBQ & Deli,45.0675779,-93.3276489,"6201 Brooklyn Blvd, Brooklyn Center, MN 55429, United States",3.2,137
+826,ChIJQUskrdUus1IRdO1UNWG6OlE,Barley John's Brew Pub,45.0361407,-93.19814459999999,"781 Old Hwy 8 SW, New Brighton, MN 55112, United States",4.3,480
+827,ChIJZVuG3wwzs1IRCUwtWirkDYU,Great Dragon,44.9631738,-93.26326209999999,"1916 Chicago Ave, Minneapolis, MN 55404, United States",3.8,15
+828,ChIJK-owjsUl9ocRuXwiLonKJXI,Joy's Pattaya Thai Restaurant,44.8656962,-93.28805910000001,"7545 Lyndale Ave S, Richfield, MN 55423, United States",4.2,701
+829,ChIJw9G1JfUts1IR6t-tksw2z0Y,Bark and the Bite,44.9481054,-93.1926771,"2186 Marshall Ave, St Paul, MN 55104, United States",4.4,277
+830,ChIJK6mgKgA1s1IRCgkAaI534MU,New Bohemia - Golden Valley,44.9851298,-93.38336950000001,"8040 Olson Memorial Hwy, Golden Valley, MN 55427, United States",4.4,1032
+832,ChIJh8COMtg1s1IRpqoOuoFUE50,Gion Restaurant,45.0226948,-93.3994798,"9418 36th Ave N, New Hope, MN 55427, United States",4.4,523
+833,ChIJ4S0HLI01s1IRRYkYWp-F_Lo,Taco Teresa´s,44.98669,-93.4086442,"10100 6th Ave N, Plymouth, MN 55441, United States",4.6,296
+834,ChIJY0Int5Ays1IRGETvlZmpZ4g,Freshii,44.9773,-93.2711175,"651 Nicollet Mall, Minneapolis, MN 55402, United States",3.9,64
+836,ChIJj-dI8hUo9ocR5Z19RLk5RUM,Kabomelette,44.9392551,-93.2387538,"3507 23rd Ave S, Minneapolis, MN 55407, United States",4.3,4
+837,ChIJjR_W_fMn9ocRydTHMcAbIgs,Gorditas El Gordo,44.9482452,-93.27356909999999,"211 E Lake St, Minneapolis, MN 55408, United States",4.1,217
+838,ChIJvSCu8nUq9ocRp97Mcg3maBQ,Bole Ethiopian Cuisine,44.9560237,-93.15409819999999,"490 N Syndicate St, St Paul, MN 55104, United States",4.6,420
+840,ChIJ7Xs_l1U1s1IRCVBHWo-zuEQ,Crossroads Delicatessen,44.95195,-93.4186438,"2795 Hedberg Dr, Minnetonka, MN 55305, United States",4.4,641
+841,ChIJeTN0Yqko9ocRidXewbg2A0s,Frenchman's Pub,44.88367849999999,-93.25522199999999,"1400 E 66th St, Minneapolis, MN 55423, United States",4.2,466
+842,ChIJZ9foqdcm9ocRrkbbtVMmluM,Raku,44.9124126,-93.3305097,"3939 W 50th St #101, Edina, MN 55424, United States",4.1,207
+843,ChIJReOtjzgm9ocRP2C_TgTgxpQ,Best Steak House,44.9036141,-93.2776257,"5455 Nicollet Ave, Minneapolis, MN 55419, United States",4.3,501
+844,ChIJjx7rGQwys1IRKIUYf4BZ9lA,Betty Danger's Country Club,45.0135775,-93.27144469999999,"2501 Marshall St NE, Minneapolis, MN 55418, United States",4.2,2263
+845,ChIJs8EcUIQys1IRgu2_suYGBik,TRUCE - North Loop,44.984239,-93.26883699999999,"120 N 1st Ave, Minneapolis, MN 55401, United States",4.6,49
+846,ChIJEZJAKBIts1IRTI8v9Eps4CI,Loring Bar & Restaurant,44.9804281,-93.2362534,"327 14th Ave SE, Minneapolis, MN 55414, United States",4.1,638
+847,ChIJOxvW52Mzs1IRHyIJRGzHODo,Bar Brava,44.99869690000001,-93.28156399999999,"1914 N Washington Ave, Minneapolis, MN 55411, United States",5,26
+848,ChIJXxvejSwp9ocRoatAjLLuqf0,Volante,44.880713,-93.2090133,"4300 Glumack Dr, St Paul, MN 55111, United States",3.4,94
+849,ChIJczNXDxEts1IRPUlP7jiCmyc,Erbert and Gerberts,44.9794732,-93.2345489,"316 15th Ave SE, Minneapolis, MN 55414, United States",3.8,40
+850,ChIJBT74U80u9ocR7zKboLSfJ8g,Vero,44.88017749999999,-93.2077655,"Terminal 1- Lindbergh, 4300 Glumack Dr, St Paul, MN 55111, United States",3.8,153
+851,ChIJC-nvkxEts1IRCwUca3ydW5E,Blarney Pub & Grill,44.98081579999999,-93.23518020000002,"412 14th Ave SE, Minneapolis, MN 55414, United States",3.8,562
+852,ChIJV87gb-wrs1IRHuK9kI_Q6Yw,The Original Pancake House,45.0165868,-93.17108789999999,"1661 County Road B2 W, Roseville, MN 55113, United States",4.3,1005
+853,ChIJ0ZtoZY8us1IRzwfJ9bs2dic,Fat Nat's Eggs,45.03908269999999,-93.22101149999999,"2700 39th Ave NE, Minneapolis, MN 55421, United States",4.5,611
+854,ChIJBVOlJ6Ays1IR_3pMZs2pQr4,HCMC,44.9725882,-93.26191039999999,"701 Park Ave, Minneapolis, MN 55415, United States",2.8,300
+855,ChIJcVwQ8ZYn9ocRV45zNAqSWRs,La Michoacana Purepecha,44.9481674,-93.26496999999999,"701 E Lake St, Minneapolis, MN 55407, United States",4.6,322
+856,ChIJX_A43Rok9ocRp_ouMvbKayI,Pinstripes,44.8702394,-93.32737139999999,"3849 Gallagher Dr, Edina, MN 55435, United States",4.4,1698
+857,ChIJR_OsA9Mzs1IRs5fuNGVxtTY,North Loop Galley,44.9880007,-93.2779855,"729 N Washington Ave #102, Minneapolis, MN 55413, United States",4.5,27
+858,ChIJhwz-WIUg9ocR4CeaMO4t0us,Park Tavern,44.9412812,-93.3695637,"3401 Louisiana Ave S, St Louis Park, MN 55426, United States",4.2,1789
+859,ChIJJbsIDBcq9ocRhwCfMk-MFY4,Khyber Pass Cafe,44.940226,-93.16637469999999,"1571 Grand Ave, St Paul, MN 55105, United States",4.4,195
+860,ChIJcXktzXgts1IRq0dlv7EoCkM,Roti Modern Mediterranean,44.97350309999999,-93.22945829999999,"614 Washington Ave SE, Minneapolis, MN 55414, United States",4.7,171
+861,ChIJi-KRaUEss1IR14led1USb6E,Chinatown Tai Chi Center,44.9980507,-93.20534219999999,"1891 Walnut St, Lauderdale, MN 55113, United States",5,2
+862,ChIJPyBqKBAk9ocRpOVkZm7-ncQ,Jason's Deli,44.8657956,-93.32744129999999,"7565 France Ave S, Edina, MN 55435, United States",4.5,723
+863,ChIJGZ4G0_0n9ocRXvTX4eRO73Q,Cafe Finspang,44.9486757,-93.26074109999999,"920 E Lake St # 103, Minneapolis, MN 55407, United States",4.7,7
+864,ChIJzbuMpocts1IRGlWZcAL0A80,Umbra Minneapolis,44.9766161,-93.2586966,"708 S 3rd St, Minneapolis, MN 55415, United States",4.4,52
+865,ChIJZeGPDAIts1IRY9DcrpQXnMU,Market Bar-B-Que Restaurant And Food Trucks,45.0130028,-93.26505730000001,"220 NE Lowry Ave, Minneapolis, MN 55418, United States",4.1,480
+866,ChIJWcfFFDots1IRSp1B3B7BViQ,Bus Stop Burgers and Brewhouse,44.9762813,-93.260744,"620 S 4th St, Minneapolis, MN 55415, United States",4,182
+867,ChIJPe6Tteo0s1IRLJwJAydbFl8,Super Moon,44.9704112,-93.3614891,"6445 Wayzata Blvd, St Louis Park, MN 55426, United States",4.1,2264
+868,ChIJDZZELGgts1IRx9vcsr5_r20,Jewel Of India,44.9729773,-93.24816109999999,"1427 S Washington Ave, Minneapolis, MN 55454, United States",3,98
+869,ChIJ6Ruabx8ts1IREK3J7fc5FRg,Peking Garden,44.9541637,-93.16247829999999,"1488 University Ave W, St Paul, MN 55104, United States",4,730
+870,ChIJbVRxuU8rs1IRQmO4tZWO08M,Mirror of Korea,44.9639429,-93.1675357,"761 Snelling Ave, St Paul, MN 55104, United States",4.2,395
+871,ChIJsfp6bx0k9ocRZ0exZyc8SrQ,Good Earth,44.8768637,-93.32560989999999,"3460 W 70th St, Edina, MN 55435, United States",4.3,471
+872,ChIJ1ViUT-Ih9ocRYzK49_jWxOc,Campiello,44.886429,-93.418111,"6411 City W Pkwy, Eden Prairie, MN 55344, United States",4.5,494
+873,ChIJm0_VloEn9ocRHcEdcTlPQm4,Sotarol Asian Kitchen,44.9487604,-93.29688349999999,"2935 Girard Ave S, Minneapolis, MN 55408, United States",3.9,52
+874,ChIJSRBsloEn9ocRr2gWJwpsJyk,Agra Culture Kitchen,44.9486833,-93.2968839,"2939 Girard Ave S, Minneapolis, MN 55408, United States",4.2,205
+875,ChIJBxFYkiYg9ocR7LZiD_1ATTQ,Munkabeans Cafe & Coffeehouse,44.924262,-93.4155907,"1206 Mainstreet, Hopkins, MN 55343, United States",4.5,362
+876,ChIJ4yGf3ZYys1IRk2wYFxzAJj0,Mama's Bakery Pizza & Salad Bar,44.975821,-93.27366699999999,"800 Nicollet Mall #240v, Minneapolis, MN 55402, United States",4.5,97
+877,ChIJAVE2ojkts1IR7zhjMIr9ZfQ,Davanni's Pizza & Hot Hoagies,44.9655339,-93.2359651,"2500 Riverside Ave, Minneapolis, MN 55454, United States",4.3,385
+878,ChIJvehYgF4n9ocRbpWArg6c0Ak,Noodles and Company,44.9474746,-93.3214836,"3040 Excelsior Blvd At, W Lake St, Minneapolis, MN 55416, United States",4,120
+879,ChIJ6TibHfozs1IR43YzMqAkJBc,Thr3 Jack,44.9875948,-93.278121,"729 N Washington Ave suite d, Minneapolis, MN 55401, United States",4.8,41
+880,ChIJ75L8dyIts1IR8qRcK7AFW-M,Sotarol Asian Kitchen,44.9732026,-93.22695660000001,"309 SE Oak St, Minneapolis, MN 55414, United States",3.9,92
+881,ChIJz4d3mtMts1IRIuI67vfRy4A,CRISP & GREEN,44.9810014,-93.2357229,"411 14th Ave SE, Minneapolis, MN 55414, United States",4.6,53
+883,ChIJhzJcYSwp9ocRU58i_geTdXA,Stone Arch,44.88283999999999,-93.21217299999999,"4300 Glumack Drive LT-2054, St Paul, MN 55111, United States",4.3,966
+884,ChIJ_-SCmBAus1IRzLHFXG4eZUc,Miller's,45.041145,-93.2577848,"547 40th Ave NE, Minneapolis, MN 55421, United States",4.8,355
+885,ChIJyztu0VU1s1IRZtOhI0H0Y_I,Pattaya Thai Restaurant,44.9532071,-93.41788299999999,"11056 Cedar Lake Rd, Minnetonka, MN 55305, United States",4.4,373
+886,ChIJ-0wIYkgts1IR3jGTOTl7-go,Rebecca's Bakery,44.9624338,-93.24167539999999,"2111 E Franklin Ave, Minneapolis, MN 55404, United States",4.5,54
+887,ChIJSRkmGRkq9ocRT_kk4bSL3cQ,Pad Thai Restaurant,44.9402347,-93.1712323,"1681 Grand Ave, St Paul, MN 55105, United States",4.2,325
+888,ChIJL9gQ7kso9ocRKP2nXSaruVk,Sosa Foods and Deli,44.93218359999999,-93.2219843,"3909 Minnehaha Ave S, Minneapolis, MN 55406, United States",4.1,10
+889,ChIJw3n3d6Uts1IRsWCBIXGU4Ps,Minnesota Barbecue Company,45.0130245,-93.2501827,"816 NE Lowry Ave, Minneapolis, MN 55418, United States",4.3,128
+890,ChIJlfstlawus1IRuZUzA_L5MS0,Original Mediterranean Grill,45.0363486,-93.1884518,"788 Cleveland Ave SW, New Brighton, MN 55112, United States",4.5,390
+891,ChIJQ4jODRgts1IRBzKqnEgmDBA,Noodles and Company,44.9734782,-93.2263615,"820 Washington Ave SE, Minneapolis, MN 55414, United States",3.8,241
+892,ChIJFaDlCYEn9ocRTwidc6i-rpk,The Fremont Restaurant & Bar,44.949411,-93.29606,"1300 Lagoon Ave #100, Minneapolis, MN 55408, United States",4,438
+893,ChIJI4Br-yYh9ocR-SZPuB7lH5g,The Hilltop,44.9109399,-93.352018,"5101 Arcadia Ave, Edina, MN 55436, United States",4.5,609
+894,ChIJLdWGsFAxs1IRX78XQFaCnP8,Nonna Rosa's Ristorante Italiano,45.031196,-93.3390647,"4168 W Broadway Ave, Minneapolis, MN 55422, United States",4.3,487
+895,ChIJxUUt0Z0ys1IRmeWcLRkgY74,Bar Zia,44.977284,-93.26335,"420 S 4th St, Minneapolis, MN 55415, United States",3.9,269
+896,ChIJcZLnG4In9ocRWCoMA6gS2e0,Nespresso Boutique Minneapolis Kitchen Window,44.9471077,-93.2978119,"3001 Hennepin Ave, Minneapolis, MN 55408, United States",4.5,25
+897,ChIJEw2aB5grs1IRV9xudqa6rSs,Kyoto Sushi,45.0055768,-93.1642042,"2100 Snelling Ave, Roseville, MN 55113, United States",4.4,1289
+898,ChIJ7eK487Ess1IR-RYXvxZfD0s,The Dubliner Pub And Café,44.9605197,-93.18964,"2162 University Ave W, St Paul, MN 55114, United States",4.4,795
+899,ChIJs-88oMgl9ocRIjkksV9Kq1s,Eddie Cheng,44.863414,-93.2895145,"720 W 78th St, Richfield, MN 55423, United States",4.2,172
+900,ChIJWSf47iQg9ocRmYtbLPXfaWQ,Hoagies Family Restaurant,44.9242968,-93.41127569999999,"824 Mainstreet, Hopkins, MN 55343, United States",4.5,701
+901,ChIJYz0Nwo8ys1IRAQ_LHQ4dX3M,Dulono's Pizza & Bar,44.9819699,-93.27299699999999,"118 N 4th St, Minneapolis, MN 55401, United States",4.1,575
+902,ChIJx094ZlQrs1IRSKKOyfRoODg,Burning Brothers Brewing,44.9588191,-93.1742663,"1750 Thomas Ave W, St Paul, MN 55104, United States",4.6,200
+903,ChIJfcRr45kys1IR6I8C9f0KeeE,Green + The Grain,44.97594790000001,-93.2707487,"Skyway Level, 109 S 7th St, Minneapolis, MN 55402, United States",4.9,43
+904,ChIJqa_Ibk4rs1IRXMOmLlKuR5o,Sole Cafe,44.9617277,-93.16672659999999,"684 Snelling Ave, St Paul, MN 55104, United States",4.4,218
+905,ChIJXwvcAaQm9ocRZA85pul-A-w,The Cheesecake Factory,44.8797293,-93.32496259999999,"2715 Southdale Center, Edina, MN 55435, United States",4,1692
+906,ChIJl8yLgOsrs1IRYEQvvzjJNMA,Baldamar,45.0144171,-93.16963439999999,"1642 County Road B2 W, Roseville, MN 55113, United States",4.9,117
+907,ChIJr7bQXV4n9ocR4QmfxFlX5qo,Falafel King,44.94934,-93.32107110000001,"3238 W Lake St, Minneapolis, MN 55416, United States",4,167
+908,ChIJeWiWVrgys1IRU4qbUumn1mY,Akwaaba Restaurant,44.9645471,-93.2775083,"1823 Nicollet Ave, Minneapolis, MN 55403, United States",4,140
+909,ChIJq_zH7Hcts1IRI-XBDifOqtY,White Castle,44.9900315,-93.25204389999999,"Minneapolis, MN 55414, United States",3.7,707
+910,ChIJ00qdY-srs1IR8gBb7LtMqm8,Granite City Food & Brewery,45.0130067,-93.1697689,"1595 Hwy 36 W Space 1005, Roseville, MN 55113, United States",4,417
+911,ChIJTdLdHp0ys1IRoGTOl7dQ5uQ,Milwaukee Road,44.9801672,-93.2636706,"225 3rd Ave S, Minneapolis, MN 55401, United States",4,42
+912,ChIJY1oqMYkys1IR8BEKQeBYPeI,The Basement Bar,44.98634149999999,-93.2754542,"511 N Washington Ave, Minneapolis, MN 55401, United States",4.2,302
+913,ChIJpwrpkBwk9ocRyrzEpCB3s74,Capriotti's,44.8729375,-93.3269858,"7143 France Ave S, Edina, MN 55435, United States",4.6,252
+914,ChIJEao9WYUp9ocRGT1ux3AG3uc,Bar Brigade,44.92747869999999,-93.18713640000001,"470 Cleveland Ave S, St Paul, MN 55105, United States",4.6,266
+915,ChIJIyv6LmAf9ocRZdkOIRYoqn0,yum! Kitchen and Bakery - Minnetonka,44.8951787,-93.4199962,"6001 Shady Oak Rd, Minnetonka, MN 55343, United States",4.4,668
+916,ChIJvQ_YYpkys1IRB6L8_v6fd-o,So Good Asian,44.9765606,-93.2678676,"230 South 6th St, Minneapolis, MN 55402, United States",4,36
+917,ChIJKfmIjZkys1IRy1KbiMhmB0Y,Krona Bar & Grill Restaurant,44.9762285,-93.2694511,"618 2nd Ave S, Minneapolis, MN 55402, United States",4.1,76
+918,ChIJvRsbToUp9ocRnrvoYJQ0nhM,Luci Ancora,44.9267128,-93.1876344,"2060 Randolph Ave, St Paul, MN 55105, United States",4.5,186
+919,ChIJ-2p1GCch9ocRmAGLkrSNSDg,Davanni's Pizza & Hot Hoagies,44.9120089,-93.3532146,"5124 Gus Young Ln, Minneapolis, MN 55436, United States",4.2,405
+920,ChIJVz9yFhsk9ocR4XuhVn2-CzI,Five Guys,44.8701,-93.328357,"3871 Gallagher Dr, Edina, MN 55435, United States",4.3,632
+921,ChIJsfLfsdUys1IR51Svh7zr_ws,Chipotle Mexican Grill,44.9553518,-93.2972197,"2600 Hennepin Ave, Minneapolis, MN 55408, United States",3.7,974
+922,ChIJZTKFN4czs1IRWG8V6Gf-Kxc,Hot Indian Skyway,44.9746775,-93.2712689,"121 S 8th St, Minneapolis, MN 55402, United States",4,27
+923,ChIJbyKwYIsn9ocRyLRXjxOnPfE,White Castle,44.9485671,-93.28000639999999,"100 W Lake St, Minneapolis, MN 55408, United States",3.6,964
+924,ChIJESPTYUgts1IRLQ_Z5fAGSP0,Encore Karaoke & Sushi Lounge,44.9624338,-93.2416755,"2111 E Franklin Ave, Minneapolis, MN 55404, United States",4.1,251
+925,ChIJN9nJI1Ays1IRimQ6JWcsPPs,Hook,44.9988955,-93.2952374,"1127 W Broadway Ave #2505, Minneapolis, MN 55411, United States",3.9,408
+926,ChIJ5da47acm9ocRZcTk6SNmNis,Big Bowl,44.877519,-93.3277468,"3669 Galleria, Edina, MN 55435, United States",4.3,693
+927,ChIJwxchdSor9ocRVbYVGHHHKC8,Sweet Cajun Boiling Seafood,44.95509089999999,-93.16233419999999,"1464 University Ave W, St Paul, MN 55104, United States",4.5,220
+928,ChIJo7c5g5Yrs1IR7bz9SpfbWC8,Szechuan,45.0075021,-93.1676949,"2193 Snelling Ave N, Roseville, MN 55113, United States",4.2,285
+929,ChIJxZLt-AAxs1IRa9vRzS36osw,Ocean Buffet,45.0603406,-93.3130011,"5800 Shingle Creek Pkwy, Minneapolis, MN 55430, United States",3.5,1020
+930,ChIJFcmvWuQj9ocR2-7lWahmn6c,Edina Eatery,44.8698894,-93.3522342,"7300 Metro Blvd # 165, Edina, MN 55439, United States",4.6,43
+932,ChIJk3nyDXAm9ocRjzGQc71PW44,Lakewinds Food Co-op Richfield MN,44.8864942,-93.2882717,"6420 Lyndale Ave S, Richfield, MN 55423, United States",4.6,124
+933,ChIJP8923K4us1IRCKsQlj_1r5g,Sarpino’s Pizzeria,45.0348829,-93.1936131,"2216 County Rd D West, New Brighton, MN 55112, United States",4.1,225
+934,ChIJU_v2rUcus1IRIxsoNniJOR8,Big Marina Grill & Deli,45.0549583,-93.2467842,"4755 Central Ave NE, Columbia Heights, MN 55421, United States",4.3,1173
+935,ChIJ9RLTFeIh9ocRw4YOlUe0sEU,Gogi Bros. House,44.8869336,-93.4176952,"6407 City W Pkwy ste c-7, Eden Prairie, MN 55344, United States",4.3,302
+936,ChIJ-6qxDsYss1IRjy16VWqABMk,Egg and I,44.9660361,-93.2041565,"2550 University Ave W Suite 125N, St Paul, MN 55114, United States",4.2,471
+937,ChIJC86CgBEts1IRUFaaWFKVSrw,QDOBA Mexican Eats,44.9801906,-93.235766,"324 14th Ave SE, Minneapolis, MN 55414, United States",4.1,370
+938,ChIJe7jZkJoh9ocR4hOPhcCJDHA,Cam Ranh Bay,44.9242239,-93.40897509999999,"712 Mainstreet, Hopkins, MN 55343, United States",4.6,120
+939,ChIJk89L-KIts1IRz4FQ--GJUuI,Lien Son Restaurant,44.9985823,-93.2412897,"1216 Broadway St NE, Minneapolis, MN 55413, United States",4.2,96
+940,ChIJKV9QrRok9ocRAPXG8kQSI4g,Q. Cumbers,44.8671885,-93.3264488,"7465 France Ave S, Edina, MN 55435, United States",4.4,1354
+941,ChIJF-OfZN0rs1IRzwfzCcMNAnE,New Bohemia - Roseville,45.0233216,-93.1651692,"2730 E Snelling Ser Dr, Roseville, MN 55113, United States",4.4,566
+942,ChIJUVN6sT0ys1IRv-rUs913z_c,Serendripity Spot,45.0150436,-93.287773,"3300 Lyndale Ave N, Minneapolis, MN 55412, United States",4.7,56
+944,ChIJ4ULJ4lcn9ocR5H149v4QCsA,El Burrito Minneapolis,44.9154364,-93.2629596,"4820 Chicago Ave, Minneapolis, MN 55417, United States",4.1,289
+945,ChIJhebJMe0rs1IRqNcMAB5x_Ps,Big Bowl,45.0121881,-93.1707189,"1595 MN-36 SPACE 685, Roseville, MN 55113, United States",4.2,561
+946,ChIJp50Hnvwrs1IRKmFQteISPsw,The Grateful Table,45.0250336,-93.1766325,"2804 Fairview Ave N, Roseville, MN 55113, United States",4.6,190
+947,ChIJOzL845Yg9ocRhgFotzfN-v4,St. Louis Park American Legion Post 282,44.9386129,-93.3625879,"6509 Walker St suite b, St Louis Park, MN 55426, United States",4.6,127
+948,ChIJXXt0JaYys1IRcHlWL1uVpD8,Golden Fingers,44.9632687,-93.2630921,"1914 Chicago Ave, Minneapolis, MN 55404, United States",4.3,174
+949,ChIJI-nkAaU0s1IRHIXd8W5Xnjs,Which Wich Superior Sandwiches,44.9627325,-93.34795480000001,"5330 Cedar Lake Rd S Suite 500, St Louis Park, MN 55416, United States",4.2,154
+950,ChIJIUPw_xUts1IRgTVSvfu7nZI,Campus Club of the University of Minnesota,44.97299599999999,-93.23527899999999,"300 Washington Avenue Southeast, Coffman Memorial Union, 4th Floor, Minneapolis, MN 55455, United States",4.6,65
+951,ChIJdxsPpHUrs1IRJgYaWLoTjSY,New Fresh Wok,44.9921416,-93.16470389999999,"1533 Larpenteur Ave W, Falcon Heights, MN 55113, United States",4.3,504
+952,ChIJg-Mf32oq9ocRrjmBuhwruCo,Colossal Cafe,44.9398156,-93.15709290000001,"1340 Grand Ave, St Paul, MN 55105, United States",4.6,739
+953,ChIJ4yGf3ZYys1IRb-8lY1prnVs,D. Brian's Kitchen & Catering - US Bank Skyway,44.975821,-93.27366699999999,"800 Nicollet Mall #210, Minneapolis, MN 55402, United States",3.1,18
+954,ChIJ7VGv2OArs1IR9W-UiQTLCgY,Pizza Lucé Roseville,45.0270558,-93.16804549999999,"2851 Snelling Ave N, Roseville, MN 55113, United States",4.4,1416
+955,ChIJjQ0fiHE1s1IRmXcsqOMM2g0,Teahouse,44.9787972,-93.4071226,"88 Nathan Ln N, Plymouth, MN 55441, United States",4.1,510
+956,ChIJ_4lMvp8g9ocRdTlqrBeMq3k,Parkway Pizza,44.9493527,-93.36043029999999,"6325 Minnetonka Blvd, St Louis Park, MN 55416, United States",4.5,345
+957,ChIJfRRkxgYo9ocRdTBBzqOV81w,Quruxlow Restaurant,44.94861059999999,-93.2542543,"1414 E Lake St, Minneapolis, MN 55407, United States",3.7,628
+958,ChIJRfN4xAAo9ocRZgQ8-9pglkk,Fabulous Catering,44.9498961,-93.2566565,"2900 13th Ave S, Minneapolis, MN 55407, United States",4.8,5
+959,ChIJo7c5t5Ays1IRbFrJCozhcHM,Bruegger's Bagels,44.9774481,-93.27097619999999,"651 Nicollet Mall #139, Minneapolis, MN 55402, United States",3.9,81
+960,ChIJyzR_nn0us1IRPt0LiKOqgCs,La Cocina de Cuco LLC,45.0363966,-93.2280097,"2301 37th Pl NE, Columbia Heights, MN 55421, United States",4.6,181
+961,ChIJr84TOnkts1IRtMcoADHnKm8,Bruegger's Bagels,44.9877342,-93.2563677,"228 E Hennepin Ave, Minneapolis, MN 55414, United States",4.2,103
+962,ChIJJUjq_Zkys1IRgfGNc72KSuQ,"The Marquette Hotel, Curio Collection by Hilton",44.976259,-93.271479,"710 S Marquette Ave, Minneapolis, MN 55402, United States",4.4,1108
+964,ChIJifRyN0sh9ocROUJp78GNjOs,Town Hall Station,44.8920019,-93.3394514,"4500 Valley View Rd, Edina, MN 55424, United States",4.5,538
+965,ChIJw--72vop9ocRPBIxQ4_kC4Q,Tillie's Farmhouse,44.9480098,-93.18713699999999,"232 Cleveland Ave N, St Paul, MN 55104, United States",4.3,388
+966,ChIJvToO9_40s1IRSCzG0vl1QjA,Mort's Deli,44.9844056,-93.3812665,"525 Winnetka Ave N, Golden Valley, MN 55427, United States",4.1,677
+967,ChIJ-dFDzpUj9ocRLPoqvFw5g_U,CRAVE Catering & Events,44.9968369,-93.23073149999999,"2100 Summer St NE, Minneapolis, MN 55413, United States",4.5,63
+968,ChIJ87DVLxsq9ocRCafTr7QL-wQ,Augustine's Bar & Bakery,44.94635239999999,-93.1710956,"1668 Selby Ave, St Paul, MN 55104, United States",4.5,653
+969,ChIJ3y8K2L0zs1IRVy9QFUUYCo4,Gold Room Restaurant & Lounge,44.9792255,-93.27382329999999,"528 Hennepin Ave, Minneapolis, MN 55403, United States",4.1,202
+970,ChIJQ5X7mhgts1IRuoIH35Vcy8g,Chipotle Mexican Grill,44.9734288,-93.2269503,"800 Washington Ave SE, Minneapolis, MN 55414, United States",4.2,519
+971,ChIJYX1Pi80us1IRJyQmgj6hLf4,The Exchange Food and Drink,45.0576101,-93.1934228,"500 5th Ave NW, New Brighton, MN 55112, United States",4.3,552
+972,ChIJWYdorP4l9ocRWxHvmX6XRh8,Galaxy Foods International,44.8735058,-93.2633817,"7128 Chicago Ave #3301, Richfield, MN 55423, United States",4.7,64
+974,ChIJu0wMZngp9ocRfLqyR_dnmQA,Highland Cafe & Bakery,44.9175031,-93.1852818,"2012 Ford Pkwy, St Paul, MN 55116, United States",4.3,268
+975,ChIJq6qqqsYq9ocR5p1EnWd4pnU,Gastrotruck,45.0123034,-93.26334949999999,"2400 University Ave NE, Minneapolis, MN 55418, United States",5,15
+976,ChIJr-VvdMgzs1IRDSM6ZO-9woY,Pair of Dice Pizza,45.0093323,-93.3149923,"2715 W Broadway Ave, Minneapolis, MN 55411, United States",4,312
+977,ChIJCfGZfkUts1IRe7URgOrOGug,The Joint Bar,44.9634784,-93.2468874,"913 Cedar Ave, Minneapolis, MN 55404, United States",4.6,61
+978,ChIJAVDk_xgq9ocRkuAk36qyZKw,French Meadow Bakery & Café,44.9399678,-93.1705444,"1662 Grand Ave, St Paul, MN 55105, United States",4.3,788
+979,ChIJpX7Wtpsys1IRFCN8K0eO4ic,The Simple Sandwich,44.9783232,-93.2670181,"215 S 4th St suite #215, Minneapolis, MN 55401, United States",4.5,34
+980,ChIJ0wMCmosp9ocRK8_U-cUN0kw,Widmer's Super Market,44.934096,-93.182081,"1936 St Clair Ave, St Paul, MN 55105, United States",4.8,70
+981,ChIJQ55bXRM0s1IRpXKoaqvMTHY,Delicious Chow Mein,45.0079219,-93.3593253,"2724 Douglas Dr N #3358, Crystal, MN 55422, United States",4,75
+982,ChIJgxIuKRkq9ocRwyw6ewF1Z2U,IndoChin Vietnamese Restaurant,44.9399723,-93.1724381,"1702 Grand Ave, St Paul, MN 55105, United States",4.2,174
+983,ChIJCbNI2yQg9ocRVq899IscvaA,Tibet Corner,44.924234,-93.4103337,"802 Mainstreet, Hopkins, MN 55343, United States",4.2,258
+984,ChIJa5MvHAQo9ocReVYZbrr98e0,Tortilleria La Perla,44.9482492,-93.25302429999999,"1515 E Lake St #101, Minneapolis, MN 55407, United States",4.3,7
+985,ChIJCckoNvEn9ocRlzmu1NTj2E0,Taqueria El Chilo,44.948187,-93.2721761,"311 E Lake St, Minneapolis, MN 55408, United States",3.9,138
+986,ChIJP97be5cys1IRduTcQnz4xjY,Naf Naf Grill,44.9744269,-93.2709351,"121 S 8th St #215, Minneapolis, MN 55402, United States",4.5,129
+987,ChIJs8oylhso9ocRy5QycOY7aCU,La Alborada,44.9482618,-93.24543129999999,"1855 E Lake St, Minneapolis, MN 55407, United States",3.9,299
+988,ChIJ-UU_Ry8q9ocR2bWKsiErJxg,Carbones Pizza,44.92680989999999,-93.17194990000002,"1698 Randolph Ave, St Paul, MN 55105, United States",4.5,501
+989,ChIJdQl9tEMts1IRqqaLec9Lt4k,Campus Cafe - Turkish Grill,44.9701536,-93.24664729999999,"1810 Riverside Ave, Minneapolis, MN 55454, United States",4.5,156
+990,ChIJ6_Ks1XYm9ocRNlKvlIheX78,Houlihan's,44.883178,-93.28584699999999,"6601 Lyndale Ave S, Richfield, MN 55423, United States",4.3,724
+991,ChIJl82px48ys1IRDQOqfgBXntg,Brothers Bar & Grill,44.9806601,-93.2737508,"430 N 1st Ave, Minneapolis, MN 55401, United States",3.8,803
+992,ChIJea-ArxQps1IR2DRfl6reE1w,Lindey's Prime Steak House,45.0505438,-93.1631376,"3600 Snelling Ave N, Arden Hills, MN 55112, United States",4.5,1145
+993,ChIJq3Sie98j9ocRfKhASuLzG9A,Los Padres Mexican Food,44.8753333,-93.3623983,"7015 Amundson Ave, Edina, MN 55439, United States",4.6,229
+994,ChIJLXC5Vokn9ocRvsrdzVBgJdw,New York Gyro,44.9486096,-93.28377669999999,"312 W Lake St, Minneapolis, MN 55408, United States",4.3,83
+995,ChIJTTX78Xovs1IRL1cWbxjGWDY,Ariya Thai Restaurant,45.0416899,-93.24769859999999,"4022 Central Ave NE, Columbia Heights, MN 55421, United States",4.7,97
+996,ChIJZz-a9o4f9ocRwARQ-3L5qR0,Nelson's,44.9499448,-93.36010759999999,"6318 Minnetonka Blvd, St Louis Park, MN 55416, United States",4.6,56
+997,ChIJcwlv1-wn9ocRnwsCoMnKuHk,Wings & Seafood To Go,44.9410892,-93.2781155,"3404 Nicollet Ave, Minneapolis, MN 55408, United States",4.6,109
+998,ChIJ72a-Xh0k9ocR7SdOxSoBnFs,COV Edina,44.8774691,-93.3238373,"3155 Galleria, Edina, MN 55435, United States",4.3,677
+999,ChIJTx0wSJoys1IRbE-gwr4URxg,Beancounter Coffeehouse,44.9778633,-93.269206,"101 S 5th St #254, Minneapolis, MN 55402, United States",4.8,57
